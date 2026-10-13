@@ -1,0 +1,268 @@
+﻿warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+
+=== PDF página 1 ===
+                  A phase-field model for non-small cell lung cancer under the
+                                  effects of immunotherapy
+
+                                    Marvin Fritz1, Christina Kuttler2, J. Tinsley Oden3, Pirmin Schlicke2, Christian
+                                    Schumann4, Andreas Wagner2,*, Barbara Wohlmuth2
+
+                                 1 Computational Methods for PDEs, Johann Radon Institute for Computational and
+                                      Applied Mathematics, Linz, Upper Austria, Austria, 2 School of Computation,
+                                        Information and Technology, Technical University of Munich, Munich, Bavaria,2023                               Germany, 3 Oden Institute for Computational Engineering and Sciences, The University
+                                               of Texas at Austin, Austin, Texas, United States of America, 4 Clinic of Pneumology,
+                                       Thoracic Oncology, Sleep and Respiratory Critical Care, Klinikverbund Allg¨au,
+                                   Kempten, Bavaria, Germany,Mar
+
+                                     * wagneran@cit.tum.de16
+
+                        Abstract
+
+                                       Formulating tumor models that predict growth under therapy is vital for improving
+                                              patient-specific treatment plans. In this context, we present our recent work on
+                                         simulating non-small-scale cell lung cancer (NSCLC) in a simple, deterministic setting
+                                               for two different patients receiving an immunotherapeutic treatment.[math.NA]                                At its core, our model consists of a simple Cahn-Hilliard-based phase-field model
+                                            describing the evolution of proliferative and necrotic tumor cells. These are coupled to a
+                                        simple nutrient model that drives the growth of the proliferative cells and their decay
+                                             into necrotic cells. A single scalar value represents the immunotherapeutic agents in the
+                                              entire lung, which decreases the proliferative cell concentration during therapy. An
+                                         ordinary differential equation (ODE) model describes their evolution. Finally, reaction
+                                       terms provide a coupling between all these equations. By assuming spherical, symmetric
+                                   tumor growth and constant nutrient inflow, we simplify this full 3D cancer simulation
+                                    model to a reduced 1D model.
+                              We can then resort to patient data gathered from computed tomography (CT) scans
+                                          over several years to verify our model. For the reduced 1D model, we show that our
+                                    model can qualitatively describe observations during immunotherapy by fitting our
+                                    model parameters to existing patient data. Our model covers cases in which the
+                                    immunotherapy is successful and limits the tumor size, as well as cases predicting a
+                                     sudden relapse, leading to exponential tumor growth.arXiv:2303.09378v1                         We then move from the reduced model back to the full 3D cancer simulation in the
+                                        lung tissue. Thereby, we show the predictive benefits a more detailed patient-specific
+                                         simulation including spatial information could yield in the future.
+
+                      Author summary
+
+                                  Lung cancer is one of the deadliest diseases, with low long-term survival rates. Its
+                                        treatment is still very heuristic since patients respond differently to the same treatment
+                                             plans. Therefore, patient-specific models for predicting tumor growth and the treatment
+                                         response are necessary for clinicians to make informed decisions about the patient’s
+
+
+
+
+
+     March 17, 2023                                                                                           1/18
+
+=== PDF página 6 ===
+       3                                                                                    0.4
+       2                                                                                                                            [cm3] 0.3       [cm3]
+                                                                                             0.2
+                                                             Q3W                Q6W              PD      EL      LCAD 1                             E          P          D                 Manual 0.1
+       0
+
+    [mm] 20                                                                                                     [cm] 12
+      15                                    E          P          D
+      RECIST 10                                                                                                                                                        RECIST 10   Q3W                Q6W              PD      EL
+       5                                                                       8
+
+                                                                                                                                          [cm2]   [mm2] 300200                                                                     100                                                                              75
+  WHO 100                             E          P          D        WHO 50   Q3W                Q6W              PD      EL
+
+           0          500         1000        1500        2000                     0      200     400     600     800     1000    1200    1400
+
+                         (A)                                                    (B)
+Fig 1. Measured patient data from CT scans. Top row: tumor volume. Middle row: RECIST value. Bottom row:
+WHO value. Vertical dashed lines indicate events that might affect the data quality or therapy. For Patient 1 E indicates an
+Emblie, P a therapy break, and D the treatment with Dexamethason. For Patient 2 Q3W is the beginning of a tree weekly
+drug administration schedule, Q6W the change to a six-weekly administration, PD the therapy end, and EL the Exitus
+Letalis.
+
+
+
+                                         for the nutrients in the interstitial space.
+                          We remark that the r−2 term does not pose any numerical issues for finite elements
+                                       since we have to apply the spherical volume measure 4πr2dr when we bring the system
+                                      into its weak form and, thus, the r-terms cancel.
+
+                   Data
+
+                                   Datasets from two clinical patients were available to verify our model. The examined
+                                     patient data consist of anonymized volumetric measurements of primary tumors and
+                                   metastases in patients with NSCLC and was acquired from routinely generated CT
+                                            slices and computations of the secondary appraisal environment syngo.CT Lung
+                              Computer Aided Detection (LCAD) workflow of Siemens Healthineers, provided in the
+                                  syngo.Via framework.1 As measurements, we have the manually segmented tumor
+                                  volume, the response evaluation criteria in solid tumors (RECIST v1.1, [58]), and the
+                                   bidimensional World Health Organization criteria (WHO), all indicating the tumor
+                                   response with respect to therapy in different defined ways.
+
+
+                               Patient 1  The patient data during the therapy is depicted in Fig. 1A, which contains
+                                   the tumor volume and the RECIST and WHO values. The tumor was diagnosed at
+                                  time t = 0, and the therapy started at time tS = 296 days. The patient received
+                                Nivolumab as an immunotherapeutic antibody every two weeks, for 30-60 minutes, in an
+                                    intravenous dose administration from this time on. At time point (E), the patient
+
+                                     1The patients were treated in the Clinic of Pneumology, Thoracic Oncology, Sleep and Respiratory
+                                              Critical Care of the Klinikverbund Allg¨au in Germany. The ethics commission of BLAEK (Ethik-
+                                   Kommission der Bayerischen Landes¨arztekammer), reference number 19021, approved the use of the
+                                           data.
+
+
+
+
+
+March 17, 2023                                                                                           6/18
+
+=== PDF página 16 ===
+                                            25. Friedl P, Gilmour D. Collective cell migration in morphogenesis, regeneration and cancer.
+                                        Nature Reviews Molecular Cell Biology. 2009;10(7):445–457.
+
+                                            26. Garcke H, Lam KF, Sitka E, Styles V. A Cahn–Hilliard–Darcy model for tumour growth
+                                          with chemotaxis and active transport. Mathematical Models and Methods in Applied
+                                                Sciences. 2016;26(06):1095–1148.
+
+                                            27. Frigeri S, Grasselli M, Rocca E. On a diffuse interface model of tumour growth.
+                                       European Journal of Applied Mathematics. 2015;26(2):215–243.
+
+                                            28. Ebenbeck M, Garcke H. Analysis of a Cahn–Hilliard–Brinkman model for tumour
+                                        growth with chemotaxis. Journal of Differential Equations. 2019;266(9):5998–6036.
+
+                                            29. Ebenbeck M, Garcke H. On a Cahn–Hilliard–Brinkman model for tumor growth and its
+                                               singular limits. SIAM Journal on Mathematical Analysis. 2019;51(3):1868–1912.
+
+                                            30. Fritz M, Lima E, Oden JT, Wohlmuth B. On the unsteady
+                                        Darcy–Forchheimer–Brinkman equation in local and nonlocal tumor growth models.
+                                         Mathematical Models and Methods in Applied Sciences. 2019;29(09):1691–1731.
+                                           doi:10.1142/S0218202519500325.
+
+                                            31. Lam KF, Wu H. Thermodynamically consistent Navier–Stokes–Cahn–Hilliard models
+                                          with mass transfer and chemotaxis. European Journal of Applied Mathematics. 2017; p.
+                                             1–50.
+
+                                            32. Lorenzo G, Jarrett AM, Meyer CT, Quaranta V, Tyson DR, Yankeelov TE. Identifying
+                                       mechanisms driving the early response of triple negative breast cancer patients to
+                                          neoadjuvant chemotherapy using a mechanistic model integrating in vitro and in vivo
+                                         imaging data. arXiv preprint arXiv:221204270. 2022;.
+
+                                            33. Garcke H, Lam KF, N¨urnberg R, Sitka E. A multiphase Cahn–Hilliard–Darcy model for
+                                      tumour growth with necrosis. Mathematical Models and Methods in Applied Sciences.
+                                             2018;28(03):525–577.
+
+                                            34. Oden JT, Hawkins A, Prudhomme S. General diffuse-interface theories and an approach
+                                              to predictive tumor growth modeling. Mathematical Models and Methods in Applied
+                                                Sciences. 2010;20(03):477–517.
+
+                                            35. Wise SM, Lowengrub JS, Frieboes HB, Cristini V. Three-dimensional multispecies
+                                             nonlinear tumor growth – I: Model and numerical method. Journal of Theoretical
+                                               Biology. 2008;253(3):524–543.
+
+                                            36. Cristini V, Li X, Lowengrub JS, Wise SM. Nonlinear simulations of solid tumor growth
+                                             using a mixture model: Invasion and branching. Journal of Mathematical Biology.
+                                              2009;58:723(4-5).
+
+                                            37. Frieboes HB, Jin F, Chuang YL, Wise SM, Lowengrub JS, Cristini V.
+                                           Three-dimensional multispecies nonlinear tumor growth – II: Tumor invasion and
+                                               angiogenesis. Journal of Theoretical Biology. 2010;264(4):1254–1278.
+
+                                            38. Lima E, Oden JT, Almeida R. A hybrid ten-species phase-field model of tumor growth.
+                                         Mathematical Models and Methods in Applied Sciences. 2014;24(13):2569–2599.
+
+                                            39. Hawkins-Daarud A, van der Zee KG, Oden JT. Numerical simulation of a
+                                         thermodynamically consistent four-species tumor growth model. International Journal
+                                                   for Numerical Methods in Biomedical Engineering. 2012;28(1):3–24.
+
+                                            40. Fritz M, Jha PK, K¨oppl T, Oden JT, Wagner A, Wohlmuth B. Modeling and simulation
+                                                   of vascular tumors embedded in evolving capillary networks. Computer Methods in
+                                          Applied Mechanics and Engineering. 2021;384:113975. doi:10.1016/j.cma.2021.113975.
+
+                                            41. Fritz M, Jha PK, K¨oppl T, Oden JT, Wohlmuth B. Analysis of a new multispecies
+                                      tumor growth model coupling 3D phase-fields with a 1D vascular network. Nonlinear
+                                              Analysis: Real World Applications. 2021;61:103331. doi:10.1016/j.nonrwa.2021.103331.
+
+                                            42. Lorenzo G, Scott MA, Tew K, Hughes TJ, Zhang YJ, Liu L, et al. Tissue-scale,
+                                              personalized modeling and simulation of prostate cancer growth. Proceedings of the
+                                           National Academy of Sciences. 2016;113(48):E7663–E7671.
+
+
+
+
+
+March 17, 2023                                                                                          16/18
+
+=== PDF página 17 ===
+                                            43. Powathil GG, Adamson DJ, Chaplain MA. Towards predicting the response of a solid
+                                      tumour to chemotherapy and radiotherapy treatments: clinical insights from a
+                                          computational model. PLoS computational biology. 2013;9(7):e1003120.
+
+                                            44. Wu C, Hormuth DA, Lorenzo G, Jarrett AM, Pineda F, Howard FM, et al. Towards
+                                                  patient-specific optimization of neoadjuvant treatment protocols for breast cancer based
+                                       on image-guided fluid dynamics. IEEE Transactions on Biomedical Engineering.
+                                            2022;69(11):3334–3344.
+
+                                            45. Jarrett AM, Hormuth DA, Barnes SL, Feng X, Huang W, Yankeelov TE. Incorporating
+                                         drug delivery into an imaging-driven, mechanics-coupled reaction diffusion model for
+                                              predicting the response of breast cancer to neoadjuvant chemotherapy: theory and
+                                             preliminary clinical results. Physics in Medicine & Biology. 2018;63(10):105015.
+
+                                            46. Rockne RC, Trister AD, Jacobs J, Hawkins-Daarud AJ, Neal ML, Hendrickson K, et al.
+                           A patient-specific computational model of hypoxia-modulated radiation resistance in
+                                            glioblastoma using 18F-FMISO-PET. Journal of the Royal Society Interface.
+                                            2015;12(103):20141174.
+
+                                            47. Colli P, Gomez H, Lorenzo G, Marinoschi G, Reali A, Rocca E. Optimal control of
+                                               cytotoxic and antiangiogenic therapies on prostate cancer growth. Mathematical Models
+                                      and Methods in Applied Sciences. 2021;31(07):1419–1468.
+
+                                            48. Fritz M, Kuttler C, Rajendran ML, Scarabosio L, Wohlmuth B. On a subdiffusive
+                                      tumour growth model with fractional time derivative. IMA Journal of Applied
+                                         Mathematics. 2021;86(04):688–729. doi:10.1093/imamat/hxab009.
+
+                                            49. Quezada SA, Peggs KS. Exploiting CTLA-4, PD-1 and PD-L1 to reactivate the host
+                                   immune response against cancer. British Journal of Cancer. 2013;108(8):1560–1565.
+                                              doi:10.1038/bjc.2013.117.
+
+                                            50. Ribas A. Tumor immunotherapy directed at PD-1. New England Journal of Medicine.
+                                            2012;366(26):2517–2519. doi:10.1056/NEJMe1205943.
+
+                                            51. Pardoll DM. The blockade of immune checkpoints in cancer immunotherapy. Nature
+                                        Reviews Cancer. 2012;12(4):252–264. doi:10.1038/nrc3239.
+
+                                            52. Rozali EN, Hato SV, Robinson BW, Lake RA, Lesterhuis WJ. Programmed death
+                                              ligand 2 in cancer-induced immune suppression. Clinical and Developmental
+                                        Immunology. 2012;2012:1–8. doi:10.1155/2012/656340.
+
+                                            53. Patel SP, Kurzrock R. PD-L1 Expression as a Predictive Biomarker in Cancer
+                                        Immunotherapy. Molecular Cancer Therapeutics. 2015;14(4):847–856.
+                                           doi:10.1158/1535-7163.MCT-14-0983.
+
+                                            54. Gompertz B. On the nature of the function expressive of the law of human mortality,
+                                      and on the new mode of determining the value of life contingencies. Philosophical
+                                            Transactions of the Royal Society. 1825;115:513–585.
+                                               doi:https://doi.org/10.1098/rstl.1825.0026.
+
+                                            55. Erbertseder K, Reichold J, Flemisch B, Jenny P, Helmig R. A Coupled
+                                         Discrete/Continuum Model for Describing Cancer-Therapeutic Transport in the Lung.
+                               PLOS ONE. 2012;7(3):1–17. doi:10.1371/journal.pone.0031966.
+
+                                            56. Garcke H, Lam KF. Well-posedness of a Cahn–Hilliard system modelling tumour growth
+                                          with chemotaxis and active transport. European Journal of Applied Mathematics.
+                                             2017;28(2):284–316.
+
+                                            57. Garcke H, Lam KF. Analysis of a Cahn–Hilliard system with non-zero Dirichlet
+                                              conditions modeling tumor growth with chemotaxis. Discrete & Continuous Dynamical
+                                          Systems-A. 2017;37(8):4277–4308.
+
+                                            58. Eisenhauer E, Therasse P, Bogaerts J, Schwartz L, Sargent D, Ford R, et al. New
+                                            response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1).
+                                       European Journal of Cancer. 2009;45(2):228–247. doi:10.1016/j.ejca.2008.10.026.
+
+                                            59. Hanin L, Rose J. Suppression of Metastasis by Primary Tumor and Acceleration of
+                                            Metastasis Following Primary Tumor Resection: A Natural Law? Bull Math Biol.
+                                            2018;80:519–539. doi:10.1007/s11538-017-0388-9.
+
+
+
+
+March 17, 2023                                                                                          17/18
+Extracción completada; páginas: 18
+exit_code=0

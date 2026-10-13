@@ -1,0 +1,41 @@
+{
+ "dolfin_version": "2019.1.0",
+ "numpy": "1.26.4",
+ "python": "3.10.22",
+ "days": 10.0,
+ "dt": 0.041666666666666664,
+ "pacientes": {
+  "P1": {
+   "segundos": 22.36047863960266,
+   "seg_por_dia_simulado": 2.236047863960266,
+   "claves_resultado": [
+    "medicine",
+    "necrotic",
+    "nutrient",
+    "proliferative",
+    "time",
+    "tumor",
+    "tumor_sigmoid",
+    "tumor_visible"
+   ],
+   "n_tiempos": 241,
+   "tumor_visible_final": 1.1609775191710224e-06
+  },
+  "P2": {
+   "segundos": 10.07614016532898,
+   "seg_por_dia_simulado": 1.007614016532898,
+   "claves_resultado": [
+    "medicine",
+    "necrotic",
+    "nutrient",
+    "proliferative",
+    "time",
+    "tumor",
+    "tumor_sigmoid",
+    "tumor_visible"
+   ],
+   "n_tiempos": 241,
+   "tumor_visible_final": 4.238797277198423e-07
+  }
+ }
+}

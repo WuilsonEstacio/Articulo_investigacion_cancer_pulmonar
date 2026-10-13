@@ -1,0 +1,177 @@
+quantity,endpoint,arm,published,reconstructed,difference,unit,tolerance,classification,source,page,note,scope,version
+riesgo_0,SG,durvalumab,264.0,264.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_3,SG,durvalumab,261.0,261.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_6,SG,durvalumab,248.0,248.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_9,SG,durvalumab,236.0,236.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_12,SG,durvalumab,223.0,223.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_15,SG,durvalumab,207.0,207.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_18,SG,durvalumab,189.0,189.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_21,SG,durvalumab,183.0,183.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_24,SG,durvalumab,172.0,171.0,-1.0,pacientes,,parcialmente reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_27,SG,durvalumab,162.0,161.0,-1.0,pacientes,,parcialmente reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_30,SG,durvalumab,141.0,141.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_33,SG,durvalumab,110.0,110.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_36,SG,durvalumab,90.0,90.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_39,SG,durvalumab,68.0,68.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_42,SG,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_45,SG,durvalumab,39.0,39.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_48,SG,durvalumab,27.0,27.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_51,SG,durvalumab,19.0,19.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_54,SG,durvalumab,11.0,11.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_57,SG,durvalumab,5.0,5.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_60,SG,durvalumab,1.0,1.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_63,SG,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_0,SG,placebo,266.0,266.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_3,SG,placebo,260.0,260.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_6,SG,placebo,247.0,247.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_9,SG,placebo,231.0,231.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_12,SG,placebo,214.0,214.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_15,SG,placebo,195.0,194.0,-1.0,pacientes,,parcialmente reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_18,SG,placebo,175.0,175.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_21,SG,placebo,164.0,164.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_24,SG,placebo,151.0,151.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_27,SG,placebo,143.0,143.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_30,SG,placebo,123.0,123.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_33,SG,placebo,97.0,97.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_36,SG,placebo,80.0,80.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_39,SG,placebo,62.0,62.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_42,SG,placebo,44.0,44.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_45,SG,placebo,31.0,31.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_48,SG,placebo,23.0,23.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_51,SG,placebo,19.0,19.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_54,SG,placebo,8.0,8.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_57,SG,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_60,SG,placebo,1.0,1.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_63,SG,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_0,SLP,durvalumab,264.0,264.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_3,SLP,durvalumab,212.0,212.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_6,SLP,durvalumab,161.0,161.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_9,SLP,durvalumab,135.0,135.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_12,SLP,durvalumab,113.0,113.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_15,SLP,durvalumab,105.0,105.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_18,SLP,durvalumab,101.0,101.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_21,SLP,durvalumab,98.0,98.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_24,SLP,durvalumab,84.0,84.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_27,SLP,durvalumab,78.0,78.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_30,SLP,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_33,SLP,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_36,SLP,durvalumab,33.0,33.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_39,SLP,durvalumab,21.0,21.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_42,SLP,durvalumab,19.0,19.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_45,SLP,durvalumab,10.0,10.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_48,SLP,durvalumab,10.0,10.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_51,SLP,durvalumab,4.0,4.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_54,SLP,durvalumab,4.0,4.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_57,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_60,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_63,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_0,SLP,placebo,266.0,266.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_3,SLP,placebo,208.0,208.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_6,SLP,placebo,146.0,146.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_9,SLP,placebo,122.0,122.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_12,SLP,placebo,100.0,100.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_15,SLP,placebo,88.0,88.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_18,SLP,placebo,79.0,79.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_21,SLP,placebo,76.0,76.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_24,SLP,placebo,71.0,71.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_27,SLP,placebo,69.0,69.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_30,SLP,placebo,47.0,47.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_33,SLP,placebo,47.0,47.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_36,SLP,placebo,34.0,34.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_39,SLP,placebo,23.0,23.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_42,SLP,placebo,22.0,22.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_45,SLP,placebo,15.0,15.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_48,SLP,placebo,14.0,14.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_51,SLP,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_54,SLP,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_57,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_60,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_63,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,original
+riesgo_0,SG,durvalumab,264.0,264.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_3,SG,durvalumab,261.0,261.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_6,SG,durvalumab,248.0,248.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_9,SG,durvalumab,236.0,236.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_12,SG,durvalumab,223.0,223.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_15,SG,durvalumab,207.0,207.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_18,SG,durvalumab,189.0,189.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_21,SG,durvalumab,183.0,183.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_24,SG,durvalumab,172.0,172.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_27,SG,durvalumab,162.0,162.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_30,SG,durvalumab,141.0,141.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_33,SG,durvalumab,110.0,110.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_36,SG,durvalumab,90.0,90.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_39,SG,durvalumab,68.0,68.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_42,SG,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_45,SG,durvalumab,39.0,39.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_48,SG,durvalumab,27.0,27.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_51,SG,durvalumab,19.0,19.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_54,SG,durvalumab,11.0,11.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_57,SG,durvalumab,5.0,5.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_60,SG,durvalumab,1.0,1.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_63,SG,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_0,SG,placebo,266.0,266.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_3,SG,placebo,260.0,260.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_6,SG,placebo,247.0,247.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_9,SG,placebo,231.0,231.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_12,SG,placebo,214.0,214.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_15,SG,placebo,195.0,195.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_18,SG,placebo,175.0,175.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_21,SG,placebo,164.0,164.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_24,SG,placebo,151.0,151.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_27,SG,placebo,143.0,143.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_30,SG,placebo,123.0,123.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_33,SG,placebo,97.0,97.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_36,SG,placebo,80.0,80.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_39,SG,placebo,62.0,62.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_42,SG,placebo,44.0,44.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_45,SG,placebo,31.0,31.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_48,SG,placebo,23.0,23.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_51,SG,placebo,19.0,19.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_54,SG,placebo,8.0,8.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_57,SG,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_60,SG,placebo,1.0,1.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_63,SG,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_0,SLP,durvalumab,264.0,264.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_3,SLP,durvalumab,212.0,212.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_6,SLP,durvalumab,161.0,161.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_9,SLP,durvalumab,135.0,135.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_12,SLP,durvalumab,113.0,113.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_15,SLP,durvalumab,105.0,105.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_18,SLP,durvalumab,101.0,101.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_21,SLP,durvalumab,98.0,98.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_24,SLP,durvalumab,84.0,84.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_27,SLP,durvalumab,78.0,78.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_30,SLP,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_33,SLP,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_36,SLP,durvalumab,33.0,33.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_39,SLP,durvalumab,21.0,21.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_42,SLP,durvalumab,19.0,19.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_45,SLP,durvalumab,10.0,10.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_48,SLP,durvalumab,10.0,10.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_51,SLP,durvalumab,4.0,4.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_54,SLP,durvalumab,4.0,4.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_57,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_60,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_63,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_0,SLP,placebo,266.0,266.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_3,SLP,placebo,208.0,208.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_6,SLP,placebo,146.0,146.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_9,SLP,placebo,122.0,122.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_12,SLP,placebo,100.0,100.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_15,SLP,placebo,88.0,88.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_18,SLP,placebo,79.0,79.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_21,SLP,placebo,76.0,76.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_24,SLP,placebo,71.0,71.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_27,SLP,placebo,69.0,69.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_30,SLP,placebo,47.0,47.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_33,SLP,placebo,47.0,47.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_36,SLP,placebo,34.0,34.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_39,SLP,placebo,23.0,23.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_42,SLP,placebo,22.0,22.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_45,SLP,placebo,15.0,15.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_48,SLP,placebo,14.0,14.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_51,SLP,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_54,SLP,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_57,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_60,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido
+riesgo_63,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo,corregido

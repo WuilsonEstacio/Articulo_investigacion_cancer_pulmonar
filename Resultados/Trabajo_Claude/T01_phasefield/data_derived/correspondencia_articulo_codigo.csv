@@ -1,0 +1,36 @@
+elemento,articulo_MBE_2023 (ubicacion),valor_efectivo_codigo (archivo:linea o funcion; commit fa8e6229),clasificacion,nota
+lambda_P_pro P1,0.36 (Tabla 1 p.6; texto p.10),52.5*6.87e-3 = 0.360675 (local_sensitivity_analysis.default_parameters_patient1),coincide (redondeo),
+lambda_P_pro P2,0.0038 (Tabla 1 p.6; texto p.12),0.55*6.87e-3 = 0.0037785 (default_parameters_patient2),coincide (redondeo),
+lambda_tau_eff P1,5.2 (Tabla 1; texto p.10),15*0.7*0.499 = 5.2395 (MED_eff),coincide (redondeo),Ver además el factor 0.7 en el término del fármaco
+lambda_tau_eff P2,0.54 (Tabla 1; texto p.12),1.1*0.499 = 0.5489 (MED_eff),discrepancia menor de redondeo,0.5489 se redondea a 0.55 (no 0.54). El preprint daba 0.55 (tabla) y 0.499 (texto)
+lambda P1 / P2,2 / 1 (Tabla 1),2.0 / 1.0 (landa),coincide,
+lambda_PN P1 / P2,0.1 / 20 (Tabla 1),0.1 / 20.0 (landa_HN),coincide,
+sigma_PN,0.2,0.2 (sigma_HN; parameters.py),coincide,
+H(.) Heaviside en ec. 2-3,escalón de Heaviside (ec. 2.1-2.3),sigmoide suave 1/(1+exp(-30 x)) (solvers.py FUN_HEAVYSIDE),discrepancia de formulación (no de valor),Regularización no declarada en el artículo
+c_m,5e-4 m2/d,5e-4 (mob_P),coincide,
+eps_P,5e-4 m,5e-4 (eps_P),coincide,
+c_Psi,2,2.0 (pot_P),coincide,
+eps_g,0.1,0.1 (gomp_reg),coincide,
+chi,0,0.0 (chi_P),coincide,
+kappa_i,1e-5 m2/d,1e-5 (kappa),coincide,
+eta_vi * phi_sigma_v (fuente de nutriente 1D),phi_sigma_v constante no reportada; eta_vi=1,fuente constante source_NUT = 1.0 (SolverNutrients),resuelto por el código,"nutrient_value=0.975 se pasa a SolverNutrients pero no interviene en las formas débiles"
+alpha_H,1 (Tabla 1 MBE),1.0 (alpha_healthy),coincide,El preprint tenía 4 (intercambiado)
+alpha_P,4 (Tabla 1 MBE),4.0 (alpha_tumor),coincide,El preprint tenía 1
+consumo por células sanas,alpha_H (1 - phi_P) phi_sigma (ec. 2.5 / 10),alpha_H * (1 - phi_N - phi_P) en create_system_PN_i -> SolverNutrients,discrepancia de formulación,Las células necróticas no consumen en el código
+término del fármaco,(lambda_tau_eff / omega) phi_P phi_tau/(phi_tau+phi50) con omega=80 (ec. 2.2; Tabla 1),MED_eff * 0.7 / 80 * MED*PRO/(MED+MED_hal) (solvers.py ~l.342),discrepancia de formulación (factor 0.7),Equivale a omega_efectivo = 80/0.7 = 114.29. 0.7 kg coincide con la definición del preprint (1/omega = peso pulmonar/peso corporal)
+phi50,1.012e16 ('mol'),1.012e16 (MED_hal),coincide (unidad: número de moléculas),
+d_tau,0.24 / 0.20 g,0.240 / 0.2 (MED_dos),coincide,
+M_tau,146000 / 143600 g/mol,146000 / 143600 (MED_mas),coincide,
+t_half,26.7 / 22.0 d,26.7 / 22.0 (MED_tim),coincide,
+umbral volumen visible,0.3 sobre 'phi' (p.7; campo no especificado),0.3 sobre phi_P + phi_N = phi_T (SolverTumorPN.get_tumor_mass_threshold),resuelto por el código,
+radio dominio 1D,4 cm (p.10),r_max = 0.04 m,coincide,
+elementos 1D,500 (p.10),P1: 125*4 = 500; P2: 125*8 = 1000,discrepancia (P2),
+dt,1/24 d,1/24 d (local_sensitivity_analysis __main__),coincide,
+subpasos PK,32 (preprint p.7),1/24/32 (create_system_PN_i),coincide,
+condición inicial P1,no reportada,"perfil 1/(exp(2000 (r - r0)) + 1), r0 = 0.006074216961365892 m",resuelto por el código,
+condición inicial P2,'plausible tumor volume' (p.12),r0 = 0.0045 m,resuelto por el código,
+phi_tau(0) P2,no reportado,1.2e17/2 = 6e16,resuelto por el código,
+inicio de terapia P1,t_S = 296 d desde el diagnóstico (p.8),día 146 de simulación = día 322 de los datos (desfase 176 d: end_therapy_day = 1655-176),discrepancia texto-código,"El código coincide con la Fig. 2A del preprint (primera dosis en ~322; ficha D02 §14)"
+esquema P2,Q6W desde 514 d; fin 1063 d (p.10),Q6W desde 557 d de simulación (= 671 de los datos; desfase 114); fin 1104 (= 1218),discrepancia texto-código,"El código coincide con las Figs. 1B/2B del preprint (ficha D02 §14)"
+T para la Tabla 2,'end of the respective immunotherapies' (p.16),final_time P1 = 1470 d (fin de terapia 1479); P2 = 1102 d (fin 1104),discrepancia menor,9 y 2 días antes del fin de la terapia
+definición de g,g = (dQ/dalpha)/Q * alpha / 100% (ec. 4.1; relativo a un 1 % de cambio),g = (Q+ - Q-)/(2 h alpha Q) con alpha(1±h) (run_local_sensitivity_analysis),discrepancia texto-código (evaluada con la Tabla 2),"El código no multiplica por alpha ni divide por 100. Evaluado el 12-oct-2026 (INFORME_T01 §4.5): salida directa 0/88; con x alpha/100, 88/88 a 3 cifras significativas y 88/88 rangos"

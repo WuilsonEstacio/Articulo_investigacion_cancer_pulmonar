@@ -1,0 +1,162 @@
+[
+ {
+  "archivo": "A Multidisciplinary Hyper-Modeling Scheme in Personalized.pdf",
+  "sha256": "0405788eea5d1ee9b31053c0eee8f2b7aebdd579d6cae8221fdb3cd1127c0133",
+  "paginas": 37,
+  "caracteres": 138164,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.7",
+   "title": "A Multidisciplinary Hyper-Modeling Scheme in Personalized In Silico Oncology: Coupling Cell Kinetics with Metabolism, Signaling Networks, and Biomechanics as Plug-In Component Models of a Cancer Digital Twin",
+   "author": "Eleni Kolokotroni, Daniel Abler, Alokendra Ghosh, Eleftheria Tzamali, James Grogan, Eleni Georgiadi, Philippe Büchler, Ravi Radhakrishnan, Helen Byrne, Vangelis Sakkalis, Katerina Nikiforaki, Ioannis Karatzanis, Nigel J. B. McFarlane, Djibril Kaba, Feng Dong, Rainer M. Bohle, Eckart Meese, Norbert Graf, Georgios Stamatakos and on behalf of the CHIC Project Consortium",
+   "subject": "The massive amount of human biological, imaging, and clinical data produced by multiple and diverse sources necessitates integrative modeling approaches able to summarize all this information into answers to specific clinical questions. In this paper, we present a hypermodeling scheme able to combine models of diverse cancer aspects regardless of their underlying method or scale. Describing tissue-scale cancer cell proliferation, biomechanical tumor growth, nutrient transport, genomic-scale aberrant cancer cell metabolism, and cell-signaling pathways that regulate the cellular response to therapy, the hypermodel integrates mutation, miRNA expression, imaging, and clinical data. The constituting hypomodels, as well as their orchestration and links, are described. Two specific cancer types, Wilms tumor (nephroblastoma) and non-small cell lung cancer, are addressed as proof-of-concept study cases. Personalized simulations of the actual anatomy of a patient have been conducted. The hypermodel has also been applied to predict tumor control after radiotherapy and the relationship between tumor proliferative activity and response to neoadjuvant chemotherapy. Our innovative hypermodel holds promise as a digital twin-based clinical decision support system and as the core of future in silico trial platforms, although additional retrospective adaptation and validation are necessary.",
+   "keywords": "in silico medicine; in silico oncology; cancer; hypermodeling; digital twin; virtual twin; computational oncology; Wilms tumor; non-small cell lung cancer",
+   "creator": "LaTeX with hyperref",
+   "producer": "pdfTeX-1.40.25",
+   "creationDate": "D:20240430152202+08'00'",
+   "modDate": "D:20240430103229+02'00'"
+  }
+ },
+ {
+  "archivo": "A phase-field model for non-small cell lung cancer under the.pdf",
+  "sha256": "5d800b9fb3dcb9756db241371ff6dda210eb7135ed7ce68a2767225aa2926c08",
+  "paginas": 18,
+  "caracteres": 52527,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.5",
+   "creator": "LaTeX with hyperref",
+   "producer": "pdfTeX-1.40.21",
+   "creationDate": "D:20230317003924Z",
+   "modDate": "D:20230317003924Z"
+  }
+ },
+ {
+  "archivo": "Applications of lung cancer organoids .pdf",
+  "sha256": "c4d3455c53c0a6a318619d438fdb9418308bc34ce3c99c65bfef0e5e8a3b9519",
+  "paginas": 13,
+  "caracteres": 61647,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.4",
+   "title": "Applications of lung cancer organoids in precision medicine: from bench to bedside",
+   "author": " Huihui Li",
+   "subject": "Cell Communication and Signaling, https://doi.org/10.1186/s12964-023-01332-9",
+   "creator": "Adobe InDesign 15.1 (Windows)",
+   "producer": "Adobe PDF Library 15.0; modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)",
+   "creationDate": "D:20231204054658Z",
+   "modDate": "D:20231206085644+01'00'"
+  }
+ },
+ {
+  "archivo": "Durvalumab-after-Chemoradiotherapy-in-Limited-Stage-Small-Cell-Lung-Cancer.pdf",
+  "sha256": "44b9eb70e00ad09bd8d80c014b585dd85f6a2a8f1ac1e6b8bdd3d68503234d0c",
+  "paginas": 15,
+  "caracteres": 66789,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.3",
+   "title": "Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer",
+   "subject": "N Engl J Med 2024.391:1313-1327",
+   "creator": "Adobe InDesign 19.5 (Macintosh)",
+   "producer": "Adobe PDF Library 17.0; modified using iText 4.2.0 by 1T3XT",
+   "creationDate": "D:20240924163809-04'00'",
+   "modDate": "D:20241014070955-07'00'"
+  }
+ },
+ {
+  "archivo": "Mathematical Modeling Support for Lung Cancer Therapy—A Short Review.pdf",
+  "sha256": "318fd1f963c2785acffe27703e858b3e7526cd5d46a7eda069cfed81c10fdcf6",
+  "paginas": 21,
+  "caracteres": 83918,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.7",
+   "title": "Mathematical Modeling Support for Lung Cancer Therapy—A Short Review",
+   "author": "Jaroslaw Smieja",
+   "subject": "The paper presents a review of models that can be used to describe dynamics of lung cancer growth and its response to treatment at both cell population and intracellular processes levels. To address the latter, models of signaling pathways associated with cellular responses to treatment are overviewed. First, treatment options for lung cancer are discussed, and main signaling pathways and regulatory networks are briefly reviewed. Then, approaches used to model specific therapies are discussed. Following that, models of intracellular processes that are crucial in responses to therapies are presented. The paper is concluded with a discussion of the applicability of the presented approaches in the context of lung cancer.",
+   "keywords": "mathematical modeling; lung cancer; anticancer therapies; metastasis ",
+   "creator": "LaTeX with hyperref",
+   "producer": "pdfTeX-1.40.21",
+   "creationDate": "D:20230925174012+08'00'",
+   "modDate": "D:20230925120655+02'00'"
+  }
+ },
+ {
+  "archivo": "Modeling small cell lung cancer (SCLC) .pdf",
+  "sha256": "74c1ca7ce10c3c9e517bc47695a9510f077ceecc879daa122a8c9ff33f3e56c6",
+  "paginas": 17,
+  "caracteres": 75128,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.4",
+   "title": "Microsoft Word - 100710.docx",
+   "author": "Top",
+   "creator": "Adobe InDesign CS5.5 (7.5)",
+   "producer": "Adobe PDF Library 9.9",
+   "creationDate": "D:20180530154844+05'30'",
+   "modDate": "D:20180530154900+05'30'"
+  }
+ },
+ {
+  "archivo": "Reduced Lung-Cancer Mortality with Low-Dose Computed Tomographic Screening.pdf",
+  "sha256": "cbeaf897f8fcca5bb594ba0f2e5da4d98605aa1c385bec95a17f57c002b135e7",
+  "paginas": 22,
+  "caracteres": 63254,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.4",
+   "creator": "AH Formatter V6.0 R1c (6,0,2011,1003) for Linux64",
+   "producer": "Antenna House PDF Output Library 2.6.0 (Linux64)",
+   "creationDate": "D:20150311185204-05'00'",
+   "modDate": "D:20150311185204-05'00'"
+  }
+ },
+ {
+  "archivo": "Reduced Lung-Cancer Mortality.pdf",
+  "sha256": "b8f8a7138e6abedfdba911f670c087169b2314fc95426727e1909a8a41034985",
+  "paginas": 12,
+  "caracteres": 50034,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.4",
+   "producer": "iText 1.4.8 (by lowagie.com)",
+   "creationDate": "D:20261010224328Z",
+   "modDate": "D:20261010224328Z"
+  }
+ },
+ {
+  "archivo": "Simulating non-small cell lung cancer with a multiscale agent-based .pdf",
+  "sha256": "6c190489ee6d36c48001a1bd26b1c67d6acd03d4ba7c6564484a7c916cfce470",
+  "paginas": 14,
+  "caracteres": 57639,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.6",
+   "title": "1742-4682-4-50.fm",
+   "author": "Mosud.Ali",
+   "creator": "FrameMaker 8.0",
+   "producer": "Acrobat Distiller 8.1.0 (Windows)",
+   "creationDate": "D:20080224132048Z",
+   "modDate": "D:20080225143354Z"
+  }
+ },
+ {
+  "archivo": "lUNG CANCER TARGETED THERAPY.pdf",
+  "sha256": "0821896bccf94736a34aa077f3e05255f2afd432329a25c8a4e1407b2fc50844",
+  "paginas": 15,
+  "caracteres": 61720,
+  "paginas_poco_texto": [],
+  "metadata": {
+   "format": "PDF 1.7",
+   "title": "Lung Cancer: Targeted Therapy in 2025",
+   "author": "Nicole Bouchard and Nathalie Daaboul",
+   "subject": "Lung cancer treatment has changed in the last twenty years since the discovery of EGFR mutations. In this article, we will review the current state of the art for non-small cell lung cancer (NSCLC) actionable genomic alterations (AGA). AGAs are mostly found in lung adenocarcinomas, a subtype of non-small cell lung cancers. We will focus on the current treatment for EGFR mutations, ALK fusions, ROS1 fusions, BRAF V600E mutations, MET exon 14-skipping mutations, RET fusions, KRAS G12C mutations, ERBB2 mutations (also called HER2 mutations), and NTRK fusions. We will also touch on the key toxicities associated with these medications. Treatments are mostly available for the metastatic stage, but we will also discuss adjuvant therapy for EGFR mutations and ALK fusions, as well as stage III post-chemoradiotherapy treatment for EGFR lung cancer.",
+   "keywords": "lung cancer; molecular testing; targeted therapy",
+   "creator": "LaTeX with hyperref",
+   "producer": "pdfTeX-1.40.25",
+   "creationDate": "D:20250302164220+08'00'",
+   "modDate": "D:20250302094556+01'00'"
+  }
+ }
+]

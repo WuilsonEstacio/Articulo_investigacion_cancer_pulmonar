@@ -1,0 +1,5 @@
+endpoint,arm,n,events_published,curve_page,risk_source,events_source,support_end,pdf_sha256
+SG,durvalumab,264,115,6,Fig. 1A p.6 (1318); ficha D04 §4.4,p.7; Fig. 1A,60.204431810001374,44b9eb70e00ad09bd8d80c014b585dd85f6a2a8f1ac1e6b8bdd3d68503234d0c
+SG,placebo,266,146,6,Fig. 1A p.6; ficha §4.4,p.7; Fig. 1A,60.953281312811306,44b9eb70e00ad09bd8d80c014b585dd85f6a2a8f1ac1e6b8bdd3d68503234d0c
+SLP,durvalumab,264,139,8,Fig. 2A p.8 (1320); ficha §4.4,p.7; Fig. 2 p.9,55.36269625971778,44b9eb70e00ad09bd8d80c014b585dd85f6a2a8f1ac1e6b8bdd3d68503234d0c
+SLP,placebo,266,169,8,Fig. 2A p.8; ficha §4.4,p.7; Fig. 2 p.9,55.81810746822571,44b9eb70e00ad09bd8d80c014b585dd85f6a2a8f1ac1e6b8bdd3d68503234d0c

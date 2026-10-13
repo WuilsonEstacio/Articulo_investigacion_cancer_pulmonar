@@ -1,0 +1,785 @@
+{
+ "fecha_consulta": "2026-10-10T18:19:33",
+ "servicio": "Europe PMC REST search",
+ "busquedas": {
+  "B01_grupo_phasefield": {
+   "consulta": "AUTH:\"Schlicke P\" AND (lung OR NSCLC)",
+   "n_resultados": 11,
+   "primeros": [
+    {
+     "title": "Effective tumor kinetics inferred from single routine H&E biopsies enable counterfactual virtual radiotherapy trials",
+     "authorString": "Schlicke P, Ercan C, Ranjbar S, Seldomridge AN, Aggarwal S, Mehta A, Sainz TP, Zahid MU, Fang P, Hofmann VA, Pasetto S, Cisneros Napravnik T, Puebla-Osorio N, Kuttler C, Klopp A, Colbert L, Holder AM, Weiser R, Lin SH, Torres-Cabala CA, Vega F, Yuan Y, Enderling H.",
+     "pubYear": "2026",
+     "journalTitle": null,
+     "doi": "10.64898/2026.09.10.26362768",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "Gompertz growth with a shared carrying capacity optimally simulates primary and metastatic tumor growth dynamics.",
+     "authorString": "Schlicke P, Korangath P, Pan X, Ercan C, Gabrielson K, Werhane L, Yuan Y, Benzekry S, Ivkov R, Enderling H.",
+     "pubYear": "2026",
+     "journalTitle": "Br J Cancer",
+     "doi": "10.1038/s41416-025-03306-9",
+     "pmid": "41735583",
+     "pmcid": "PMC13035863",
+     "citedByCount": 0
+    },
+    {
+     "title": "Computational markers for personalized prediction of outcomes in non-small cell lung cancer patients with brain metastases.",
+     "authorString": "Benzekry S, Schlicke P, Mogenet A, Greillier L, Tomasini P, Simon E.",
+     "pubYear": "2024",
+     "journalTitle": "Clin Exp Metastasis",
+     "doi": "10.1007/s10585-023-10245-3",
+     "pmid": "38117432",
+     "pmcid": null,
+     "citedByCount": 7
+    },
+    {
+     "title": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy.",
+     "authorString": "Wagner A, Schlicke P, Fritz M, Kuttler C, Oden JT, Schumann C, Wohlmuth B.",
+     "pubYear": "2023",
+     "journalTitle": "Math Biosci Eng",
+     "doi": "10.3934/mbe.2023828",
+     "pmid": "38052574",
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "Computational markers for personalized prediction of outcomes in non-small cell lung cancer patients with brain metastases",
+     "authorString": "Benzekry S, Schlicke P, Mogenet A, Greillier L, Tomasini P, Simon E.",
+     "pubYear": "2023",
+     "journalTitle": null,
+     "doi": "10.21203/rs.3.rs-3367167/v1",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "Predicting resistance and pseudoprogression: are minimalistic immunoediting mathematical models capable of forecasting checkpoint inhibitor treatment outcomes in lung cancer?",
+     "authorString": "Scibilia KR, Schlicke P, Schneller F, Kuttler C.",
+     "pubYear": "2024",
+     "journalTitle": "Math Biosci",
+     "doi": "10.1016/j.mbs.2024.109287",
+     "pmid": "39218211",
+     "pmcid": null,
+     "citedByCount": 3
+    },
+    {
+     "title": "Mechanistic modeling of brain metastases in NSCLC provides computational markers for personalized prediction of outcome",
+     "authorString": "Benzekry S, Schlicke P, Tomasini P, Simon E.",
+     "pubYear": "2023",
+     "journalTitle": null,
+     "doi": "10.1101/2023.01.10.23284189",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 1
+    },
+    {
+     "title": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy",
+     "authorString": "Wagner A, Schlicke P, Fritz M, Kuttler C, Oden JT, Schumann C, Wohlmuth B.",
+     "pubYear": "2023",
+     "journalTitle": null,
+     "doi": "10.1101/2023.03.20.533400",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 1
+    }
+   ]
+  },
+  "B02_phasefield_citas": {
+   "consulta": "CITES:38052574_MED",
+   "n_resultados": 0,
+   "primeros": []
+  },
+  "B03_crecimiento_ICI_modelos_clasicos": {
+   "consulta": "(TITLE:\"tumor growth\" OR TITLE:\"tumour growth\" OR TITLE:\"mathematical model\") AND (immunotherapy OR \"immune checkpoint\") AND (\"non-small cell lung\" OR NSCLC) AND (Gompertz OR logistic OR exponential)",
+   "n_resultados": 44,
+   "primeros": [
+    {
+     "title": "An FDA analysis of the association of tumor growth rate, overall survival, and progression-free survival in patients with metastatic non-small cell lung cancer.",
+     "authorString": "Malinou JN, Fan J, Cheng J, Gong Y, Shen YL, Larkins E.",
+     "pubYear": "2026",
+     "journalTitle": "Oncologist",
+     "doi": "10.1093/oncolo/oyag009",
+     "pmid": "41546388",
+     "pmcid": "PMC12958112",
+     "citedByCount": 3
+    },
+    {
+     "title": "Assessing immunotherapy response: going beyond RECIST by integrating early tumor growth kinetics.",
+     "authorString": "Felfli M, Thinnes A, Jacques S, Liu Y, Iannessi A.",
+     "pubYear": "2024",
+     "journalTitle": "Front Immunol",
+     "doi": "10.3389/fimmu.2024.1470555",
+     "pmid": "39759519",
+     "pmcid": "PMC11695367",
+     "citedByCount": 5
+    },
+    {
+     "title": "Tumor-Derived Complement C3 Overexpression in STK11-Mutant Lung Adenocarcinoma Drives Tumor Growth and Immune Checkpoint Inhibitor Resistance.",
+     "authorString": "Suzuki S, Kandar B, Ting C, Deraska P, Chen TA, Giridharan T, Khan ANH, Attwood K, Yu H, Catalfamo K, Singh PK, Bushey RT, Gottlin EB, Campa MJ, Patz EF, Ajona D, Pio R, Segal BH, Yau EH.",
+     "pubYear": "2026",
+     "journalTitle": "Cancer Immunol Res",
+     "doi": "10.1158/2326-6066.cir-25-0534",
+     "pmid": "42048614",
+     "pmcid": "PMC13348722",
+     "citedByCount": 2
+    },
+    {
+     "title": "Cyclooxygenases in pancreatic ductal adenocarcinoma: are they inflammatory catalysts for tumor growth.",
+     "authorString": "Orhan A, Orhan T, Raskov H, Gögenur I.",
+     "pubYear": "2026",
+     "journalTitle": "Front Oncol",
+     "doi": "10.3389/fonc.2026.1916208",
+     "pmid": "42626236",
+     "pmcid": "PMC13491034",
+     "citedByCount": 0
+    },
+    {
+     "title": "Glucagon-like peptide-1 receptor agonism improves lung cancer outcomes and tumor growth control.",
+     "authorString": "Pachimatla AG, Fitzgerald B, Ogidigo J, Bhatia M, Smith RJ, Ratnakaram K, Kalvapudi S, Vedire Y, Washington D, Vethanayagam Rr R, Hsiao HH, Rosario S, Sanghvi VR, Barbi J, Yendamuri S.",
+     "pubYear": "2025",
+     "journalTitle": "JCI Insight",
+     "doi": "10.1172/jci.insight.195484",
+     "pmid": "40857107",
+     "pmcid": "PMC12513478",
+     "citedByCount": 13
+    },
+    {
+     "title": "Tumor growth rate for prognostic stratification and treatment optimization in unresectable hepatocellular carcinoma treated with TACE combined with systemic therapy.",
+     "authorString": "Chen G, Wang M, Huang X, Zhang Z, Wu Y, Chen X, Guo X, Zheng S, Zheng T, Chen H, Wu J, Zhang B.",
+     "pubYear": "2026",
+     "journalTitle": "BMC Gastroenterol",
+     "doi": "10.1186/s12876-025-04596-2",
+     "pmid": "41555236",
+     "pmcid": "PMC12896348",
+     "citedByCount": 1
+    },
+    {
+     "title": "Eco-Evolutionary Dynamics of Proliferation Heterogeneity: A Phenotype-Structured Model for Tumor Growth and Treatment Response.",
+     "authorString": "Schmalenstroer L, Chen H, Rockne RC, Farahpour F.",
+     "pubYear": "2026",
+     "journalTitle": "Bull Math Biol",
+     "doi": "10.1007/s11538-026-01740-1",
+     "pmid": "42667491",
+     "pmcid": "PMC13526070",
+     "citedByCount": 0
+    },
+    {
+     "title": "Regulatory T-cell Sensing of Extracellular ATP via P2RX7 Promotes Their Accumulation and Suppression and Drives Lung Tumor Growth.",
+     "authorString": "Santiago-Carvalho I, Francisco R, Macedo BG, Salgado CL, Stoll CR, Shao S, Beniwal A, Kwok T, Banuelos A, Cione MP, White E, Johnston TM, Leff CL, Silva Junior I, Carvalho de Souza F, Thant W, Pandya P, D'Império Lima MR, Fernandez-Bussy S, Abia-Trujillo D, Vu LH, Tran NL, Husta BC, Copland JA, Gounari F, Justilien V, Lancaster JN, Borges da Silva H.",
+     "pubYear": "2026",
+     "journalTitle": "Cancer Immunol Res",
+     "doi": "10.1158/2326-6066.cir-25-0567",
+     "pmid": "41564348",
+     "pmcid": "PMC12927004",
+     "citedByCount": 2
+    }
+   ]
+  },
+  "B04_ADRIATIC_reconstruccion": {
+   "consulta": "(ADRIATIC OR \"limited-stage small-cell\") AND durvalumab AND (\"cost-effectiveness\" OR \"partitioned survival\" OR \"reconstructed\" OR \"individual patient data\")",
+   "n_resultados": 44,
+   "primeros": [
+    {
+     "title": "Cost-effectiveness of durvalumab consolidation therapy in limited-stage small-cell lung cancer: A Chinese and U.S. payer perspective analysis.",
+     "authorString": "Wang C, Liu S, Yang C, Guo Y, Zhang R, Wang Y, Song Y, Liu M, Zhang R, Xuan T, Zhao W, Li J.",
+     "pubYear": "2026",
+     "journalTitle": "J Cancer Res Ther",
+     "doi": "10.4103/jcrt.jcrt_336_26",
+     "pmid": "42813855",
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "Cost-Effectiveness Analysis of Durvalumab in Limited-Stage Small Cell Lung Cancer in the United States.",
+     "authorString": "Jani CT, Manoharan A, Han S, Zheng X, Malik S, Morgenstern-Kaplan D, Salazar AS, Kareff S, Lopes G.",
+     "pubYear": "2025",
+     "journalTitle": "JCO Glob Oncol",
+     "doi": "10.1200/go-25-00225",
+     "pmid": "41418077",
+     "pmcid": null,
+     "citedByCount": 1
+    },
+    {
+     "title": "Durvalumab consolidation therapy in patients with stage III small cell lung cancer after concurrent chemoradiation: a China-based cost-effectiveness analysis.",
+     "authorString": "Zhang H, Liu Y, Cai B, Wang M, Li H, Wang H.",
+     "pubYear": "2025",
+     "journalTitle": "Front Oncol",
+     "doi": "10.3389/fonc.2025.1643022",
+     "pmid": "41267974",
+     "pmcid": "PMC12626786",
+     "citedByCount": 1
+    },
+    {
+     "title": "Cost-Effectiveness of Durvalumab After Chemoradiotherapy in Limited-Stage SCLC.",
+     "authorString": "Tsai SH, Tsai JH, Chen LJ, Yang SC.",
+     "pubYear": "2025",
+     "journalTitle": "JTO Clin Res Rep",
+     "doi": "10.1016/j.jtocrr.2025.100879",
+     "pmid": "41235298",
+     "pmcid": "PMC12605132",
+     "citedByCount": 1
+    },
+    {
+     "title": "International cost-effectiveness analysis of durvalumab consolidation treatment after chemoradiotherapy for patients with limited-stage small-cell lung cancer.",
+     "authorString": "Liu K, Zhu Y, Zhu H.",
+     "pubYear": "2025",
+     "journalTitle": "Transl Lung Cancer Res",
+     "doi": "10.21037/tlcr-2025-354",
+     "pmid": "40948851",
+     "pmcid": "PMC12432599",
+     "citedByCount": 1
+    },
+    {
+     "title": "Efficacy and safety of immunotherapy combined with chemoradiotherapy in limited-stage small cell lung cancer: a systematic evaluation and meta-analysis of randomized controlled trials.",
+     "authorString": "Wang Y, Liu Y, Zhan N, Jin K, Qi L, Liu S.",
+     "pubYear": "2026",
+     "journalTitle": "Front Immunol",
+     "doi": "10.3389/fimmu.2026.1731036",
+     "pmid": "42558713",
+     "pmcid": "PMC13438153",
+     "citedByCount": 0
+    },
+    {
+     "title": "Economic and health impact of integrating smoking cessation services into NHS cancer care pathways in England: a modelling study.",
+     "authorString": "Green M, Harper S, Telfer-Thomas E, Agrawal S, Callister MEJ, Lane JL, Warren G, Murray RL, Evison M, Sheikh M, Malcolm R.",
+     "pubYear": "2026",
+     "journalTitle": "Lancet Reg Health Eur",
+     "doi": "10.1016/j.lanepe.2026.101869",
+     "pmid": "42824467",
+     "pmcid": "PMC13628226",
+     "citedByCount": 0
+    },
+    {
+     "title": "Consolidative thoracic radiotherapy following first-line chemo-immunotherapy in extensive-stage small-cell lung cancer: A systematic review and meta-analysis.",
+     "authorString": "Canaslan K, Kahraman EG, Öztop İ, Güven DC.",
+     "pubYear": "2026",
+     "journalTitle": "Ther Adv Med Oncol",
+     "doi": "10.1177/17588359261477612",
+     "pmid": "42591674",
+     "pmcid": "PMC13462642",
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B05_ADRIATIC_actualizacion": {
+   "consulta": "ADRIATIC AND durvalumab AND \"limited-stage\" AND (PUB_YEAR:2025 OR PUB_YEAR:2026)",
+   "n_resultados": 147,
+   "primeros": [
+    {
+     "title": "Population Pharmacokinetics and Exposure-response Analysis of Durvalumab in Patients with Limited-stage Small-cell Lung Cancer in the Phase 3 ADRIATIC Study.",
+     "authorString": "Su H, Zhao BJ, Fu Y, Zhang YY, Chugh P, Casson E, Lim K, Ren S, Zhou D, Ma P, Fan C.",
+     "pubYear": "2026",
+     "journalTitle": "AAPS J",
+     "doi": "10.1208/s12248-026-01295-y",
+     "pmid": "42806195",
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "Cost-effectiveness of durvalumab consolidation therapy in limited-stage small-cell lung cancer: A Chinese and U.S. payer perspective analysis.",
+     "authorString": "Wang C, Liu S, Yang C, Guo Y, Zhang R, Wang Y, Song Y, Liu M, Zhang R, Xuan T, Zhao W, Li J.",
+     "pubYear": "2026",
+     "journalTitle": "J Cancer Res Ther",
+     "doi": "10.4103/jcrt.jcrt_336_26",
+     "pmid": "42813855",
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "Toripalimab consolidation after chemoradiotherapy in limited-stage small cell lung cancer: a phase II, randomized controlled study (GASTO-1052A).",
+     "authorString": "Zhang P, Wang D, He W, Zhang H, Dong Y, Situ Y, Wang M, Zhang Y, Wei S, Qiu B, Huang Y, Liu H.",
+     "pubYear": "2026",
+     "journalTitle": "J Immunother Cancer",
+     "doi": "10.1136/jitc-2026-016467",
+     "pmid": "42823088",
+     "pmcid": "PMC13629860",
+     "citedByCount": 0
+    },
+    {
+     "title": "Durvalumab Consolidation Treatment Following Concurrent Chemoradiotherapy in Limited-Stage SCLC: ADRIATIC China Subgroup Analysis.",
+     "authorString": "Ma L, Wang Q, Fang J, Shi A, Wu L, Lu S, Zhu Z, Liu Y, Wang Q, Jiang H, Li X, Wang M, Chen Y, Lu H, Duan Y, Meng R, Jiang L, Zhao L, Zhu W, Chen Y, Szadkowski L, Olivo Y, Senan S.",
+     "pubYear": "2026",
+     "journalTitle": "JTO Clin Res Rep",
+     "doi": "10.1016/j.jtocrr.2026.101022",
+     "pmid": "42529258",
+     "pmcid": "PMC13416821",
+     "citedByCount": 0
+    },
+    {
+     "title": "Real-world analysis in patients with limited-stage small-cell lung cancer who received durvalumab after concurrent chemoradiotherapy.",
+     "authorString": "Yu J, Yang X, Shan J, Yang D, Chang X, Jiang L, Long L, Teng Y, Dong X, Yu R, Yu H, Zhao J, Ma S, Shi A.",
+     "pubYear": "2026",
+     "journalTitle": "Transl Lung Cancer Res",
+     "doi": "10.21037/tlcr-2026-0287",
+     "pmid": "42582865",
+     "pmcid": "PMC13458671",
+     "citedByCount": 0
+    },
+    {
+     "title": "Durvalumab Consolidation in Limited-Stage SCLC: Outcomes by Prior Concurrent Chemoradiotherapy and Prophylactic Cranial Irradiation in the Phase 3 ADRIATIC Trial.",
+     "authorString": "Senan S, Cho BC, Laktionov KK, Zenke Y, Lee KH, Wang Q, Navarro A, Buchmeier EL, Goksu SS, Badzio A, Shi A, Daniel DB, Zemanova M, Iyengar P, Paz-Ares L, Szadkowski L, Chugh P, Lai WV, Spigel DR.",
+     "pubYear": "2026",
+     "journalTitle": "J Thorac Oncol",
+     "doi": "10.1016/j.jtho.2026.103703",
+     "pmid": "41921748",
+     "pmcid": null,
+     "citedByCount": 1
+    },
+    {
+     "title": "Durvalumab: A Review in Limited-Stage Small Cell Lung Cancer.",
+     "authorString": "France NL, Syed YY.",
+     "pubYear": "2026",
+     "journalTitle": "Target Oncol",
+     "doi": "10.1007/s11523-026-01207-2",
+     "pmid": "41820709",
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "Corrigendum to 'Patient-Reported Outcomes With Consolidation Durvalumab Versus Placebo After Concurrent Chemoradiotherapy in Limited-Stage SCLC: Results From the Phase 3 ADRIATIC Trial' [Journal of Thoracic Oncology volume 21 issue 6 (2026) 103564].",
+     "authorString": "Novello S, Spigel DR, Fang J, Chen Y, Zenke Y, Lee KH, Navarro A, Buchmeier EL, Chang JW, Shiraishi Y, Özgüroğlu M, Kim YJ, Thai Hoa NT, Hashemi SMS, Chiang AC, Turner R, Mann H, Olivo Y, Jiang H, Senan S.",
+     "pubYear": "2026",
+     "journalTitle": "J Thorac Oncol",
+     "doi": "10.1016/j.jtho.2026.103964",
+     "pmid": "42340283",
+     "pmcid": null,
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B06_NELSON_NLST_microsimulacion": {
+   "consulta": "(NELSON OR NLST) AND (microsimulation OR \"natural history model\") AND (\"lung cancer\" ) AND (calibrat* OR validat*)",
+   "n_resultados": 177,
+   "primeros": [
+    {
+     "title": "Benefits and harms of lung cancer screening strategies in Argentina: a modeling study.",
+     "authorString": "Salgado MV, Cao P, Jeon J, Boyeras I, Mejia R, Meza R.",
+     "pubYear": "2026",
+     "journalTitle": "Lancet Reg Health Am",
+     "doi": "10.1016/j.lana.2026.101476",
+     "pmid": "42058449",
+     "pmcid": "PMC13123399",
+     "citedByCount": 0
+    },
+    {
+     "title": "The Optimal Lung Cancer Ct Screening Strategy: A Cost-Effectiveness Study Incorporating Nelson Evidence, Evolving Cost of Treatment and Smoking Cessation Interventions.",
+     "authorString": "de Nijs K, Ten Haaf K, Moldovanu D, Hubert J, van den Bosch I, van der Aalst C, de Koning HJ.",
+     "pubYear": "2026",
+     "journalTitle": "Int J Cancer",
+     "doi": "10.1002/ijc.70655",
+     "pmid": "42528272",
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "Stage- and histology-specific sensitivity for the detection of lung cancer of the NELSON screening protocol-A modeling study.",
+     "authorString": "de Nijs K, Ten Haaf K, Hubert J, Moldovanu D, van der Aalst CM, Groen HJM, de Jong PA, Heuvelmans MA, Oudkerk M, de Koning HJ.",
+     "pubYear": "2025",
+     "journalTitle": "Int J Cancer",
+     "doi": "10.1002/ijc.70045",
+     "pmid": "40650354",
+     "pmcid": "PMC12496006",
+     "citedByCount": 3
+    },
+    {
+     "title": "Lung Cancer Screening-Eligible Population From 2000 to 2050 in Argentina: A Simulation Study Brief Report.",
+     "authorString": "Salgado MV, Jeon J, Cao P, Boyeras I, Mejia R, Meza R.",
+     "pubYear": "2026",
+     "journalTitle": "JTO Clin Res Rep",
+     "doi": "10.1016/j.jtocrr.2026.101006",
+     "pmid": "42703497",
+     "pmcid": "PMC13546832",
+     "citedByCount": 0
+    },
+    {
+     "title": "Efficacy and cost-effectiveness of lung cancer screening in France with low-dose computed tomography.",
+     "authorString": "Leleu H, Berkovitch Q, Bonastre J, Caramella C, Giroux-Leprieur É, Lefèvre L, Lavaud P, Todea A, Wislez M, Hofman P.",
+     "pubYear": "2026",
+     "journalTitle": "Eur J Cancer Prev",
+     "doi": "10.1097/cej.0000000000000973",
+     "pmid": "40392283",
+     "pmcid": "PMC13011944",
+     "citedByCount": 0
+    },
+    {
+     "title": "Screening for lung cancer: A systematic review of overdiagnosis and its implications.",
+     "authorString": "Fernández-Sáenz FK, de la Torre-Perez L, Baldwin DR, van der Aalst C, Thorat M, Ritchie D, Carvalho AL, Espina C, Solà I, Canelo-Aybar C, Pissinis MM, Alonso-Coello P, Pinto ACPN.",
+     "pubYear": "2026",
+     "journalTitle": "Mol Oncol",
+     "doi": "10.1002/1878-0261.70139",
+     "pmid": "41220098",
+     "pmcid": "PMC13042368",
+     "citedByCount": 3
+    },
+    {
+     "title": "Improving lung cancer screening diagnostic efficiency.",
+     "authorString": "Caruso CR, Kim RY.",
+     "pubYear": "2026",
+     "journalTitle": "Curr Opin Pulm Med",
+     "doi": "10.1097/mcp.0000000000001250",
+     "pmid": "41645520",
+     "pmcid": "PMC12908840",
+     "citedByCount": 2
+    },
+    {
+     "title": "Protocol for the economic evaluation of LCS in Ireland: modelling costs, eligibility, and outcomes.",
+     "authorString": "Bezdenezhnykh T, O'Mahony J, Jacob B, Murray D, Ryan D, Naidoo J, Cotter S, Smith A, Redmond P.",
+     "pubYear": "2025",
+     "journalTitle": "HRB Open Res",
+     "doi": "10.12688/hrbopenres.14126.2",
+     "pmid": "40927357",
+     "pmcid": "PMC12416482",
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B07_Wang2007_citas": {
+   "consulta": "CITES:18154660_MED",
+   "n_resultados": 60,
+   "primeros": [
+    {
+     "title": "Agent-Based Simulations of Lung Tumor Evolution Suggest That Ongoing Cell Competition Drives Realistic Clonal Expansions.",
+     "authorString": "Coggan H, Black JRM, Martínez-Ruiz C, Grigoriadis K, Fisher J, McGranahan N.",
+     "pubYear": "2026",
+     "journalTitle": "Adv Sci (Weinh)",
+     "doi": "10.1002/advs.76764",
+     "pmid": "42559690",
+     "pmcid": "PMC13445327",
+     "citedByCount": 0
+    },
+    {
+     "title": "A comprehensive review of computational cell cycle models in guiding cancer treatment strategies.",
+     "authorString": "Ma C, Gurkan-Cavusoglu E.",
+     "pubYear": "2024",
+     "journalTitle": "NPJ Syst Biol Appl",
+     "doi": "10.1038/s41540-024-00397-7",
+     "pmid": "38969664",
+     "pmcid": "PMC11226463",
+     "citedByCount": 46
+    },
+    {
+     "title": "Hybrid Cellular Automata Modeling Reveals the Effects of Glucose Gradients on Tumour Spheroid Growth.",
+     "authorString": "Messina L, Ferraro R, Peláez MJ, Wang Z, Cristini V, Dogra P, Caserta S.",
+     "pubYear": "2023",
+     "journalTitle": "Cancers (Basel)",
+     "doi": "10.3390/cancers15235660",
+     "pmid": "38067364",
+     "pmcid": "PMC10705082",
+     "citedByCount": 4
+    },
+    {
+     "title": "A circuit for secretion-coupled cellular autonomy in multicellular eukaryotic cells.",
+     "authorString": "Qiao L, Sinha S, Abd El-Hafeez AA, Lo IC, Midde KK, Ngo T, Aznar N, Lopez-Sanchez I, Gupta V, Farquhar MG, Rangamani P, Ghosh P.",
+     "pubYear": "2023",
+     "journalTitle": "Mol Syst Biol",
+     "doi": "10.15252/msb.202211127",
+     "pmid": "36856068",
+     "pmcid": "PMC10090951",
+     "citedByCount": 13
+    },
+    {
+     "title": "Data-driven spatio-temporal modelling of glioblastoma.",
+     "authorString": "Jørgensen ACS, Hill CS, Sturrock M, Tang W, Karamched SR, Gorup D, Lythgoe MF, Parrinello S, Marguerat S, Shahrezaei V.",
+     "pubYear": "2023",
+     "journalTitle": "R Soc Open Sci",
+     "doi": "10.1098/rsos.221444",
+     "pmid": "36968241",
+     "pmcid": "PMC10031411",
+     "citedByCount": 6
+    },
+    {
+     "title": "Navigating Multi-Scale Cancer Systems Biology Towards Model-Driven Clinical Oncology and Its Applications in Personalized Therapeutics.",
+     "authorString": "Gondal MN, Chaudhary SU.",
+     "pubYear": "2021",
+     "journalTitle": "Front Oncol",
+     "doi": "10.3389/fonc.2021.712505",
+     "pmid": "34900668",
+     "pmcid": "PMC8652070",
+     "citedByCount": 15
+    },
+    {
+     "title": "Role of PARP1-mediated autophagy in EGFR-TKI resistance in non-small cell lung cancer.",
+     "authorString": "Zhang Z, Lian X, Xie W, Quan J, Liao M, Wu Y, Yang ZZ, Wang G.",
+     "pubYear": "2020",
+     "journalTitle": "Sci Rep",
+     "doi": "10.1038/s41598-020-77908-z",
+     "pmid": "33262410",
+     "pmcid": "PMC7708842",
+     "citedByCount": 13
+    },
+    {
+     "title": "Modeling Cancer Dynamics.",
+     "authorString": "Derbal Y.",
+     "pubYear": "2020",
+     "journalTitle": "Annu Int Conf IEEE Eng Med Biol Soc",
+     "doi": "10.1109/embc44109.2020.9175155",
+     "pmid": "33018503",
+     "pmcid": null,
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B08_NLST_seguimiento_extendido": {
+   "consulta": "NLST AND (\"extended follow-up\" OR \"long-term follow-up\") AND \"lung cancer mortality\"",
+   "n_resultados": 160,
+   "primeros": [
+    {
+     "title": "Long-term efficacy and adherence of a lung cancer screening strategy with extended LDCT intervals: Results from the BioMILD trial.",
+     "authorString": "Ledda RE, Sabia F, Beck KS, Milanese G, Ruggirello M, Balbi M, Rolli L, Boeri M, Sozzi G, Sverzellati N, Marchianò AV, Pastorino U.",
+     "pubYear": "2026",
+     "journalTitle": "Lung Cancer",
+     "doi": "10.1016/j.lungcan.2026.109629",
+     "pmid": "42777510",
+     "pmcid": "PMC13650277",
+     "citedByCount": 0
+    },
+    {
+     "title": "Moving From Individualized Risk-Based Prevention to Benefit-Based Prevention: Estimating Individualized Life-Years Gained From Prevention Services as a Basis for Eligibility.",
+     "authorString": "Wang L, Katki HA, Chaturvedi AK, Cheung LC.",
+     "pubYear": "2026",
+     "journalTitle": "Stat Med",
+     "doi": "10.1002/sim.70659",
+     "pmid": "42385157",
+     "pmcid": "PMC13349529",
+     "citedByCount": 0
+    },
+    {
+     "title": "Thymic health consequences in adults.",
+     "authorString": "Bernatz S, Prudente V, Pai S, Attermann AK, Cao Y, Chen J, Lyass A, Foldyna B, Nürnberg L, Bressem K, Abbosh C, Swanton C, Jamal-Hanjani M, Lu MT, Murabito JM, Lunetta KL, Birkbak NJ, Aerts HJWL.",
+     "pubYear": "2026",
+     "journalTitle": "Nature",
+     "doi": "10.1038/s41586-026-10242-y",
+     "pmid": "41851466",
+     "pmcid": "PMC13102717",
+     "citedByCount": 25
+    },
+    {
+     "title": "A comparative analysis of heterogeneity in lung cancer screening effectiveness in two randomised controlled trials.",
+     "authorString": "Welz M, van der Aalst CM, Alfons A, Naghi AA, Heuvelmans MA, Groen HJM, de Jong PA, Aerts J, Oudkerk M, de Koning HJ, Ten Haaf K, NELSON trial consortium.",
+     "pubYear": "2025",
+     "journalTitle": "Nat Commun",
+     "doi": "10.1038/s41467-025-63471-6",
+     "pmid": "40877276",
+     "pmcid": "PMC12394595",
+     "citedByCount": 0
+    },
+    {
+     "title": "Efficacy and cost-effectiveness of lung cancer screening in France with low-dose computed tomography.",
+     "authorString": "Leleu H, Berkovitch Q, Bonastre J, Caramella C, Giroux-Leprieur É, Lefèvre L, Lavaud P, Todea A, Wislez M, Hofman P.",
+     "pubYear": "2026",
+     "journalTitle": "Eur J Cancer Prev",
+     "doi": "10.1097/cej.0000000000000973",
+     "pmid": "40392283",
+     "pmcid": "PMC13011944",
+     "citedByCount": 0
+    },
+    {
+     "title": "The Stockholm Pilot study for Lung cancer Screening (Stockholm PLUS): feasibility of baseline low-dose CT lung cancer screening in a high-risk Swedish female population.",
+     "authorString": "Grundberg O, Kalinowska P, Hillegren P, Peyrard Janvid N, Dimberg A, Markholm Nordgren N, Strand F, Grozman V, Wagenius G.",
+     "pubYear": "2026",
+     "journalTitle": "Acta Oncol",
+     "doi": "10.2340/1651-226x.2026.44826",
+     "pmid": "41736299",
+     "pmcid": "PMC12946860",
+     "citedByCount": 3
+    },
+    {
+     "title": "Updates on lung cancer screening for early detection.",
+     "authorString": "Kwak SH, Kim CY, Lee SH, Kim EY, Lee EH, Chang YS.",
+     "pubYear": "2025",
+     "journalTitle": "Korean J Intern Med",
+     "doi": "10.3904/kjim.2025.008",
+     "pmid": "40635482",
+     "pmcid": "PMC12257014",
+     "citedByCount": 3
+    },
+    {
+     "title": "Editorial: Current Approaches to Screening for Lung Cancer in Smokers and Non-Smokers.",
+     "authorString": "Parums DV.",
+     "pubYear": "2025",
+     "journalTitle": "Med Sci Monit",
+     "doi": "10.12659/msm.948255",
+     "pmid": "39891449",
+     "pmcid": "PMC11796283",
+     "citedByCount": 1
+    }
+   ]
+  },
+  "B09_NELSON_sobrediagnostico": {
+   "consulta": "NELSON AND overdiagnosis AND \"lung cancer\"",
+   "n_resultados": 576,
+   "primeros": [
+    {
+     "title": "East-West Disparities in Lung Cancer Screening: Subsolid Nodule Prevalence, Interval Growth, and Decision-Making Analysis.",
+     "authorString": "Hung YC, Wu YJ, Wu FZ.",
+     "pubYear": "2026",
+     "journalTitle": "Diagnostics (Basel)",
+     "doi": "10.3390/diagnostics16101442",
+     "pmid": "42196808",
+     "pmcid": "PMC13205173",
+     "citedByCount": 0
+    },
+    {
+     "title": "Stage shifts in national lung adenocarcinoma and the impact of opportunistic self-initiated LDCT screening in Taiwan: a nationwide population-based cohort study.",
+     "authorString": "Wu JJ, Chiang CJ, Chen CH, Tseng JS, Feng PH, Yang YW, Zheng ZR, Chu CH, Yang CJ, Chong IW, Tu CY, Lee WC, Hsia JY, Chen KC, Yang PC, Yu SL, Chang GC.",
+     "pubYear": "2026",
+     "journalTitle": "Lancet Reg Health West Pac",
+     "doi": "10.1016/j.lanwpc.2026.101887",
+     "pmid": "42239973",
+     "pmcid": "PMC13227239",
+     "citedByCount": 0
+    },
+    {
+     "title": "Over- and underscreening for lung cancer.",
+     "authorString": "Cao H, Zhang Y, Fu F, Chen H.",
+     "pubYear": "2026",
+     "journalTitle": "Transl Lung Cancer Res",
+     "doi": "10.21037/tlcr-2026-0629",
+     "pmid": "42433251",
+     "pmcid": "PMC13351937",
+     "citedByCount": 0
+    },
+    {
+     "title": "Efficacy and cost-effectiveness of lung cancer screening in France with low-dose computed tomography.",
+     "authorString": "Leleu H, Berkovitch Q, Bonastre J, Caramella C, Giroux-Leprieur É, Lefèvre L, Lavaud P, Todea A, Wislez M, Hofman P.",
+     "pubYear": "2026",
+     "journalTitle": "Eur J Cancer Prev",
+     "doi": "10.1097/cej.0000000000000973",
+     "pmid": "40392283",
+     "pmcid": "PMC13011944",
+     "citedByCount": 0
+    },
+    {
+     "title": "Screening for lung cancer: A systematic review of overdiagnosis and its implications.",
+     "authorString": "Fernández-Sáenz FK, de la Torre-Perez L, Baldwin DR, van der Aalst C, Thorat M, Ritchie D, Carvalho AL, Espina C, Solà I, Canelo-Aybar C, Pissinis MM, Alonso-Coello P, Pinto ACPN.",
+     "pubYear": "2026",
+     "journalTitle": "Mol Oncol",
+     "doi": "10.1002/1878-0261.70139",
+     "pmid": "41220098",
+     "pmcid": "PMC13042368",
+     "citedByCount": 3
+    },
+    {
+     "title": "Low dose CT for lung cancer screening.",
+     "authorString": "Grenier PA.",
+     "pubYear": "2025",
+     "journalTitle": "J Thorac Dis",
+     "doi": "10.21037/jtd-2025-1242",
+     "pmid": "41377010",
+     "pmcid": "PMC12688504",
+     "citedByCount": 1
+    },
+    {
+     "title": "LDCT screening for lung cancer in East Asian never-smokers: balancing benefits and overdiagnosis-related harms.",
+     "authorString": "Xu X, Chen H, Xu W.",
+     "pubYear": "2026",
+     "journalTitle": "Lancet Reg Health West Pac",
+     "doi": "10.1016/j.lanwpc.2026.101877",
+     "pmid": "42211054",
+     "pmcid": "PMC13213730",
+     "citedByCount": 0
+    },
+    {
+     "title": "From Lung Cancer Predictive Models to <i>MULTIPREVENTion</i>.",
+     "authorString": "Budzińska Z, Budzisz Z, Bednarek M, Bidzińska J.",
+     "pubYear": "2026",
+     "journalTitle": "J Clin Med",
+     "doi": "10.3390/jcm15020629",
+     "pmid": "41598567",
+     "pmcid": "PMC12841753",
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B10_ICI_crecimiento_reanalisis_ensayos": {
+   "consulta": "\"tumor growth inhibition\" AND (atezolizumab OR durvalumab OR pembrolizumab) AND (\"lung cancer\" OR NSCLC) AND (model)",
+   "n_resultados": 2502,
+   "primeros": [
+    {
+     "title": "Immunotherapy in Asia: current insights and prospects in Southeast Asia and Malaysia.",
+     "authorString": "Bustamam RSA, Phoon YP.",
+     "pubYear": "2026",
+     "journalTitle": "Front Oncol",
+     "doi": "10.3389/fonc.2026.1847284",
+     "pmid": "42662149",
+     "pmcid": "PMC13519146",
+     "citedByCount": 0
+    },
+    {
+     "title": "Advancements in Immune Checkpoint-Based Immunotherapy for Triple-Negative Breast Cancer",
+     "authorString": "Wei D, Zhang Y, Wu Y, Ren L, He Q.",
+     "pubYear": "2026",
+     "journalTitle": "Curr Issues Mol Biol",
+     "doi": null,
+     "pmid": null,
+     "pmcid": "PMC13297655",
+     "citedByCount": 0
+    },
+    {
+     "title": "Immune Checkpoint-Based Therapies in Colorectal Cancer-Current Approaches and Future Perspectives.",
+     "authorString": "Nakielska K, Plewka J, Lenart M.",
+     "pubYear": "2026",
+     "journalTitle": "Int J Mol Sci",
+     "doi": "10.3390/ijms27104628",
+     "pmid": "42196613",
+     "pmcid": "PMC13206819",
+     "citedByCount": 2
+    },
+    {
+     "title": "Phase I trial of CJRB-101 plus pembrolizumab in patients with metastatic non-small cell lung cancer, head and neck squamous cell carcinoma and melanoma.",
+     "authorString": "Lee JB, Baek S, Kim DK, Kwon BE, Ahn JS, Nagasaka M, Davar D, Park H, Kim H, Im J, Yang J, Yang E, Shin GH, Choi S, Kwon JE, Kim JM, Kang SY, Kim Y, Park SY, Kim JH, Oh HS, Chalita M, Min A, Cho BC.",
+     "pubYear": "2026",
+     "journalTitle": "J Immunother Cancer",
+     "doi": "10.1136/jitc-2025-014702",
+     "pmid": "42140743",
+     "pmcid": "PMC13182499",
+     "citedByCount": 2
+    },
+    {
+     "title": "Bridging BET bromodomain and immune checkpoint inhibitors through generative bioorganic frameworks for next-generation cancer immunotherapy.",
+     "authorString": "Diab MK, Yassen ASA, Fahmy SA, Ashour HF, Nafie MS.",
+     "pubYear": "2026",
+     "journalTitle": "RSC Med Chem",
+     "doi": "10.1039/d6md00450d",
+     "pmid": "42787872",
+     "pmcid": "PMC13611828",
+     "citedByCount": 0
+    },
+    {
+     "title": "Immune checkpoint inhibitors in bladder cancer: from mechanistic insights to emerging combination frontlines.",
+     "authorString": "Ajalli MM, Sansebli Y, Ekrami D, Alaeenejad F, Abbasi A, Eini P, Hassanzadeh F, Bahrami N.",
+     "pubYear": "2026",
+     "journalTitle": "Clin Exp Med",
+     "doi": "10.1007/s10238-026-02098-3",
+     "pmid": "41784671",
+     "pmcid": "PMC12999821",
+     "citedByCount": 1
+    },
+    {
+     "title": "T-Cell Engagers in Lung Cancer: A Comprehensive Literature Review from Tarlatamab Approval to Next-Generation Strategies.",
+     "authorString": "Saydawi A, Madanieh S, Echeverria SL, Gill A, Modha S, El Emin B, Haider W, Almaalouli B, Shanshal M.",
+     "pubYear": "2026",
+     "journalTitle": "Cancers (Basel)",
+     "doi": "10.3390/cancers18172725",
+     "pmid": "42738247",
+     "pmcid": "PMC13565601",
+     "citedByCount": 0
+    },
+    {
+     "title": "Site-Selective Anti-PD-L1 Antibody-MMAE Conjugate for Enhanced NSCLC Therapy.",
+     "authorString": "Kwon SJ, Son J, Chung SJ.",
+     "pubYear": "2025",
+     "journalTitle": "ACS Med Chem Lett",
+     "doi": "10.1021/acsmedchemlett.5c00178",
+     "pmid": "40529092",
+     "pmcid": "PMC12169598",
+     "citedByCount": 6
+    }
+   ]
+  }
+ }
+}

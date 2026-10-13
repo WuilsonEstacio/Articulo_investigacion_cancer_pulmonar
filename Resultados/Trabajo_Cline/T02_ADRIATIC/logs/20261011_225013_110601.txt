@@ -1,0 +1,8 @@
+test_cox_efron_breslow (test_round1.Round1UnitTests) ... ok
+test_pdf_roundtrip_shared_extractor (test_round1.Round1UnitTests) ... ok
+test_substroke_plateaus_and_broken_pair (test_round1.Round1UnitTests) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 2.264s
+
+OK

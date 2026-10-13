@@ -1,0 +1,19 @@
+test_complete_simulation_and_truth (test_delivery.DeliveryTests) ... ok
+test_deliverables_exist (test_delivery.DeliveryTests) ... ok
+test_four_clinical_populations_and_support (test_delivery.DeliveryTests) ... ok
+test_h1_and_all_risks_are_calculated (test_delivery.DeliveryTests) ... ok
+test_parsing_and_nonreached_display (test_delivery.DeliveryTests) ... ok
+test_slp_empty_interval (test_delivery.DeliveryTests) ... ok
+test_source_identity (test_delivery.DeliveryTests) ... ok
+test_all_censored (test_guyot.GuyotTests) ... ok
+test_boundary_event (test_guyot.GuyotTests) ... ok
+test_empty_interval (test_guyot.GuyotTests) ... ok
+test_invalid_inputs (test_guyot.GuyotTests) ... ok
+test_reproducible (test_guyot.GuyotTests) ... ok
+test_step_is_right_continuous (test_guyot.GuyotTests) ... ok
+test_uncensored_known_events (test_guyot.GuyotTests) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 5.190s
+
+OK

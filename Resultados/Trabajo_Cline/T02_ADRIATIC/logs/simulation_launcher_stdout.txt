@@ -1,0 +1,12 @@
+E2.0: 10/100
+E2.0: 20/100
+E2.0: 30/100
+E2.0: 40/100
+E2.0: 50/100
+E2.0: 60/100
+E2.0: 70/100
+E2.0: 80/100
+E2.0: 90/100
+E2.0: 100/100
+
+LOG C:\Users\Administrador\OneDrive - bisionconsulting.com\Documentos\Paper_Cancer\Resultados\Trabajo_Cline\T02_ADRIATIC\logs\20261010_192827_386284.json

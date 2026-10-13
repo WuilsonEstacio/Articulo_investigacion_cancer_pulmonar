@@ -1,0 +1,32 @@
+simbolo,significado,valor_P1_1D,valor_P2_1D,valor_P1_3D,unidad,rol_en_E1,fuente_primaria,ubicacion,nota
+c_m,Movilidad de células proliferativas,5e-4,5e-4,5e-4,m2/d,fijo,Wagner et al. MBE 2023 (cita su ref. [67]),MBE Tabla 1 p.6 (18675),Igual en el preprint D02 Tabla 1 p.5
+lambda_P_pro,Tasa de proliferación,0.36,0.0038,0.47,1/d,ESTIMADO (calibración objetiva; perfil de verosimilitud),Wagner et al. MBE 2023 (calibrado a mano),MBE Tabla 1 p.6; texto p.10 y p.12,Preprint D02: 0.38/0.0038/0.53 (superado)
+lambda,Exponente de la ley de potencia del crecimiento,2,1,2,adimensional,discreto {1;2}: se perfila por separado,Wagner et al. MBE 2023 (calibrado a mano),MBE Tabla 1 p.6,Determina cualitativamente si el tumor queda localizado o se dispersa (D02 p.7 y p.11)
+lambda_PN,Tasa de paso de proliferativa a necrótica,0.1,20,0.05,1/d,ESTIMADO,Wagner et al. MBE 2023 (calibrado a mano),MBE Tabla 1 p.6,Preprint 3D: 0.025
+sigma_PN,Umbral de nutriente para necrosis,0.2,0.2,0.2,adimensional,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,Supuesto de los autores sin justificación
+eps_P,Ancho de interfase,5e-4,5e-4,5e-4,m,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,Alta sensibilidad local según MBE Tabla 2 p.17
+c_Psi,Escala del potencial de doble pozo,2,2,2,adimensional,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,
+eps_g,Regularización del término de Gompertz,0.1,0.1,0.1,adimensional,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,
+chi,Quimiotaxis,0,0,0,adimensional,fijo (desactivado),Wagner et al. MBE 2023,MBE Tabla 1 p.6,
+kappa_i,Difusión de nutriente en el intersticio,1e-5,1e-5,1e-5,m2/d,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,
+kappa_v,Difusión de nutriente en la vasculatura,NA,NA,1e-3,m2/d,no aplica en 1D,Wagner et al. MBE 2023,MBE Tabla 1 p.6,
+eta_vi,Acoplamiento de vasculatura a intersticio,1,1,1,1/d,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,
+eta_iv,Acoplamiento de intersticio a vasculatura,0,0,0,1/d,fijo,Wagner et al. MBE 2023,MBE Tabla 1 p.6,
+alpha_H,Consumo de nutriente por células sanas,1,1,1,1/d,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,PREPRINT D02: 4 (intercambiado con alpha_P). El repositorio (parameters.py alpha_healthy=1) coincide con MBE
+alpha_P,Consumo de nutriente por células proliferativas,4,4,4,1/d,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,PREPRINT D02: 1. El repositorio (alpha_tumor=4) coincide con MBE
+beta,Fuente desde vasos grandes,NA,NA,0.1,m/d,no aplica en 1D,Wagner et al. MBE 2023,MBE Tabla 1 p.6,
+lambda_tau_eff,Efecto inmunoterapéutico durante la aplicación,5.2,0.54,4.49,1/d,ESTIMADO,Wagner et al. MBE 2023 (calibrado a mano),MBE Tabla 1 p.6; texto p.10 y p.12,Preprint: 4.49/0.55 (tabla) y 0.499 (texto). Compensación con lambda_P_pro admitida (D02 p.11)
+phi_tau_50,Concentración de semirrespuesta (Hill n=1),1.012e16,1.012e16,1.012e16,"""mol"" según los autores (de facto número de moléculas)",fijo,Wagner et al. MBE 2023 (cita su ref. [16]),MBE Tabla 1 p.6,Unidad inconsistente (ficha D02 §14 punto 5). Se verificará en la ref. [16]
+d_tau,Dosis por administración,0.24,0.20,0.24,g,fijo (dato de terapia),Esquema clínico real (nivolumab 240 mg Q2W; pembrolizumab 200 mg Q3W→Q6W),MBE Tabla 1 p.6; texto p.8 (P1) y p.10 (P2),
+M_tau,Masa molar del anticuerpo,146000,143600,146000,g/mol,fijo,Wagner et al. MBE 2023 (cita su ref. [16]),MBE Tabla 1 p.6,Escrito "146.000" con punto de miles
+t_half,Vida media sérica,26.7,22.0,26.7,d,fijo,Wagner et al. MBE 2023 (cita su ref. [16]),MBE Tabla 1 p.6,
+omega,Cociente entre peso del paciente y peso del pulmón,80,80,80,adimensional,fijo,Wagner et al. MBE 2023 (sin fuente),MBE Tabla 1 p.6,Preprint: peso del paciente en kg (definición cambiada)
+N_A,Constante de Avogadro,6.022140857e23,6.022140857e23,6.022140857e23,1/mol,constante,CODATA (usada por los autores),D02 p.4; repositorio parameters.py,
+umbral_visibilidad,Umbral de phi para el volumen visible,0.3,0.3,0.3,adimensional,fijo (análisis de sensibilidad en E1),Wagner et al. (supuesto),D02 p.7,No se aclara si se aplica a phi_T o phi_P: se comprobará en el código
+phi_sigma_v_1D,Nutriente vascular constante en 1D,POR DETERMINAR,POR DETERMINAR,NA,adimensional,fijo,No reportado en el artículo,—,Se tomará del código (parameters.py: nutrient_value=0.975 por defecto; por confirmar en run_spherical_patient_*.py)
+radio_dominio,Radio del dominio esférico 1D,0.04,0.04,NA,m,numérico,Wagner et al.,D02 p.7; MBE p.10,"El repositorio usa r_max=0.1 por defecto: hay que confirmar el valor en los scripts por paciente"
+n_elementos,Elementos de la malla 1D,500,500,NA,—,numérico (estudio de convergencia en E1),Wagner et al.,D02 p.7; MBE p.10,"El repositorio usa num_elements=625 por defecto: por confirmar"
+dt,Paso de tiempo del tumor,1/24,1/24,NA,d,numérico (estudio de convergencia en E1),Wagner et al.,D02 p.7,32 subpasos para el fármaco (D02 p.7)
+condicion_inicial,Radio y perfil iniciales del tumor,POR DETERMINAR,POR DETERMINAR,NA,m,fijo o estimado,No reportado en el artículo,—,El repositorio tiene initial_conditions.py y optimize_to_initial_volume.py (r_tumor_init=0.006 por defecto)
+DATOS_P1,Volumen tumoral (21 tiempos de 0 a 2346 d),ver CSV,—,—,cm3,observación,github.com/wagnandr/immunotherapy-lung-cancer data/tumor/pirmin-tumor-pat1.csv,Repositorio (commit del 14-ago-2023),Coincide exactamente con la digitalización de la Fig. 1A del preprint
+DATOS_P2,Volumen tumoral (11 valores numéricos de 114 a 1266 d; día 1484 = "sehr gross"),—,ver CSV,—,cm3,observación,github.com/wagnandr/immunotherapy-lung-cancer data/tumor/pirmin-tumor-pat2.csv,Repositorio,Los autores ignoran el primer dato en su calibración (MBE p.12)

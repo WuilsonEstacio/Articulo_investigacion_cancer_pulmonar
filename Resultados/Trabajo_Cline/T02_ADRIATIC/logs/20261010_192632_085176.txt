@@ -1,0 +1,19 @@
+       quantity endpoint        arm  published  reconstructed  difference         unit  tolerance classification source               page                                                          note scope
+eventos_totales       SG durvalumab    115.000     115.000000    0.000000      eventos       3.45    reproducido    D04       p.7; Fig. 1A                                        Restricción de entrada    H1
+        mediana       SG durvalumab     55.900      55.936765    0.036765        meses       3.00    reproducido    D04          p.1 y p.7                                                                  H1
+           S_24       SG durvalumab      0.680       0.680036    0.000036 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+           S_36       SG durvalumab      0.565       0.564465   -0.000535 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+eventos_totales       SG    placebo    146.000     146.000000    0.000000      eventos       4.38    reproducido    D04       p.7; Fig. 1A                                        Restricción de entrada    H1
+        mediana       SG    placebo     33.400      33.387519   -0.012481        meses       1.00    reproducido    D04          p.1 y p.7                                                                  H1
+           S_24       SG    placebo      0.585       0.584837   -0.000163 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+           S_36       SG    placebo      0.476       0.476232    0.000232 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+eventos_totales      SLP durvalumab    139.000     140.000000    1.000000      eventos       4.17    reproducido    D04    p.7; Fig. 2 p.9                                        Restricción de entrada    H1
+        mediana      SLP durvalumab     16.600      16.544648   -0.055352        meses       1.00    reproducido    D04          p.1 y p.7                                                                  H1
+           S_18      SLP durvalumab      0.488       0.490592    0.002592 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+           S_24      SLP durvalumab      0.462       0.459732   -0.002268 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+eventos_totales      SLP    placebo    169.000     169.000000    0.000000      eventos       5.07    reproducido    D04    p.7; Fig. 2 p.9                                        Restricción de entrada    H1
+        mediana      SLP    placebo      9.200       9.087671   -0.112329        meses       1.00    reproducido    D04          p.1 y p.7                                                                  H1
+           S_18      SLP    placebo      0.361       0.360957   -0.000043 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+           S_24      SLP    placebo      0.342       0.342620    0.000620 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+             HR       SG     D vs P      0.730       0.730260    0.000260        razón       0.03    reproducido    D04 p.1 y p.7; Fig. 1B Cox no estratificado; forest no aclara inequívocamente ajuste    H1
+             HR      SLP     D vs P      0.760       0.770193    0.010193        razón       0.03    reproducido    D04 p.1 y p.7; Fig. 2B Cox no estratificado; forest no aclara inequívocamente ajuste    H1

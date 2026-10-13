@@ -1,0 +1,38 @@
+test_complete_simulation_and_truth (test_delivery.DeliveryTests) ... ok
+test_deliverables_exist (test_delivery.DeliveryTests) ... ok
+test_four_clinical_populations_and_support (test_delivery.DeliveryTests) ... ok
+test_h1_and_all_risks_are_calculated (test_delivery.DeliveryTests) ... ok
+test_parsing_and_nonreached_display (test_delivery.DeliveryTests) ... ok
+test_slp_empty_interval (test_delivery.DeliveryTests) ... ok
+test_source_identity (test_delivery.DeliveryTests) ... ok
+test_all_censored (test_guyot.GuyotTests) ... ok
+test_boundary_event (test_guyot.GuyotTests) ... ok
+test_empty_interval (test_guyot.GuyotTests) ... ok
+test_invalid_inputs (test_guyot.GuyotTests) ... ok
+test_reproducible (test_guyot.GuyotTests) ... ok
+test_step_is_right_continuous (test_guyot.GuyotTests) ... ok
+test_uncensored_known_events (test_guyot.GuyotTests) ... ok
+test_archived_original_and_unchanged_criteria (test_round1.Round1DeliveryTests) ... ok
+test_e20a_preserved_byte_for_byte (test_round1.Round1DeliveryTests) ... ok
+test_e20b_all_replicates_same_truth_and_diagnostics (test_round1.Round1DeliveryTests) ... FAIL
+test_polygon_levels_plateaus_and_maximum_tie_per_curve (test_round1.Round1DeliveryTests) ... ok
+test_report_original_first_and_delivery_state (test_round1.Round1DeliveryTests) ... ok
+test_cox_efron_breslow (test_round1.Round1UnitTests) ... ok
+test_nearly_coincident_events_pdf_precision (test_round1.Round1UnitTests) ... ok
+test_pdf_roundtrip_shared_extractor (test_round1.Round1UnitTests) ... ok
+test_substroke_plateaus_and_broken_pair (test_round1.Round1UnitTests) ... ok
+
+======================================================================
+FAIL: test_e20b_all_replicates_same_truth_and_diagnostics (test_round1.Round1DeliveryTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrador\OneDrive - bisionconsulting.com\Documentos\Paper_Cancer\Resultados\Trabajo_Cline\T02_ADRIATIC\tests\test_round1.py", line 185, in test_e20b_all_replicates_same_truth_and_diagnostics
+    self.assertEqual(row.plateaus,row.true_plateaus)
+AssertionError: 168 != 169
+
+----------------------------------------------------------------------
+Ran 23 tests in 17.312s
+
+FAILED (failures=1)
+
+LOG C:\Users\Administrador\OneDrive - bisionconsulting.com\Documentos\Paper_Cancer\Resultados\Trabajo_Cline\T02_ADRIATIC\logs\20261012_111552_310913.json

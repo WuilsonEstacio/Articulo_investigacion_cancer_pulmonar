@@ -1,0 +1,74 @@
+                                            25. Friedl P, Gilmour D. Collective cell migration in morphogenesis, regeneration and cancer.
+                                        Nature Reviews Molecular Cell Biology. 2009;10(7):445–457.
+
+                                            26. Garcke H, Lam KF, Sitka E, Styles V. A Cahn–Hilliard–Darcy model for tumour growth
+                                          with chemotaxis and active transport. Mathematical Models and Methods in Applied
+                                                Sciences. 2016;26(06):1095–1148.
+
+                                            27. Frigeri S, Grasselli M, Rocca E. On a diffuse interface model of tumour growth.
+                                       European Journal of Applied Mathematics. 2015;26(2):215–243.
+
+                                            28. Ebenbeck M, Garcke H. Analysis of a Cahn–Hilliard–Brinkman model for tumour
+                                        growth with chemotaxis. Journal of Differential Equations. 2019;266(9):5998–6036.
+
+                                            29. Ebenbeck M, Garcke H. On a Cahn–Hilliard–Brinkman model for tumor growth and its
+                                               singular limits. SIAM Journal on Mathematical Analysis. 2019;51(3):1868–1912.
+
+                                            30. Fritz M, Lima E, Oden JT, Wohlmuth B. On the unsteady
+                                        Darcy–Forchheimer–Brinkman equation in local and nonlocal tumor growth models.
+                                         Mathematical Models and Methods in Applied Sciences. 2019;29(09):1691–1731.
+                                           doi:10.1142/S0218202519500325.
+
+                                            31. Lam KF, Wu H. Thermodynamically consistent Navier–Stokes–Cahn–Hilliard models
+                                          with mass transfer and chemotaxis. European Journal of Applied Mathematics. 2017; p.
+                                             1–50.
+
+                                            32. Lorenzo G, Jarrett AM, Meyer CT, Quaranta V, Tyson DR, Yankeelov TE. Identifying
+                                       mechanisms driving the early response of triple negative breast cancer patients to
+                                          neoadjuvant chemotherapy using a mechanistic model integrating in vitro and in vivo
+                                         imaging data. arXiv preprint arXiv:221204270. 2022;.
+
+                                            33. Garcke H, Lam KF, N¨urnberg R, Sitka E. A multiphase Cahn–Hilliard–Darcy model for
+                                      tumour growth with necrosis. Mathematical Models and Methods in Applied Sciences.
+                                             2018;28(03):525–577.
+
+                                            34. Oden JT, Hawkins A, Prudhomme S. General diffuse-interface theories and an approach
+                                              to predictive tumor growth modeling. Mathematical Models and Methods in Applied
+                                                Sciences. 2010;20(03):477–517.
+
+                                            35. Wise SM, Lowengrub JS, Frieboes HB, Cristini V. Three-dimensional multispecies
+                                             nonlinear tumor growth – I: Model and numerical method. Journal of Theoretical
+                                               Biology. 2008;253(3):524–543.
+
+                                            36. Cristini V, Li X, Lowengrub JS, Wise SM. Nonlinear simulations of solid tumor growth
+                                             using a mixture model: Invasion and branching. Journal of Mathematical Biology.
+                                              2009;58:723(4-5).
+
+                                            37. Frieboes HB, Jin F, Chuang YL, Wise SM, Lowengrub JS, Cristini V.
+                                           Three-dimensional multispecies nonlinear tumor growth – II: Tumor invasion and
+                                               angiogenesis. Journal of Theoretical Biology. 2010;264(4):1254–1278.
+
+                                            38. Lima E, Oden JT, Almeida R. A hybrid ten-species phase-field model of tumor growth.
+                                         Mathematical Models and Methods in Applied Sciences. 2014;24(13):2569–2599.
+
+                                            39. Hawkins-Daarud A, van der Zee KG, Oden JT. Numerical simulation of a
+                                         thermodynamically consistent four-species tumor growth model. International Journal
+                                                   for Numerical Methods in Biomedical Engineering. 2012;28(1):3–24.
+
+                                            40. Fritz M, Jha PK, K¨oppl T, Oden JT, Wagner A, Wohlmuth B. Modeling and simulation
+                                                   of vascular tumors embedded in evolving capillary networks. Computer Methods in
+                                          Applied Mechanics and Engineering. 2021;384:113975. doi:10.1016/j.cma.2021.113975.
+
+                                            41. Fritz M, Jha PK, K¨oppl T, Oden JT, Wohlmuth B. Analysis of a new multispecies
+                                      tumor growth model coupling 3D phase-fields with a 1D vascular network. Nonlinear
+                                              Analysis: Real World Applications. 2021;61:103331. doi:10.1016/j.nonrwa.2021.103331.
+
+                                            42. Lorenzo G, Scott MA, Tew K, Hughes TJ, Zhang YJ, Liu L, et al. Tissue-scale,
+                                              personalized modeling and simulation of prostate cancer growth. Proceedings of the
+                                           National Academy of Sciences. 2016;113(48):E7663–E7671.
+
+
+
+
+
+March 17, 2023                                                                                          16/18

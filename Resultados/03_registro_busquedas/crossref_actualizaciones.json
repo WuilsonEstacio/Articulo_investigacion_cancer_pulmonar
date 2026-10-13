@@ -1,0 +1,244 @@
+{
+ "fecha_consulta": "2026-10-10T18:19:08",
+ "servicio": "https://api.crossref.org/works/{doi}",
+ "resultados": {
+  "D01": {
+   "doi": "10.3390/jpm14050475",
+   "titulo": "A Multidisciplinary Hyper-Modeling Scheme in Personalized In Silico Oncology: Coupling Cell Kinetics with Metabolism, Signaling Networks, and Biomechanics as Plug-In Component Models of a Cancer Digital Twin",
+   "revista": "Journal of Personalized Medicine",
+   "emitido": {
+    "date-parts": [
+     [
+      2024,
+      4,
+      29
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": "14",
+   "paginas": "475",
+   "articulo": null
+  },
+  "D02_pub": {
+   "doi": "10.3934/mbe.2023828",
+   "titulo": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy",
+   "revista": "Mathematical Biosciences and Engineering",
+   "emitido": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": "20",
+   "paginas": "18670-18694",
+   "articulo": null
+  },
+  "D02_preprint": {
+   "doi": "10.1101/2023.03.20.533400",
+   "titulo": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy",
+   "revista": "",
+   "emitido": {
+    "date-parts": [
+     [
+      2023,
+      3,
+      21
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": null,
+   "paginas": null,
+   "articulo": null
+  },
+  "D03": {
+   "doi": "10.1186/s12964-023-01332-9",
+   "titulo": "Applications of lung cancer organoids in precision medicine: from bench to bedside",
+   "revista": "Cell Communication and Signaling",
+   "emitido": {
+    "date-parts": [
+     [
+      2023,
+      12,
+      6
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": "21",
+   "paginas": null,
+   "articulo": "350"
+  },
+  "D04": {
+   "doi": "10.1056/NEJMoa2404873",
+   "titulo": "Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer",
+   "revista": "New England Journal of Medicine",
+   "emitido": {
+    "date-parts": [
+     [
+      2024,
+      10,
+      10
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": "391",
+   "paginas": "1313-1327",
+   "articulo": null
+  },
+  "D05": {
+   "doi": "10.3390/curroncol32030146",
+   "titulo": "Lung Cancer: Targeted Therapy in 2025",
+   "revista": "Current Oncology",
+   "emitido": {
+    "date-parts": [
+     [
+      2025,
+      3,
+      2
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": "32",
+   "paginas": "146",
+   "articulo": null
+  },
+  "D06": {
+   "doi": "10.3390/ijms241914516",
+   "titulo": "Mathematical Modeling Support for Lung Cancer Therapy—A Short Review",
+   "revista": "International Journal of Molecular Sciences",
+   "emitido": {
+    "date-parts": [
+     [
+      2023,
+      9,
+      25
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": "24",
+   "paginas": "14516",
+   "articulo": null
+  },
+  "D07": {
+   "doi": "10.18632/oncotarget.25360",
+   "titulo": "Modeling small cell lung cancer (SCLC) biology through deterministic and stochastic mathematical models",
+   "revista": "Oncotarget",
+   "emitido": {
+    "date-parts": [
+     [
+      2018,
+      5,
+      25
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": "9",
+   "paginas": "26226-26242",
+   "articulo": null
+  },
+  "D08": {
+   "doi": "10.1056/NEJMoa1102873",
+   "titulo": "Reduced Lung-Cancer Mortality with Low-Dose Computed Tomographic Screening",
+   "revista": "New England Journal of Medicine",
+   "emitido": {
+    "date-parts": [
+     [
+      2011,
+      8,
+      4
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {
+    "has-review": [
+     {
+      "id-type": "doi",
+      "id": "10.3410/f.717989836.793473021",
+      "asserted-by": "object"
+     }
+    ]
+   },
+   "volumen": "365",
+   "paginas": "395-409",
+   "articulo": null
+  },
+  "D09": {
+   "doi": "10.1056/NEJMoa1911793",
+   "titulo": "Reduced Lung-Cancer Mortality with Volume CT Screening in a Randomized Trial",
+   "revista": "New England Journal of Medicine",
+   "emitido": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      6
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {
+    "has-review": [
+     {
+      "id-type": "doi",
+      "id": "10.3410/f.737281446.793570467",
+      "asserted-by": "object"
+     },
+     {
+      "id-type": "doi",
+      "id": "10.3410/f.737281446.793571884",
+      "asserted-by": "object"
+     }
+    ]
+   },
+   "volumen": "382",
+   "paginas": "503-513",
+   "articulo": null
+  },
+  "D10": {
+   "doi": "10.1186/1742-4682-4-50",
+   "titulo": "Simulating non-small cell lung cancer with a multiscale agent-based model",
+   "revista": "Theoretical Biology and Medical Modelling",
+   "emitido": {
+    "date-parts": [
+     [
+      2007,
+      12
+     ]
+    ]
+   },
+   "updated_by": null,
+   "update_to": null,
+   "relation": {},
+   "volumen": "4",
+   "paginas": null,
+   "articulo": "50"
+  }
+ }
+}

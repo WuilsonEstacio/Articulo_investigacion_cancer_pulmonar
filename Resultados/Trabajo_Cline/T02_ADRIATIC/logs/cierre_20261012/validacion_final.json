@@ -1,0 +1,32 @@
+{
+  "validation_exit_code": 0,
+  "manifest_files_checked": 4683,
+  "changed_manifest_members": [
+    "ENTREGA_LISTA.md",
+    "INFORME_T02.md"
+  ],
+  "other_modified_files": [
+    "logs/INCIDENCIAS.md",
+    "manifest_sha256.csv"
+  ],
+  "scientific_code_data_config_tests_criteria_unchanged": true,
+  "original_report_preserved": true,
+  "test_results": {
+    "20261012_111552_310913": {
+      "exit_code": 1,
+      "duration_seconds": 33.49717340001371
+    },
+    "20261012_111659_804759": {
+      "exit_code": 0,
+      "duration_seconds": 9.002495000022464
+    },
+    "20261012_111826_383110": {
+      "exit_code": 0,
+      "duration_seconds": 8.881282899994403
+    },
+    "20261012_111953_423691": {
+      "exit_code": 0,
+      "duration_seconds": 8.957665599999018
+    }
+  }
+}

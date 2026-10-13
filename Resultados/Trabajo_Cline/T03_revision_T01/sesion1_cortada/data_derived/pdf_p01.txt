@@ -1,0 +1,50 @@
+                  A phase-field model for non-small cell lung cancer under the
+                                  effects of immunotherapy
+
+                                    Marvin Fritz1, Christina Kuttler2, J. Tinsley Oden3, Pirmin Schlicke2, Christian
+                                    Schumann4, Andreas Wagner2,*, Barbara Wohlmuth2
+
+                                 1 Computational Methods for PDEs, Johann Radon Institute for Computational and
+                                      Applied Mathematics, Linz, Upper Austria, Austria, 2 School of Computation,
+                                        Information and Technology, Technical University of Munich, Munich, Bavaria,2023                               Germany, 3 Oden Institute for Computational Engineering and Sciences, The University
+                                               of Texas at Austin, Austin, Texas, United States of America, 4 Clinic of Pneumology,
+                                       Thoracic Oncology, Sleep and Respiratory Critical Care, Klinikverbund Allg¨au,
+                                   Kempten, Bavaria, Germany,Mar
+
+                                     * wagneran@cit.tum.de16
+
+                        Abstract
+
+                                       Formulating tumor models that predict growth under therapy is vital for improving
+                                              patient-specific treatment plans. In this context, we present our recent work on
+                                         simulating non-small-scale cell lung cancer (NSCLC) in a simple, deterministic setting
+                                               for two different patients receiving an immunotherapeutic treatment.[math.NA]                                At its core, our model consists of a simple Cahn-Hilliard-based phase-field model
+                                            describing the evolution of proliferative and necrotic tumor cells. These are coupled to a
+                                        simple nutrient model that drives the growth of the proliferative cells and their decay
+                                             into necrotic cells. A single scalar value represents the immunotherapeutic agents in the
+                                              entire lung, which decreases the proliferative cell concentration during therapy. An
+                                         ordinary differential equation (ODE) model describes their evolution. Finally, reaction
+                                       terms provide a coupling between all these equations. By assuming spherical, symmetric
+                                   tumor growth and constant nutrient inflow, we simplify this full 3D cancer simulation
+                                    model to a reduced 1D model.
+                              We can then resort to patient data gathered from computed tomography (CT) scans
+                                          over several years to verify our model. For the reduced 1D model, we show that our
+                                    model can qualitatively describe observations during immunotherapy by fitting our
+                                    model parameters to existing patient data. Our model covers cases in which the
+                                    immunotherapy is successful and limits the tumor size, as well as cases predicting a
+                                     sudden relapse, leading to exponential tumor growth.arXiv:2303.09378v1                         We then move from the reduced model back to the full 3D cancer simulation in the
+                                        lung tissue. Thereby, we show the predictive benefits a more detailed patient-specific
+                                         simulation including spatial information could yield in the future.
+
+                      Author summary
+
+                                  Lung cancer is one of the deadliest diseases, with low long-term survival rates. Its
+                                        treatment is still very heuristic since patients respond differently to the same treatment
+                                             plans. Therefore, patient-specific models for predicting tumor growth and the treatment
+                                         response are necessary for clinicians to make informed decisions about the patient’s
+
+
+
+
+
+     March 17, 2023                                                                                           1/18

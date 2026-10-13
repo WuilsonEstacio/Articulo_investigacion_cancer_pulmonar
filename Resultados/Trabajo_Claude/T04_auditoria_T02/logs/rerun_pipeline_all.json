@@ -1,0 +1,32 @@
+{
+  "start": "2026-10-11T22:20:49.349248-05:00",
+  "end": "2026-10-11T22:23:15.757986-05:00",
+  "duration_seconds": 146.14315709998482,
+  "command": [
+    "<PAPERCANCER_ENV>\\venv_cline_T02\\Scripts\\python.exe",
+    "src/pipeline.py",
+    "--stage",
+    "all"
+  ],
+  "python": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]",
+  "seed": 20261010,
+  "threads": 1,
+  "exit_code": 0,
+  "source_sha256": {
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\check_extraction.py": "06f9115820d1fe7bffaab3a82b15f1b0f4a8ec6a9313a300995d8ef11c70b9c6",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\extract.py": "999d20ca19bafa55eae7545f8895701ab9eea317c6d3d59af10bdd19cde50742",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\guyot.py": "77e64e25571b57167d46463c824eb5fc2fa274537937558ec350098ea4cf423e",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\inspect_pdf.py": "72a3f9a675ec832d56488c057886618612f4648be2b13b61ea6a1845aa2e2378",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\pipeline.py": "15e40979c834d11223a94b0d4adc08848c2b56b294d604897733053eb6032c56",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\reporting.py": "925eb2e754aed903100fa19120b41ac2b096d816da937246e30e1ff7f2329735",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\run_logged.py": "f2858f7aa16984c9c2a677ffa0dcb3e72a288ffe009db38e7204d3b3b1d7cb51",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\simulate.py": "f4c22dd5ef6651f717aeb04d142b7d8c065087daa8335516b1fb743568df329b",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\validate.py": "daf7759aedd7bb42e0cfdf8e3da5e18330ce36f763947e18bd7d65d854b5cc4e",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\src\\verify_outputs.py": "147d063e0302c3308a2ae8a1db1850b6cbbb409e0a3aefc9404270ff6cbce797",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\tests\\test_delivery.py": "4d77112deb7e7717d936594681466a5993554ec5913a0c2535d6b614e0c0c25c",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\tests\\test_guyot.py": "4421df24961d17ece3d286df3312852f1acaa8211b9b626c16617567d024d2c1",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\config\\config.yaml": "8d20387f7129600d80ef17c7a63ee9753066362cefba523c24186cd8f6132c83",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\CRITERIOS_PREESPECIFICADOS.md": "954139135b42743292147de7191f3844df1cae43abf229bc5a3f6738b432aa9a",
+    "C:\\Users\\Administrador\\AppData\\Local\\Temp\\claude\\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\\30d75db6-da67-46ee-95ec-69a828178284\\scratchpad\\T04_rerun\\DECISIONES_METODO.md": "42c644febd29661390ccb41d22c34820acf6548e708db0f2e3341ae399fe8a99"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "start": "2026-10-11T22:50:23.712938-05:00",
+  "end": "2026-10-11T22:54:00.659358-05:00",
+  "duration_seconds": 216.7830130000075,
+  "command": [
+    "C:\\Users\\Administrador\\PaperCancer_env\\venv_cline_T02\\Scripts\\python.exe",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\pipeline.py",
+    "--stage",
+    "all"
+  ],
+  "python": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]",
+  "seed": 20261010,
+  "threads": 1,
+  "exit_code": 4294967295,
+  "source_sha256": {
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\check_extraction.py": "06f9115820d1fe7bffaab3a82b15f1b0f4a8ec6a9313a300995d8ef11c70b9c6",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\extract.py": "432ff154f20520472fbefa61004875d16a8a97302b5fd75be3e257a1f4924619",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\guyot.py": "77e64e25571b57167d46463c824eb5fc2fa274537937558ec350098ea4cf423e",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\inspect_pdf.py": "72a3f9a675ec832d56488c057886618612f4648be2b13b61ea6a1845aa2e2378",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\pipeline.py": "71f13dd170a9cc50088abe582c5d1077eeee73216544feb4431718d5f2571193",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\reporting.py": "af9a7388b0daa2927dedeef1ace762ddb2e03dce5fc32cdacb630d22f9d2ef98",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\round1.py": "0ef3fa91a94a28e5722b79ff7627c46a350391f62dfa32bcf0cd55b509e047a8",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\run_logged.py": "f2858f7aa16984c9c2a677ffa0dcb3e72a288ffe009db38e7204d3b3b1d7cb51",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\simulate.py": "f4c22dd5ef6651f717aeb04d142b7d8c065087daa8335516b1fb743568df329b",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\simulate_digitized.py": "a57d1dab558a369569167f5df990c8ec92fea64a30a5c08ca16b301e18f41deb",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\validate.py": "daf7759aedd7bb42e0cfdf8e3da5e18330ce36f763947e18bd7d65d854b5cc4e",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\vector_simulation.py": "b84b3908d6998f0775419ce2e5c3505c6e60ed53142f17ab300bd291a1cbed45",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\src\\verify_outputs.py": "147d063e0302c3308a2ae8a1db1850b6cbbb409e0a3aefc9404270ff6cbce797",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\tests\\test_delivery.py": "4d77112deb7e7717d936594681466a5993554ec5913a0c2535d6b614e0c0c25c",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\tests\\test_guyot.py": "4421df24961d17ece3d286df3312852f1acaa8211b9b626c16617567d024d2c1",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\tests\\test_round1.py": "d559e42bf9730e7f8f912485ef0b74225b458a26f766e09f69be06083dac3a53",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\config\\config.yaml": "8d20387f7129600d80ef17c7a63ee9753066362cefba523c24186cd8f6132c83",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\CRITERIOS_PREESPECIFICADOS.md": "954139135b42743292147de7191f3844df1cae43abf229bc5a3f6738b432aa9a",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Cline\\T02_ADRIATIC\\DECISIONES_METODO.md": "20e62c1eec987806ce7f3b9348dc8dc0ff8f0474a7a0bef6d4888b56c615a251"
+  }
+}

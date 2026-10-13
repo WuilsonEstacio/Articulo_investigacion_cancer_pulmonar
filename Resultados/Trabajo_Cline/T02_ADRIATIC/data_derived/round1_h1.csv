@@ -1,0 +1,37 @@
+quantity,endpoint,arm,published,reconstructed,difference,unit,tolerance,classification,source,page,note,scope,version
+eventos_totales,SG,durvalumab,115.0,115.0,0.0,eventos,3.45,reproducido,D04,p.7; Fig. 1A,Restricción de entrada,H1,original
+mediana,SG,durvalumab,55.9,55.93676470824442,0.0367647082444193,meses,3.0,reproducido,D04,p.1 y p.7,,H1,original
+S_24,SG,durvalumab,0.68,0.6800362833431954,3.628334319538684e-05,probabilidad,0.02,reproducido,D04,p.7,,H1,original
+S_36,SG,durvalumab,0.565,0.5644648648261522,-0.0005351351738477,probabilidad,0.02,reproducido,D04,p.7,,H1,original
+eventos_totales,SG,placebo,146.0,146.0,0.0,eventos,4.38,reproducido,D04,p.7; Fig. 1A,Restricción de entrada,H1,original
+mediana,SG,placebo,33.4,33.38751874711519,-0.012481252884811,meses,1.0,reproducido,D04,p.1 y p.7,,H1,original
+S_24,SG,placebo,0.585,0.5848368661871179,-0.000163133812882,probabilidad,0.02,reproducido,D04,p.7,,H1,original
+S_36,SG,placebo,0.476,0.4762318546717881,0.0002318546717881,probabilidad,0.02,reproducido,D04,p.7,,H1,original
+eventos_totales,SLP,durvalumab,139.0,140.0,1.0,eventos,4.17,reproducido,D04,p.7; Fig. 2 p.9,Restricción de entrada,H1,original
+mediana,SLP,durvalumab,16.6,16.5446483018556,-0.0553516981444026,meses,1.0,reproducido,D04,p.1 y p.7,,H1,original
+S_18,SLP,durvalumab,0.488,0.4905919426358671,0.002591942635867,probabilidad,0.02,reproducido,D04,p.7,,H1,original
+S_24,SLP,durvalumab,0.462,0.4597319565757433,-0.0022680434242567,probabilidad,0.02,reproducido,D04,p.7,,H1,original
+eventos_totales,SLP,placebo,169.0,169.0,0.0,eventos,5.069999999999999,reproducido,D04,p.7; Fig. 2 p.9,Restricción de entrada,H1,original
+mediana,SLP,placebo,9.2,9.087671199072128,-0.1123288009278713,meses,1.0,reproducido,D04,p.1 y p.7,,H1,original
+S_18,SLP,placebo,0.361,0.3609572028683628,-4.279713163718446e-05,probabilidad,0.02,reproducido,D04,p.7,,H1,original
+S_24,SLP,placebo,0.342,0.3426199677521812,0.0006199677521812,probabilidad,0.02,reproducido,D04,p.7,,H1,original
+HR,SG,D vs P,0.73,0.730260385238059,0.000260385238059,razón,0.03,reproducido,D04,p.1 y p.7; Fig. 1B,Cox no estratificado; forest no aclara inequívocamente ajuste,H1,original
+HR,SLP,D vs P,0.76,0.7701925523487273,0.0101925523487272,razón,0.03,reproducido,D04,p.1 y p.7; Fig. 2B,Cox no estratificado; forest no aclara inequívocamente ajuste,H1,original
+eventos_totales,SG,durvalumab,115.0,115.0,0.0,eventos,3.45,reproducido,D04,p.7; Fig. 1A,Restricción de entrada,H1,corregido
+mediana,SG,durvalumab,55.9,55.93676378466928,0.0367637846692758,meses,3.0,reproducido,D04,p.1 y p.7,,H1,corregido
+S_24,SG,durvalumab,0.68,0.6802204305249172,0.0002204305249171,probabilidad,0.02,reproducido,D04,p.7,,H1,corregido
+S_36,SG,durvalumab,0.565,0.5649525657806371,-4.743421936281855e-05,probabilidad,0.02,reproducido,D04,p.7,,H1,corregido
+eventos_totales,SG,placebo,146.0,146.0,0.0,eventos,4.38,reproducido,D04,p.7; Fig. 1A,Restricción de entrada,H1,corregido
+mediana,SG,placebo,33.4,33.38751874711519,-0.012481252884811,meses,1.0,reproducido,D04,p.1 y p.7,,H1,corregido
+S_24,SG,placebo,0.585,0.5853957781374546,0.0003957781374546,probabilidad,0.02,reproducido,D04,p.7,,H1,corregido
+S_36,SG,placebo,0.476,0.4766869759031878,0.0006869759031878,probabilidad,0.02,reproducido,D04,p.7,,H1,corregido
+eventos_totales,SLP,durvalumab,139.0,140.0,1.0,eventos,4.17,reproducido,D04,p.7; Fig. 2 p.9,Restricción de entrada,H1,corregido
+mediana,SLP,durvalumab,16.6,16.544647378280455,-0.0553526217195461,meses,1.0,reproducido,D04,p.1 y p.7,,H1,corregido
+S_18,SLP,durvalumab,0.488,0.4895745816850501,0.00157458168505,probabilidad,0.02,reproducido,D04,p.7,,H1,corregido
+S_24,SLP,durvalumab,0.462,0.4639472764868042,0.0019472764868042,probabilidad,0.02,reproducido,D04,p.7,,H1,corregido
+eventos_totales,SLP,placebo,169.0,170.0,1.0,eventos,5.069999999999999,reproducido,D04,p.7; Fig. 2 p.9,Restricción de entrada,H1,corregido
+mediana,SLP,placebo,9.2,9.182094750924556,-0.0179052490754418,meses,1.0,reproducido,D04,p.1 y p.7,,H1,corregido
+S_18,SLP,placebo,0.361,0.3614394238615425,0.0004394238615425,probabilidad,0.02,reproducido,D04,p.7,,H1,corregido
+S_24,SLP,placebo,0.342,0.3430776911050324,0.0010776911050323,probabilidad,0.02,reproducido,D04,p.7,,H1,corregido
+HR,SG,D vs P,0.73,0.7302954802802207,0.0002954802802207,razón,0.03,reproducido,D04,p.1 y p.7; Fig. 1B,Cox no estratificado; forest no aclara inequívocamente ajuste,H1,corregido
+HR,SLP,D vs P,0.76,0.7714653791733515,0.0114653791733514,razón,0.03,reproducido,D04,p.1 y p.7; Fig. 2B,Cox no estratificado; forest no aclara inequívocamente ajuste,H1,corregido

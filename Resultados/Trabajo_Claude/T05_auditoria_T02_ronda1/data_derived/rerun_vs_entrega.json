@@ -1,0 +1,11 @@
+{
+ "n_entrega": 4661,
+ "n_rerun": 4661,
+ "comparados": 4661,
+ "identicos": 4660,
+ "diferentes": [
+  "data_derived/PROCEDENCIA.md"
+ ],
+ "solo_entrega": [],
+ "solo_rerun": []
+}

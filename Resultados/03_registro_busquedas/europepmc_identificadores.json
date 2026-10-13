@@ -1,0 +1,543 @@
+{
+ "fecha_consulta": "2026-10-10T18:18:36",
+ "servicio": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+ "resultados": {
+  "D01": {
+   "consulta": "DOI:\"10.3390/jpm14050475\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "A Multidisciplinary Hyper-Modeling Scheme in Personalized In Silico Oncology: Coupling Cell Kinetics with Metabolism, Signaling Networks, and Biomechanics as Plug-In Component Models of a Cancer Digital Twin.",
+     "authorString": "Kolokotroni E, Abler D, Ghosh A, Tzamali E, Grogan J, Georgiadi E, Büchler P, Radhakrishnan R, Byrne H, Sakkalis V, Nikiforaki K, Karatzanis I, McFarlane NJB, Kaba D, Dong F, Bohle RM, Meese E, Graf N, Stamatakos G, CHIC Project Consortium.",
+     "pubYear": "2024",
+     "doi": "10.3390/jpm14050475",
+     "pmid": "38793058",
+     "pmcid": "PMC11122096",
+     "source": "MED",
+     "isOpenAccess": "Y",
+     "citedByCount": 18,
+     "pubTypeList": {
+      "pubType": [
+       "research-article",
+       "Journal Article"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "Y",
+     "journal": "Journal of personalized medicine",
+     "correcciones": {
+      "commentCorrection": [
+       {
+        "source": "PPR",
+        "id": "PPR817668",
+        "type": "Preprint in",
+        "note": "CrossRef Pre-print loader",
+        "orderIn": 10002
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "D02": {
+   "consulta": "TITLE:\"phase-field model for non-small cell lung cancer under the effects of immunotherapy\"",
+   "n": 2,
+   "registros": [
+    {
+     "title": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy.",
+     "authorString": "Wagner A, Schlicke P, Fritz M, Kuttler C, Oden JT, Schumann C, Wohlmuth B.",
+     "pubYear": "2023",
+     "doi": "10.3934/mbe.2023828",
+     "pmid": "38052574",
+     "pmcid": null,
+     "source": "MED",
+     "isOpenAccess": "N",
+     "citedByCount": 0,
+     "pubTypeList": {
+      "pubType": [
+       "Research Support, Non-U.S. Gov't",
+       "Journal Article"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "N",
+     "journal": "Mathematical biosciences and engineering : MBE",
+     "correcciones": {
+      "commentCorrection": [
+       {
+        "source": "PPR",
+        "id": "PPR633621",
+        "type": "Preprint in",
+        "note": "Link created based on a title-first author match",
+        "orderIn": 10002
+       }
+      ]
+     }
+    },
+    {
+     "title": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy",
+     "authorString": "Wagner A, Schlicke P, Fritz M, Kuttler C, Oden JT, Schumann C, Wohlmuth B.",
+     "pubYear": "2023",
+     "doi": "10.1101/2023.03.20.533400",
+     "pmid": null,
+     "pmcid": null,
+     "source": "PPR",
+     "isOpenAccess": "N",
+     "citedByCount": 1,
+     "pubTypeList": {
+      "pubType": [
+       "Preprint"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "N",
+     "journal": null,
+     "correcciones": {
+      "commentCorrection": [
+       {
+        "source": "MED",
+        "id": "38052574",
+        "reference": "Mathematical biosciences and engineering : MBE. \n    2023 Oct;20(10):18670-18694",
+        "type": "Preprint of",
+        "note": "Link created based on a title-first author match",
+        "orderIn": 10001
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "D03": {
+   "consulta": "DOI:\"10.1186/s12964-023-01332-9\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "Applications of lung cancer organoids in precision medicine: from bench to bedside.",
+     "authorString": "Li H, Chen Z, Chen N, Fan Y, Xu Y, Xu X.",
+     "pubYear": "2023",
+     "doi": "10.1186/s12964-023-01332-9",
+     "pmid": "38057851",
+     "pmcid": "PMC10698950",
+     "source": "MED",
+     "isOpenAccess": "Y",
+     "citedByCount": 34,
+     "pubTypeList": {
+      "pubType": [
+       "Video-Audio Media",
+       "Research Support, Non-U.S. Gov't",
+       "Systematic Review",
+       "review-article",
+       "Journal Article"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "Y",
+     "journal": "Cell communication and signaling : CCS",
+     "correcciones": null
+    }
+   ]
+  },
+  "D04": {
+   "consulta": "DOI:\"10.1056/NEJMoa2404873\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "Durvalumab after Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer.",
+     "authorString": "Cheng Y, Spigel DR, Cho BC, Laktionov KK, Fang J, Chen Y, Zenke Y, Lee KH, Wang Q, Navarro A, Bernabe R, Buchmeier EL, Chang JW, Shiraishi Y, Sezgin Goksu S, Badzio A, Shi A, Daniel DB, Hoa NTT, Zemanova M, Mann H, Gowda H, Jiang H, Senan S, ADRIATIC Investigators.",
+     "pubYear": "2024",
+     "doi": "10.1056/nejmoa2404873",
+     "pmid": "39268857",
+     "pmcid": null,
+     "source": "MED",
+     "isOpenAccess": "N",
+     "citedByCount": 224,
+     "pubTypeList": {
+      "pubType": [
+       "Clinical Trial, Phase III",
+       "Multicenter Study",
+       "Randomized Controlled Trial",
+       "Journal Article"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "Y",
+     "journal": "The New England journal of medicine",
+     "correcciones": {
+      "commentCorrection": [
+       {
+        "source": "MED",
+        "id": "39693555",
+        "reference": "N Engl J Med. 2024 Dec 19;391(24):2385. doi: 10.1056/NEJMc2414036.",
+        "type": "Comment in",
+        "orderIn": 1
+       },
+       {
+        "source": "MED",
+        "id": "39693556",
+        "reference": "N Engl J Med. 2024 Dec 19;391(24):2385-2386. doi: 10.1056/NEJMc2414036.",
+        "type": "Comment in",
+        "orderIn": 2
+       },
+       {
+        "source": "MED",
+        "id": "39693557",
+        "reference": "N Engl J Med. 2024 Dec 19;391(24):2386. doi: 10.1056/NEJMc2414036.",
+        "type": "Comment in",
+        "orderIn": 3
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "D05": {
+   "consulta": "DOI:\"10.3390/curroncol32030146\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "Lung Cancer: Targeted Therapy in 2025.",
+     "authorString": "Bouchard N, Daaboul N.",
+     "pubYear": "2025",
+     "doi": "10.3390/curroncol32030146",
+     "pmid": "40136350",
+     "pmcid": "PMC11941068",
+     "source": "MED",
+     "isOpenAccess": "Y",
+     "citedByCount": 49,
+     "pubTypeList": {
+      "pubType": [
+       "review-article",
+       "Review",
+       "Journal Article"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "N",
+     "journal": "Current oncology (Toronto, Ont.)",
+     "correcciones": {
+      "commentCorrection": [
+       {
+        "source": "PPR",
+        "id": "PPR974867",
+        "type": "Preprint in",
+        "note": "CrossRef Pre-print loader",
+        "orderIn": 10002
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "D06": {
+   "consulta": "DOI:\"10.3390/ijms241914516\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "Mathematical Modeling Support for Lung Cancer Therapy-A Short Review.",
+     "authorString": "Smieja J.",
+     "pubYear": "2023",
+     "doi": "10.3390/ijms241914516",
+     "pmid": "37833963",
+     "pmcid": "PMC10572824",
+     "source": "MED",
+     "isOpenAccess": "Y",
+     "citedByCount": 3,
+     "pubTypeList": {
+      "pubType": [
+       "review-article",
+       "Review",
+       "Journal Article"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "Y",
+     "journal": "International journal of molecular sciences",
+     "correcciones": null
+    }
+   ]
+  },
+  "D07": {
+   "consulta": "TITLE:\"Modeling small cell lung cancer (SCLC) biology through deterministic and stochastic mathematical models\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "Modeling small cell lung cancer (SCLC) biology through deterministic and stochastic mathematical models.",
+     "authorString": "Salgia R, Mambetsariev I, Hewelt B, Achuthan S, Li H, Poroyko V, Wang Y, Sattler M.",
+     "pubYear": "2018",
+     "doi": "10.18632/oncotarget.25360",
+     "pmid": "29899855",
+     "pmcid": "PMC5995226",
+     "source": "MED",
+     "isOpenAccess": "Y",
+     "citedByCount": 14,
+     "pubTypeList": {
+      "pubType": [
+       "review-article",
+       "Review",
+       "Journal Article"
+      ]
+     },
+     "hasSuppl": "Y",
+     "hasData": "Y",
+     "journal": "Oncotarget",
+     "correcciones": null
+    }
+   ]
+  },
+  "D08": {
+   "consulta": "DOI:\"10.1056/NEJMoa1102873\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "Reduced lung-cancer mortality with low-dose computed tomographic screening.",
+     "authorString": "National Lung Screening Trial Research Team, Aberle DR, Adams AM, Berg CD, Black WC, Clapp JD, Fagerstrom RM, Gareen IF, Gatsonis C, Marcus PM, Sicks JD.",
+     "pubYear": "2011",
+     "doi": "10.1056/nejmoa1102873",
+     "pmid": "21714641",
+     "pmcid": "PMC4356534",
+     "source": "MED",
+     "isOpenAccess": "N",
+     "citedByCount": 8215,
+     "pubTypeList": {
+      "pubType": [
+       "Comparative Study",
+       "research-article",
+       "Multicenter Study",
+       "Randomized Controlled Trial",
+       "Journal Article",
+       "Research Support, N.I.H., Extramural"
+      ]
+     },
+     "hasSuppl": "Y",
+     "hasData": "Y",
+     "journal": "The New England journal of medicine",
+     "correcciones": {
+      "commentCorrection": [
+       {
+        "source": "MED",
+        "id": "21714644",
+        "reference": "N Engl J Med. 2011 Aug 4;365(5):455-7. doi: 10.1056/NEJMe1103776.",
+        "type": "Comment in",
+        "orderIn": 1
+       },
+       {
+        "source": "MED",
+        "id": "21808271",
+        "reference": "Nat Rev Clin Oncol. 2011 Aug 02;8(9):510. doi: 10.1038/nrclinonc.2011.120.",
+        "type": "Comment in",
+        "orderIn": 2
+       },
+       {
+        "source": "MED",
+        "id": "22048916",
+        "reference": "Praxis (Bern 1994). 2011 Nov 2;100(22):1377-8. doi: 10.1024/1661-8157/a000718.",
+        "type": "Comment in",
+        "orderIn": 3
+       },
+       {
+        "source": "MED",
+        "id": "22084353",
+        "reference": "Ann Intern Med. 2011 Nov 15;155(10):JC5-06. doi: 10.7326/0003-4819-155-10-201111150-02006.",
+        "type": "Comment in",
+        "orderIn": 4
+       },
+       {
+        "source": "MED",
+        "id": "22111728",
+        "reference": "N Engl J Med. 2011 Nov 24;365(21):2035; author reply 2037-8. doi: 10.1056/NEJMc1110293.",
+        "type": "Comment in",
+        "orderIn": 5
+       },
+       {
+        "source": "MED",
+        "id": "22111729",
+        "reference": "N Engl J Med. 2011 Nov 24;365(21):2036; author reply 2037-8. doi: 10.1056/NEJMc1110293.",
+        "type": "Comment in",
+        "orderIn": 6
+       },
+       {
+        "source": "MED",
+        "id": "22111730",
+        "reference": "N Engl J Med. 2011 Nov 24;365(21):2036; author reply 2037-8. doi: 10.1056/NEJMc1110293.",
+        "type": "Comment in",
+        "orderIn": 7
+       },
+       {
+        "source": "MED",
+        "id": "22111731",
+        "reference": "N Engl J Med. 2011 Nov 24;365(21):2036-7; author reply 2037-8. doi: 10.1056/NEJMc1110293.",
+        "type": "Comment in",
+        "orderIn": 8
+       },
+       {
+        "source": "MED",
+        "id": "22111732",
+        "reference": "N Engl J Med. 2011 Nov 24;365(21):2037; author reply 2037-8. doi: 10.1056/NEJMc1110293.",
+        "type": "Comment in",
+        "orderIn": 9
+       },
+       {
+        "source": "MED",
+        "id": "22117150",
+        "reference": "Expert Rev Anticancer Ther. 2011 Dec;11(12):1833-6. doi: 10.1586/era.11.185.",
+        "type": "Comment in",
+        "orderIn": 10
+       },
+       {
+        "source": "MED",
+        "id": "22383569",
+        "reference": "Am J Respir Crit Care Med. 2012 Mar 1;185(5):584-5. doi: 10.1164/rccm.201108-1571RR.",
+        "type": "Comment in",
+        "orderIn": 11
+       },
+       {
+        "source": "MED",
+        "id": "23574139",
+        "reference": "N Engl J Med. 2013 Apr 11;368(15):1460-1. doi: 10.1056/NEJMc1213744.",
+        "type": "Comment in",
+        "orderIn": 12
+       },
+       {
+        "source": "MED",
+        "id": "23983184",
+        "reference": "J Surg Oncol. 2013 Oct;108(5):287-8. doi: 10.1002/jso.23389.",
+        "type": "Comment in",
+        "orderIn": 13
+       },
+       {
+        "source": "MED",
+        "id": "24335809",
+        "reference": "BMJ. 2013 Dec 11;347:f7456. doi: 10.1136/bmj.f7456.",
+        "type": "Comment in",
+        "orderIn": 14
+       },
+       {
+        "source": "MED",
+        "id": "27132192",
+        "reference": "Gac Sanit. 2016 Sep-Oct;30(5):383-5. doi: 10.1016/j.gaceta.2016.03.003.",
+        "type": "Comment in",
+        "orderIn": 15
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "D09": {
+   "consulta": "DOI:\"10.1056/NEJMoa1911793\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "Reduced Lung-Cancer Mortality with Volume CT Screening in a Randomized Trial.",
+     "authorString": "de Koning HJ, van der Aalst CM, de Jong PA, Scholten ET, Nackaerts K, Heuvelmans MA, Lammers JJ, Weenink C, Yousaf-Khan U, Horeweg N, van 't Westeinde S, Prokop M, Mali WP, Mohamed Hoesein FAA, van Ooijen PMA, Aerts JGJV, den Bakker MA, Thunnissen E, Verschakelen J, Vliegenthart R, Walter JE, Ten Haaf K, Groen HJM, Oudkerk M.",
+     "pubYear": "2020",
+     "doi": "10.1056/nejmoa1911793",
+     "pmid": "31995683",
+     "pmcid": null,
+     "source": "MED",
+     "isOpenAccess": "N",
+     "citedByCount": 2663,
+     "pubTypeList": {
+      "pubType": [
+       "Multicenter Study",
+       "Randomized Controlled Trial",
+       "Journal Article"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "N",
+     "journal": "The New England journal of medicine",
+     "correcciones": {
+      "commentCorrection": [
+       {
+        "source": "MED",
+        "id": "31995680",
+        "reference": "N Engl J Med. 2020 Feb 6;382(6):572-573. doi: 10.1056/NEJMe1916361",
+        "type": "Comment in",
+        "orderIn": 1
+       },
+       {
+        "source": "MED",
+        "id": "32060417",
+        "reference": "Nat Rev Clin Oncol. 2020 Apr;17(4):197. doi: 10.1038/s41571-020-0342-x",
+        "type": "Comment in",
+        "orderIn": 2
+       },
+       {
+        "source": "MED",
+        "id": "32312589",
+        "reference": "Rev Med Interne. 2020 May;41(5):350-351. doi: 10.1016/j.revmed.2020.04.001",
+        "type": "Comment in",
+        "orderIn": 3
+       },
+       {
+        "source": "MED",
+        "id": "32459929",
+        "reference": "N Engl J Med. 2020 May 28;382(22):2164. doi: 10.1056/NEJMc2004224",
+        "type": "Comment in",
+        "orderIn": 4
+       },
+       {
+        "source": "MED",
+        "id": "32459930",
+        "reference": "N Engl J Med. 2020 May 28;382(22):2164-2165. doi: 10.1056/NEJMc2004224",
+        "type": "Comment in",
+        "orderIn": 5
+       },
+       {
+        "source": "MED",
+        "id": "32459931",
+        "reference": "N Engl J Med. 2020 May 28;382(22):2165. doi: 10.1056/NEJMc2004224",
+        "type": "Comment in",
+        "orderIn": 6
+       },
+       {
+        "source": "MED",
+        "id": "33778718",
+        "reference": "Radiol Imaging Cancer. 2020 May 29;2(3):e204015. doi: 10.1148/rycan.2020204015",
+        "type": "Comment in",
+        "orderIn": 7
+       },
+       {
+        "source": "MED",
+        "id": "34213386",
+        "reference": "Am J Respir Crit Care Med. 2021 Sep 1;204(5):596-598. doi: 10.1164/rccm.202012-4505RR",
+        "type": "Comment in",
+        "orderIn": 8
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "D10": {
+   "consulta": "TITLE:\"Simulating non-small cell lung cancer with a multiscale agent-based model\"",
+   "n": 1,
+   "registros": [
+    {
+     "title": "Simulating non-small cell lung cancer with a multiscale agent-based model.",
+     "authorString": "Wang Z, Zhang L, Sagotsky J, Deisboeck TS.",
+     "pubYear": "2007",
+     "doi": "10.1186/1742-4682-4-50",
+     "pmid": "18154660",
+     "pmcid": "PMC2259313",
+     "source": "MED",
+     "isOpenAccess": "Y",
+     "citedByCount": 61,
+     "pubTypeList": {
+      "pubType": [
+       "Research Support, Non-U.S. Gov't",
+       "research-article",
+       "Journal Article",
+       "Research Support, N.I.H., Extramural"
+      ]
+     },
+     "hasSuppl": "N",
+     "hasData": "N",
+     "journal": "Theoretical biology & medical modelling",
+     "correcciones": null
+    }
+   ]
+  }
+ }
+}

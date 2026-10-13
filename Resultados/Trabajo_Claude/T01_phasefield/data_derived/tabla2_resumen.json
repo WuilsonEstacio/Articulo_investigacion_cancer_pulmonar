@@ -1,0 +1,20 @@
+{
+ "n": 88,
+ "conteo": {
+  "discrepancia": 88
+ },
+ "fraccion_reproducido": 0.0,
+ "H1_cumple(>=80%)": false,
+ "rangos_coinciden": 8,
+ "err_rel_mediana": 228.18768855146112,
+ "err_rel_p90": 200388.3054214064,
+ "err_rel_max": 10021848.945835907,
+ "diag_mediana_err_si_x_alpha_div_100": 0.0006826815974352147,
+ "diag_mediana_err_si_x_alpha": 98.9964419348889,
+ "conteo_P1": {
+  "discrepancia": 44
+ },
+ "conteo_P2": {
+  "discrepancia": 44
+ }
+}

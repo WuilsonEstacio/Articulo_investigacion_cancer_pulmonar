@@ -1,0 +1,74 @@
+                                            43. Powathil GG, Adamson DJ, Chaplain MA. Towards predicting the response of a solid
+                                      tumour to chemotherapy and radiotherapy treatments: clinical insights from a
+                                          computational model. PLoS computational biology. 2013;9(7):e1003120.
+
+                                            44. Wu C, Hormuth DA, Lorenzo G, Jarrett AM, Pineda F, Howard FM, et al. Towards
+                                                  patient-specific optimization of neoadjuvant treatment protocols for breast cancer based
+                                       on image-guided fluid dynamics. IEEE Transactions on Biomedical Engineering.
+                                            2022;69(11):3334–3344.
+
+                                            45. Jarrett AM, Hormuth DA, Barnes SL, Feng X, Huang W, Yankeelov TE. Incorporating
+                                         drug delivery into an imaging-driven, mechanics-coupled reaction diffusion model for
+                                              predicting the response of breast cancer to neoadjuvant chemotherapy: theory and
+                                             preliminary clinical results. Physics in Medicine & Biology. 2018;63(10):105015.
+
+                                            46. Rockne RC, Trister AD, Jacobs J, Hawkins-Daarud AJ, Neal ML, Hendrickson K, et al.
+                           A patient-specific computational model of hypoxia-modulated radiation resistance in
+                                            glioblastoma using 18F-FMISO-PET. Journal of the Royal Society Interface.
+                                            2015;12(103):20141174.
+
+                                            47. Colli P, Gomez H, Lorenzo G, Marinoschi G, Reali A, Rocca E. Optimal control of
+                                               cytotoxic and antiangiogenic therapies on prostate cancer growth. Mathematical Models
+                                      and Methods in Applied Sciences. 2021;31(07):1419–1468.
+
+                                            48. Fritz M, Kuttler C, Rajendran ML, Scarabosio L, Wohlmuth B. On a subdiffusive
+                                      tumour growth model with fractional time derivative. IMA Journal of Applied
+                                         Mathematics. 2021;86(04):688–729. doi:10.1093/imamat/hxab009.
+
+                                            49. Quezada SA, Peggs KS. Exploiting CTLA-4, PD-1 and PD-L1 to reactivate the host
+                                   immune response against cancer. British Journal of Cancer. 2013;108(8):1560–1565.
+                                              doi:10.1038/bjc.2013.117.
+
+                                            50. Ribas A. Tumor immunotherapy directed at PD-1. New England Journal of Medicine.
+                                            2012;366(26):2517–2519. doi:10.1056/NEJMe1205943.
+
+                                            51. Pardoll DM. The blockade of immune checkpoints in cancer immunotherapy. Nature
+                                        Reviews Cancer. 2012;12(4):252–264. doi:10.1038/nrc3239.
+
+                                            52. Rozali EN, Hato SV, Robinson BW, Lake RA, Lesterhuis WJ. Programmed death
+                                              ligand 2 in cancer-induced immune suppression. Clinical and Developmental
+                                        Immunology. 2012;2012:1–8. doi:10.1155/2012/656340.
+
+                                            53. Patel SP, Kurzrock R. PD-L1 Expression as a Predictive Biomarker in Cancer
+                                        Immunotherapy. Molecular Cancer Therapeutics. 2015;14(4):847–856.
+                                           doi:10.1158/1535-7163.MCT-14-0983.
+
+                                            54. Gompertz B. On the nature of the function expressive of the law of human mortality,
+                                      and on the new mode of determining the value of life contingencies. Philosophical
+                                            Transactions of the Royal Society. 1825;115:513–585.
+                                               doi:https://doi.org/10.1098/rstl.1825.0026.
+
+                                            55. Erbertseder K, Reichold J, Flemisch B, Jenny P, Helmig R. A Coupled
+                                         Discrete/Continuum Model for Describing Cancer-Therapeutic Transport in the Lung.
+                               PLOS ONE. 2012;7(3):1–17. doi:10.1371/journal.pone.0031966.
+
+                                            56. Garcke H, Lam KF. Well-posedness of a Cahn–Hilliard system modelling tumour growth
+                                          with chemotaxis and active transport. European Journal of Applied Mathematics.
+                                             2017;28(2):284–316.
+
+                                            57. Garcke H, Lam KF. Analysis of a Cahn–Hilliard system with non-zero Dirichlet
+                                              conditions modeling tumor growth with chemotaxis. Discrete & Continuous Dynamical
+                                          Systems-A. 2017;37(8):4277–4308.
+
+                                            58. Eisenhauer E, Therasse P, Bogaerts J, Schwartz L, Sargent D, Ford R, et al. New
+                                            response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1).
+                                       European Journal of Cancer. 2009;45(2):228–247. doi:10.1016/j.ejca.2008.10.026.
+
+                                            59. Hanin L, Rose J. Suppression of Metastasis by Primary Tumor and Acceleration of
+                                            Metastasis Following Primary Tumor Resection: A Natural Law? Bull Math Biol.
+                                            2018;80:519–539. doi:10.1007/s11538-017-0388-9.
+
+
+
+
+March 17, 2023                                                                                          17/18

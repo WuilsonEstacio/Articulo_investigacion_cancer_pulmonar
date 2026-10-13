@@ -1,0 +1,22 @@
+# Third-party source publications; cite them from project documents instead.
+/Data_insumo/*
+!/Data_insumo/*.md
+
+# Local backups of superseded drafts (git history keeps the versions).
+/Paper_final/respaldos_*/
+
+# Python caches.
+__pycache__/
+
+# Full-text copies extracted from source publications.
+/Resultados/00_extraccion_texto/*.txt
+/Resultados/03_registro_busquedas/MBE_2023_Wagner_texto_extraido.txt
+
+# Direct page captures or vector inspections of source publications.
+/Resultados/Trabajo_Cline/T02_ADRIATIC/logs/pdf_inspection.json
+/Resultados/Trabajo_Cline/T02_ADRIATIC/logs/page_6.png
+/Resultados/Trabajo_Cline/T02_ADRIATIC/logs/page_8.png
+/Resultados/Trabajo_Cline/T03_revision_T01/sesion1_cortada/data_derived/pdf_p06.png
+/Resultados/Trabajo_Cline/T03_revision_T01/sesion1_cortada/data_derived/pdf_p16.png
+/Resultados/Trabajo_Cline/T03_revision_T01/sesion1_cortada/data_derived/pdf_p17.png
+**/extraction_audit.json

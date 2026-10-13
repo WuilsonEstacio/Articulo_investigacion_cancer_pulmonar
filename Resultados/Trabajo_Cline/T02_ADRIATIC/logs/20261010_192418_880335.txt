@@ -1,0 +1,78 @@
+{
+  "SG_durvalumab": {
+    "page": 6,
+    "path_id": 737,
+    "other_path_ids": [
+      737,
+      738
+    ],
+    "x_scale": 4.130359393334673,
+    "x_origin": 85.24235423091844,
+    "y_scale": -114.02968007867969,
+    "y_text_origin": 190.97413825988755,
+    "first_y": 76.97348403930664,
+    "origin_shift_probability": 0.00025454651875500556,
+    "points": 74,
+    "support_end": 60.204431810001374,
+    "unique_marks": 133,
+    "monotone": true,
+    "s0": 1.0
+  },
+  "SG_placebo": {
+    "page": 6,
+    "path_id": 251,
+    "other_path_ids": [
+      251,
+      254
+    ],
+    "x_scale": 4.130359393334673,
+    "x_origin": 85.24235423091844,
+    "y_scale": -114.02968007867969,
+    "y_text_origin": 190.97413825988755,
+    "first_y": 76.97348403930664,
+    "origin_shift_probability": 0.00025454651875500556,
+    "points": 82,
+    "support_end": 60.953281312811306,
+    "unique_marks": 107,
+    "monotone": true,
+    "s0": 1.0
+  },
+  "SLP_durvalumab": {
+    "page": 8,
+    "path_id": 720,
+    "other_path_ids": [
+      720,
+      721
+    ],
+    "x_scale": 4.130359393334673,
+    "x_origin": 85.24235423091844,
+    "y_scale": -114.02968007867979,
+    "y_text_origin": 190.22413825988767,
+    "first_y": 76.17837905883789,
+    "origin_shift_probability": -0.00014100822135865165,
+    "points": 46,
+    "support_end": 55.36269625971778,
+    "unique_marks": 96,
+    "monotone": true,
+    "s0": 1.0
+  },
+  "SLP_placebo": {
+    "page": 8,
+    "path_id": 334,
+    "other_path_ids": [
+      334,
+      337
+    ],
+    "x_scale": 4.130359393334673,
+    "x_origin": 85.24235423091844,
+    "y_scale": -114.02968007867979,
+    "y_text_origin": 190.22413825988767,
+    "first_y": 76.17837905883789,
+    "origin_shift_probability": -0.00014100822135865165,
+    "points": 51,
+    "support_end": 55.81810746822571,
+    "unique_marks": 77,
+    "monotone": true,
+    "s0": 1.0
+  }
+}

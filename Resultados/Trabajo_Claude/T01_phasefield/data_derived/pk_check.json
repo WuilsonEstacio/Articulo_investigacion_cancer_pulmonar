@@ -1,0 +1,32 @@
+{
+ "P1_Q2W": {
+  "pico_analitico": 1.3528665926503434e+17,
+  "valle_analitico": 9.416322001919808e+16,
+  "pico_codigo_ultimo": 1.3528438225136243e+17,
+  "valle_codigo_ultimo": 9.426354688712883e+16,
+  "n_picos_ventana": 34,
+  "err_rel_pico": 1.6831028900219937e-05,
+  "err_rel_valle": 0.001065457063918346,
+  "cumple_0.1%": false
+ },
+ "P2_Q3W": {
+  "pico_analitico": 7.21586735805209e+16,
+  "valle_analitico": 3.7283086626205496e+16,
+  "pico_codigo_ultimo": 7.215719461426509e+16,
+  "valle_codigo_ultimo": 3.733129859724047e+16,
+  "n_picos_ventana": 12,
+  "err_rel_pico": 2.049602885448887e-05,
+  "err_rel_valle": 0.0012931325004912233,
+  "cumple_0.1%": false
+ },
+ "P2_Q6W": {
+  "pico_analitico": 4.759793966449619e+16,
+  "valle_analitico": 1.2690088727483538e+16,
+  "pico_codigo_ultimo": 4.753647375839137e+16,
+  "valle_codigo_ultimo": 1.2690352623290454e+16,
+  "n_picos_ventana": 7,
+  "err_rel_pico": 0.0012913564439570075,
+  "err_rel_valle": 2.079542646100402e-05,
+  "cumple_0.1%": false
+ }
+}

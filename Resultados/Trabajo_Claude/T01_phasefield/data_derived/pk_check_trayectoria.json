@@ -1,0 +1,16 @@
+{
+ "P1_Q2W": {
+  "n_puntos": 35497,
+  "err_max_rel_al_maximo": 0.004775588702306716,
+  "err_rel_puntual_max(phi>1%max)": 0.009218896638913128,
+  "err_rel_puntual_p99": 1.6910520491409198e-05,
+  "cumple_0.1%": false
+ },
+ "P2_Q3W_Q6W": {
+  "n_puntos": 26497,
+  "err_max_rel_al_maximo": 0.007208896678895061,
+  "err_rel_puntual_max(phi>1%max)": 0.026981482960052865,
+  "err_rel_puntual_p99": 2.0523112320678305e-05,
+  "cumple_0.1%": false
+ }
+}

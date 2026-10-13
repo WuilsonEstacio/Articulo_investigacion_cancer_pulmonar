@@ -1,0 +1,7 @@
+Empty DataFrame
+Columns: []
+Index: []
+SG durvalumab eventos 115 tiempos distintos 108 max empate 3 empates>=5: {}
+SG placebo eventos 146 tiempos distintos 132 max empate 2 empates>=5: {}
+SLP durvalumab eventos 140 tiempos distintos 88 max empate 6 empates>=5: {1.6290579829235683: 5, 1.7803765342846407: 5, 1.8559748540057663: 5, 1.893865909593016: 5, 3.6683488407562224: 6}
+SLP placebo eventos 170 tiempos distintos 100 max empate 9 empates>=5: {1.7050206530384435: 7, 1.817963271862409: 6, 1.855975777580909: 9, 3.6683488407562224: 6}

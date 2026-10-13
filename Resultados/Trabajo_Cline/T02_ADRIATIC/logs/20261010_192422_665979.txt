@@ -1,0 +1,12 @@
+test_all_censored (test_guyot.GuyotTests) ... ok
+test_boundary_event (test_guyot.GuyotTests) ... ok
+test_empty_interval (test_guyot.GuyotTests) ... ok
+test_invalid_inputs (test_guyot.GuyotTests) ... ok
+test_reproducible (test_guyot.GuyotTests) ... ok
+test_step_is_right_continuous (test_guyot.GuyotTests) ... ok
+test_uncensored_known_events (test_guyot.GuyotTests) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.058s
+
+OK

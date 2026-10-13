@@ -1,0 +1,20 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+fenics-dijitso               2019.1.0         pyhd8ed1ab_40          conda-forge
+fenics-dolfin                2019.1.0         py310h62279de_65       conda-forge
+fenics-ffc                   2019.1.0         pyhd8ed1ab_41          conda-forge
+fenics-fiat                  2019.1.0         pyhd8ed1ab_41          conda-forge
+fenics-libdolfin             2019.1.0         hfb3dd88_65            conda-forge
+fenics-ufl                   2019.1.0         pyhcf101f3_39          conda-forge
+joblib                       1.6.0            pyhcf101f3_0           conda-forge
+libblas                      3.11.0           11_h4a7cf45_openblas   conda-forge
+matplotlib                   3.10.9           py310hff52083_0        conda-forge
+matplotlib-base              3.10.9           py310hfde16b3_0        conda-forge
+mpich                        5.0.1            hfbb40bb_4             conda-forge
+numpy                        1.26.4           py310hb13e2d6_0        conda-forge
+pandas                       2.3.3            py310h0158d43_2        conda-forge
+petsc                        3.25.6           real_h1bf4665_0        conda-forge
+python                       3.10.22          h267e890_0_cpython     conda-forge
+scipy                        1.15.2           py310h1d65ade_0        conda-forge
+tqdm                         4.70.0           pyh8f84b5b_0           conda-forge

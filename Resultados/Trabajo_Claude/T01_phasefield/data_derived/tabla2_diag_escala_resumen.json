@@ -1,0 +1,56 @@
+{
+ "nota": "DIAGNÓSTICO, no criterio: g_script*alpha/100 frente a la Tabla 2",
+ "n": 88,
+ "conteo": {
+  "reproducido": 88
+ },
+ "signo_coincide": 88,
+ "rangos_coinciden": 88,
+ "err_rel_mediana": 0.0006826815974352147,
+ "err_rel_p90": 0.0022084169588991462,
+ "err_rel_max": 0.004494017275519015,
+ "n_err_le_1pct": 88,
+ "n_err_le_5pct": 88,
+ "peores_5": [
+  {
+   "paciente": "P1",
+   "parametro": "lambda_P_pro",
+   "indice": "g_phiT",
+   "g_publicado": "0.011",
+   "g_escalado": 0.01095056580996929,
+   "err_rel_escalado": 0.004494017275519015
+  },
+  {
+   "paciente": "P1",
+   "parametro": "sigma_PN",
+   "indice": "g_phiT",
+   "g_publicado": "0.0105",
+   "g_escalado": 0.01045427760497464,
+   "err_rel_escalado": 0.004354513811939157
+  },
+  {
+   "paciente": "P1",
+   "parametro": "lambda",
+   "indice": "g_phiP",
+   "g_publicado": "-0.0137",
+   "g_escalado": -0.013654123067805191,
+   "err_rel_escalado": 0.003348681182102879
+  },
+  {
+   "paciente": "P2",
+   "parametro": "kappa_i",
+   "indice": "g_phiP",
+   "g_publicado": "-0.00152",
+   "g_escalado": -0.0015153024936548957,
+   "err_rel_escalado": 0.003090464700726593
+  },
+  {
+   "paciente": "P1",
+   "parametro": "eps_P",
+   "indice": "g_phiN",
+   "g_publicado": "0.0122",
+   "g_escalado": 0.012237486631580889,
+   "err_rel_escalado": 0.003072674719744922
+  }
+ ]
+}

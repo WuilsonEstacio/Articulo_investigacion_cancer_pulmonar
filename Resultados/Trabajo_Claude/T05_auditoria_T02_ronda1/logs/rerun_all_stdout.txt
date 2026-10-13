@@ -1,0 +1,42 @@
+       quantity endpoint        arm  published  reconstructed  difference         unit  tolerance classification source               page                                                          note scope
+eventos_totales       SG durvalumab    115.000     115.000000    0.000000      eventos       3.45    reproducido    D04       p.7; Fig. 1A                                        Restricción de entrada    H1
+        mediana       SG durvalumab     55.900      55.936764    0.036764        meses       3.00    reproducido    D04          p.1 y p.7                                                                  H1
+           S_24       SG durvalumab      0.680       0.680220    0.000220 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+           S_36       SG durvalumab      0.565       0.564953   -0.000047 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+eventos_totales       SG    placebo    146.000     146.000000    0.000000      eventos       4.38    reproducido    D04       p.7; Fig. 1A                                        Restricción de entrada    H1
+        mediana       SG    placebo     33.400      33.387519   -0.012481        meses       1.00    reproducido    D04          p.1 y p.7                                                                  H1
+           S_24       SG    placebo      0.585       0.585396    0.000396 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+           S_36       SG    placebo      0.476       0.476687    0.000687 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+eventos_totales      SLP durvalumab    139.000     140.000000    1.000000      eventos       4.17    reproducido    D04    p.7; Fig. 2 p.9                                        Restricción de entrada    H1
+        mediana      SLP durvalumab     16.600      16.544647   -0.055353        meses       1.00    reproducido    D04          p.1 y p.7                                                                  H1
+           S_18      SLP durvalumab      0.488       0.489575    0.001575 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+           S_24      SLP durvalumab      0.462       0.463947    0.001947 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+eventos_totales      SLP    placebo    169.000     170.000000    1.000000      eventos       5.07    reproducido    D04    p.7; Fig. 2 p.9                                        Restricción de entrada    H1
+        mediana      SLP    placebo      9.200       9.182095   -0.017905        meses       1.00    reproducido    D04          p.1 y p.7                                                                  H1
+           S_18      SLP    placebo      0.361       0.361439    0.000439 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+           S_24      SLP    placebo      0.342       0.343078    0.001078 probabilidad       0.02    reproducido    D04                p.7                                                                  H1
+             HR       SG     D vs P      0.730       0.730295    0.000295        razón       0.03    reproducido    D04 p.1 y p.7; Fig. 1B Cox no estratificado; forest no aclara inequívocamente ajuste    H1
+             HR      SLP     D vs P      0.760       0.771465    0.011465        razón       0.03    reproducido    D04 p.1 y p.7; Fig. 2B Cox no estratificado; forest no aclara inequívocamente ajuste    H1
+E2.0: 10/100
+E2.0: 20/100
+E2.0: 30/100
+E2.0: 40/100
+E2.0: 50/100
+E2.0: 60/100
+E2.0: 70/100
+E2.0: 80/100
+E2.0: 90/100
+E2.0: 100/100
+E2.0b: 10/100
+E2.0b: 20/100
+E2.0b: 30/100
+E2.0b: 40/100
+E2.0b: 50/100
+E2.0b: 60/100
+E2.0b: 70/100
+E2.0b: 80/100
+E2.0b: 90/100
+E2.0b: 100/100
+Report and delivery generated: C:\Users\Administrador\AppData\Local\Temp\claude\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\5f6ae09e-7ea7-4883-8881-efabe441fc32\scratchpad\t05_rerun\T02_ADRIATIC\INFORME_T02.md
+
+LOG C:\Users\Administrador\AppData\Local\Temp\claude\c--Users-Administrador-OneDrive---bisionconsulting-com-Documentos-Paper-Cancer\5f6ae09e-7ea7-4883-8881-efabe441fc32\scratchpad\t05_rerun\T02_ADRIATIC\logs\20261012_112247_534431.json

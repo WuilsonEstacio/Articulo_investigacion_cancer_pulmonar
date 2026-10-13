@@ -1,0 +1,531 @@
+{
+ "fecha_consulta": "2026-10-10T18:20:52",
+ "servicio": "Europe PMC REST search",
+ "busquedas": {
+  "B11_Schlicke_Kuttler_Schumann": {
+   "consulta": "AUTH:\"Schlicke P\" AND AUTH:\"Kuttler C\"",
+   "orden": "fecha desc",
+   "n_resultados": 7,
+   "primeros": [
+    {
+     "title": "Predicting resistance and pseudoprogression: are minimalistic immunoediting mathematical models capable of forecasting checkpoint inhibitor treatment outcomes in lung cancer?",
+     "authorString": "Scibilia KR, Schlicke P, Schneller F, Kuttler C.",
+     "pubYear": "2024",
+     "journalTitle": "Math Biosci",
+     "doi": "10.1016/j.mbs.2024.109287",
+     "pmid": "39218211",
+     "pmcid": null,
+     "citedByCount": 3
+    },
+    {
+     "title": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy.",
+     "authorString": "Wagner A, Schlicke P, Fritz M, Kuttler C, Oden JT, Schumann C, Wohlmuth B.",
+     "pubYear": "2023",
+     "journalTitle": "Math Biosci Eng",
+     "doi": "10.3934/mbe.2023828",
+     "pmid": "38052574",
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "How mathematical modeling could contribute to the quantification of metastatic tumor burden under therapy: insights in immunotherapeutic treatment of non-small cell lung cancer.",
+     "authorString": "Schlicke P, Kuttler C, Schumann C.",
+     "pubYear": "2021",
+     "journalTitle": "Theor Biol Med Model",
+     "doi": "10.1186/s12976-021-00142-1",
+     "pmid": "34078405",
+     "pmcid": "PMC8170801",
+     "citedByCount": 14
+    },
+    {
+     "title": "Effective tumor kinetics inferred from single routine H&E biopsies enable counterfactual virtual radiotherapy trials",
+     "authorString": "Schlicke P, Ercan C, Ranjbar S, Seldomridge AN, Aggarwal S, Mehta A, Sainz TP, Zahid MU, Fang P, Hofmann VA, Pasetto S, Cisneros Napravnik T, Puebla-Osorio N, Kuttler C, Klopp A, Colbert L, Holder AM, Weiser R, Lin SH, Torres-Cabala CA, Vega F, Yuan Y, Enderling H.",
+     "pubYear": "2026",
+     "journalTitle": null,
+     "doi": "10.64898/2026.09.10.26362768",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy",
+     "authorString": "Wagner A, Schlicke P, Fritz M, Kuttler C, Oden JT, Schumann C, Wohlmuth B.",
+     "pubYear": "2023",
+     "journalTitle": null,
+     "doi": "10.1101/2023.03.20.533400",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 1
+    },
+    {
+     "title": "How Mathematical Modeling Could Contribute to the Quantification of Metastatic Tumor Burden Under Therapy: Insights in Immunotherapeutic Treatment of Non-Small Cell Lung Cancer",
+     "authorString": "Schlicke P, Kuttler C, Schumann C.",
+     "pubYear": "2020",
+     "journalTitle": null,
+     "doi": "10.21203/rs.3.rs-107658/v1",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "How Mathematical Modeling Could Contribute to the Quantification of Metastatic Tumor Burden Under Therapy: Insights in Immunotherapeutic Treatment of Non-Small Cell Lung Cancer",
+     "authorString": "Schlicke P, Kuttler C, Schumann C.",
+     "pubYear": "2020",
+     "journalTitle": null,
+     "doi": "10.21203/rs.3.rs-37882/v1",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B12_Kuttler_NSCLC_inmunoterapia": {
+   "consulta": "AUTH:\"Kuttler C\" AND (immunotherapy OR \"checkpoint\") AND (lung OR NSCLC)",
+   "orden": "fecha desc",
+   "n_resultados": 6,
+   "primeros": [
+    {
+     "title": "Predicting resistance and pseudoprogression: are minimalistic immunoediting mathematical models capable of forecasting checkpoint inhibitor treatment outcomes in lung cancer?",
+     "authorString": "Scibilia KR, Schlicke P, Schneller F, Kuttler C.",
+     "pubYear": "2024",
+     "journalTitle": "Math Biosci",
+     "doi": "10.1016/j.mbs.2024.109287",
+     "pmid": "39218211",
+     "pmcid": null,
+     "citedByCount": 3
+    },
+    {
+     "title": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy.",
+     "authorString": "Wagner A, Schlicke P, Fritz M, Kuttler C, Oden JT, Schumann C, Wohlmuth B.",
+     "pubYear": "2023",
+     "journalTitle": "Math Biosci Eng",
+     "doi": "10.3934/mbe.2023828",
+     "pmid": "38052574",
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "How mathematical modeling could contribute to the quantification of metastatic tumor burden under therapy: insights in immunotherapeutic treatment of non-small cell lung cancer.",
+     "authorString": "Schlicke P, Kuttler C, Schumann C.",
+     "pubYear": "2021",
+     "journalTitle": "Theor Biol Med Model",
+     "doi": "10.1186/s12976-021-00142-1",
+     "pmid": "34078405",
+     "pmcid": "PMC8170801",
+     "citedByCount": 14
+    },
+    {
+     "title": "A phase-field model for non-small cell lung cancer under the effects of immunotherapy",
+     "authorString": "Wagner A, Schlicke P, Fritz M, Kuttler C, Oden JT, Schumann C, Wohlmuth B.",
+     "pubYear": "2023",
+     "journalTitle": null,
+     "doi": "10.1101/2023.03.20.533400",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 1
+    },
+    {
+     "title": "How Mathematical Modeling Could Contribute to the Quantification of Metastatic Tumor Burden Under Therapy: Insights in Immunotherapeutic Treatment of Non-Small Cell Lung Cancer",
+     "authorString": "Schlicke P, Kuttler C, Schumann C.",
+     "pubYear": "2020",
+     "journalTitle": null,
+     "doi": "10.21203/rs.3.rs-107658/v1",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 0
+    },
+    {
+     "title": "How Mathematical Modeling Could Contribute to the Quantification of Metastatic Tumor Burden Under Therapy: Insights in Immunotherapeutic Treatment of Non-Small Cell Lung Cancer",
+     "authorString": "Schlicke P, Kuttler C, Schumann C.",
+     "pubYear": "2020",
+     "journalTitle": null,
+     "doi": "10.21203/rs.3.rs-37882/v1",
+     "pmid": null,
+     "pmcid": null,
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B13_replicacion_ABM_EGFR": {
+   "consulta": "(replication OR reproduction OR reproducibility OR \"re-implementation\") AND (\"agent-based\" OR multiscale) AND EGFR AND \"lung cancer\"",
+   "orden": "fecha desc",
+   "n_resultados": 504,
+   "primeros": [
+    {
+     "title": "A multimodal AI biomarker PATH-ORACLE improves prediction of recurrence in stage I lung adenocarcinoma.",
+     "authorString": "Kilim O, Pipek O, Sztupinszki Z, Diossy M, Prosz A, Naceur-Lombardelli C, Veeriah S, Moore D, Jamal-Hanjani M, Hackshaw A, Fillinger J, Moldvay J, Csabai I, Swanton C, Szallasi Z.",
+     "pubYear": "2026",
+     "journalTitle": "Immunooncol Technol",
+     "doi": "10.1016/j.iotech.2026.101614",
+     "pmid": "42787516",
+     "pmcid": "PMC13602146",
+     "citedByCount": 0
+    },
+    {
+     "title": "Artificial intelligence and extracellular vesicles in oncology: towards tumor diagnosis, prediction, and therapy.",
+     "authorString": "Li X, Su H, Li Y, Jiang L, Zhou J, Zhang L, Huang Y, Yang X, Li M.",
+     "pubYear": "2026",
+     "journalTitle": "Drug Deliv",
+     "doi": "10.1080/10717544.2026.2713415",
+     "pmid": "42590833",
+     "pmcid": "PMC13474531",
+     "citedByCount": 0
+    },
+    {
+     "title": "Decoding Biomolecular Phase Separation: From Physiological Roles to Pathological Mechanisms and Therapeutic Biomaterials Design",
+     "authorString": "Zhu J, Dong J, Gong Q, Song X, Shen Z, Liang C.",
+     "pubYear": "2026",
+     "journalTitle": "Advanced science",
+     "doi": null,
+     "pmid": null,
+     "pmcid": "PMC13650032",
+     "citedByCount": 0
+    },
+    {
+     "title": "Immune-Cell Dynamics in the Tumor Microenvironment: Implications for Cancer Therapy. ",
+     "authorString": "Guo P, Xie Y, Song R, Yang M, Lin Z, Guan C, Wang Z, Wen J, Chen GL.",
+     "pubYear": "2026",
+     "journalTitle": "MedComm (2020)",
+     "doi": "10.1002/mco2.71040",
+     "pmid": "42830947",
+     "pmcid": "PMC13634179",
+     "citedByCount": 0
+    },
+    {
+     "title": "Cancer Cell Metastasis: From Molecular Mechanisms to Therapeutic Strategies.",
+     "authorString": "Zhao Y, Xu W, Wang Y, Huang H, Su Y, Zhou L, Liu J, Guo J.",
+     "pubYear": "2026",
+     "journalTitle": "MedComm (2020)",
+     "doi": "10.1002/mco2.71026",
+     "pmid": "42827658",
+     "pmcid": "PMC13631557",
+     "citedByCount": 0
+    },
+    {
+     "title": "Engineering Functional Biomaterials for Targeted and Localized Cancer Drug Delivery: A Structure-Property-Performance Design Perspective.",
+     "authorString": "Etinosa P, Waidi YO, Osafo S, Danyuo Y, Eluu S, Ezeala C.",
+     "pubYear": "2026",
+     "journalTitle": "Pharmaceuticals (Basel)",
+     "doi": "10.3390/ph19091498",
+     "pmid": "42797543",
+     "pmcid": "PMC13610536",
+     "citedByCount": 0
+    },
+    {
+     "title": "Big Data and Artificial Intelligence in Cancer Drug Discovery: Promise, Challenges, and Emerging Opportunities.",
+     "authorString": "Singhera FU, Overhulse JM, Lee TM, Katz JE, Lee JSH, McKenna CE.",
+     "pubYear": "2026",
+     "journalTitle": "Cancers (Basel)",
+     "doi": "10.3390/cancers18182939",
+     "pmid": "42794906",
+     "pmcid": "PMC13604657",
+     "citedByCount": 0
+    },
+    {
+     "title": "Heterogeneity in cancer: molecular mechanisms and therapeutic strategies.",
+     "authorString": "He YL, Niu L, Ren YM, Yuan GQ, Pan YW, Jin WL.",
+     "pubYear": "2026",
+     "journalTitle": "Signal Transduct Target Ther",
+     "doi": "10.1038/s41392-026-03064-x",
+     "pmid": "42778549",
+     "pmcid": "PMC13601562",
+     "citedByCount": 0
+    },
+    {
+     "title": "Updated Knowledge on Radon Exposure: Quantification Methods, Health Effects, and Molecular Mechanisms.",
+     "authorString": "Han J, Zhuo W, Chen B, Wieczorek J, Zhang Y, He Y, Feng B.",
+     "pubYear": "2026",
+     "journalTitle": "Environ Health (Wash)",
+     "doi": "10.1021/envhealth.5c00835",
+     "pmid": "42774805",
+     "pmcid": "PMC13595386",
+     "citedByCount": 0
+    },
+    {
+     "title": "R-package agentBayes: Likelihood-based statistical methods for agent-based models.",
+     "authorString": "Moser N, Finkelshtein D, Chargaziya G, Cornell SJ, Hamis S, Scott JG, Tadele DS, Ovaskainen O.",
+     "pubYear": "2026",
+     "journalTitle": "PLoS Comput Biol",
+     "doi": "10.1371/journal.pcbi.1014786",
+     "pmid": "42743361",
+     "pmcid": "PMC13619099",
+     "citedByCount": 0
+    },
+    {
+     "title": "Cancer Drug Delivery with Nanoparticles and Biomolecules: Stimuli-Responsive, Theranostic, and AI-Guided Approaches.",
+     "authorString": "Boncristiani C, Baldassarre F, Eddahaoui K, Ciccarella G, Vergaro V.",
+     "pubYear": "2026",
+     "journalTitle": "Materials (Basel)",
+     "doi": "10.3390/ma19173729",
+     "pmid": "42738166",
+     "pmcid": "PMC13567166",
+     "citedByCount": 0
+    },
+    {
+     "title": "Pan-tumor spatial transcriptomics reveals conserved properties of tumor organization.",
+     "authorString": "Behera V, Guzzetta A, Giba H, Pen UY, Di Lello A, Pandey B, Doran BA, Esposito A, Pezeshk A, Husain A, Bestvina CM, Kline J, Garassino MC, Raman AS.",
+     "pubYear": "2026",
+     "journalTitle": "Cell Rep Med",
+     "doi": "10.1016/j.xcrm.2026.103013",
+     "pmid": "42664957",
+     "pmcid": "PMC13589502",
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B14_reproducibilidad_modelos_oncologia": {
+   "consulta": "(reproducibility OR replicability) AND (\"mathematical oncology\" OR \"computational oncology\" OR \"tumor growth model\")",
+   "orden": "fecha desc",
+   "n_resultados": 404,
+   "primeros": [
+    {
+     "title": "The Sleeping Giant: Metabolism and Autophagy in the Generation and Survival of Dormant Polyploid Giant Cancer Cells.",
+     "authorString": "Guil-Luna S, Sánchez-Montero MT, Díaz-Chacón A, Rodríguez-Ariza A.",
+     "pubYear": "2026",
+     "journalTitle": "MedComm (2020)",
+     "doi": "10.1002/mco2.70873",
+     "pmid": "42769291",
+     "pmcid": "PMC13591023",
+     "citedByCount": 0
+    },
+    {
+     "title": "Targeting Oncomucin-Driven Immunosuppression Improves the Efficacy of K-ras&lt;sup&gt;G12D&lt;/sup&gt; Inhibition in Pancreatic Cancer.",
+     "authorString": "Bhyravbhatla N, Alsafwani ZW, Thapa I, Nallasamy P, Atri P, Moran Segura CM, Park MA, Khan I, Villalobos-Ayala K, Marimuthu S, Cox JL, Centeno BA, Aithal A, Malafa M, Ghersi D, Batra SK, Kumar S.",
+     "pubYear": "2026",
+     "journalTitle": "Gastroenterology",
+     "doi": "10.1053/j.gastro.2026.04.041",
+     "pmid": "42191046",
+     "pmcid": "PMC13531614",
+     "citedByCount": 2
+    },
+    {
+     "title": "Germline homologous recombination deficiency influences TP53-mutant clonal hematopoiesis fitness during platinum and PARP inhibitor treatment.",
+     "authorString": "Baeten JT, Chan ICC, Moukarzel L, Petrone GEM, Liu J, Tran D, Tabs J, Tabet I, Agashe S, Nasrollahzadeh E, Vasireddy A, Carter A, Patel M, Stopsack KH, Kantoff PW, Zhou W, Batchi-Bouyou AL, Beeler JS, Mustion G, Pharoah P, Brenton J, Offit K, Barnett E, Li B, Abida W, Schram AM, Weigelt B, Mutch D, Vindigni A, Mullen M, Cruchaga C, Scher H, Levine R, Papaemmanuil E, Machiela MJ, Cadoo K, Link DC, Bolton KL.",
+     "pubYear": "2026",
+     "journalTitle": "Nat Genet",
+     "doi": "10.1038/s41588-026-02752-2",
+     "pmid": "42806144",
+     "pmcid": "PMC13649601",
+     "citedByCount": 0
+    },
+    {
+     "title": "The Next Frontier in Quantitative Co-Clinical Imaging to Advance Functional Precision Oncology.",
+     "authorString": "Shoghi KI, Badea CT, Peehl DM, Chenevert TL, Daldrup-Link HE, Hawkins DS, Houghton AM, Kinahan PE, Lewis MT, Ma CX, Manning HC, Miyaoka RS, Mowery YM, O'Connor JP, O'Dwyer PJ, Ross BD, Sriram R, Yankeelov TE, Zhou R, Kurhanewicz J, Mankoff DA.",
+     "pubYear": "2026",
+     "journalTitle": "Clin Cancer Res",
+     "doi": "10.1158/1078-0432.ccr-26-0275",
+     "pmid": "42776062",
+     "pmcid": "PMC13614520",
+     "citedByCount": 0
+    },
+    {
+     "title": "Immune-related hallmark pathway heterogeneity identifies a prognostic risk signature with independent external validation in glioblastoma.",
+     "authorString": "Abdelmaguid AM, Eltanany RMA, El-Khadragy MF, Moneim AEA.",
+     "pubYear": "2026",
+     "journalTitle": "Discov Oncol",
+     "doi": "10.1007/s12672-026-05696-5",
+     "pmid": "42742779",
+     "pmcid": "PMC13578200",
+     "citedByCount": 0
+    },
+    {
+     "title": "&lt;i&gt;DDX41&lt;/i&gt; mutations establish a separate entity in acute myeloid leukemia with distinct survival outcomes.",
+     "authorString": "Seeling C, Saadati M, Späth D, Heuser M, Thol F, Ganser A, Papaemmanuil E, Bullinger L, Benner A, Döhner H, Döhner K.",
+     "pubYear": "2026",
+     "journalTitle": "Hemasphere",
+     "doi": "10.1002/hem3.70483",
+     "pmid": "42741445",
+     "pmcid": "PMC13574209",
+     "citedByCount": 0
+    },
+    {
+     "title": "Multiregion profiling of genomic and transcriptional heterogeneity in head and neck squamous-cell carcinoma.",
+     "authorString": "Heurtier V, Marret G, Lamy C, Hamza A, Diallo MH, Ahmanache L, Vacher S, Schnitzler A, Courtois L, Jeannot E, Klijanienko J, El Beaino Z, Gal J, Ledru M, Martinat C, Martin J, Choussy O, Dubray-Vautrin A, Lesnik M, Ghanem W, Taouachi R, Badois N, Nhy C, Borcoman E, Flavius J, Kadi A, Berger F, Servant N, Kamal M, Bièche I, Le Tourneau C.",
+     "pubYear": "2026",
+     "journalTitle": "ESMO Open",
+     "doi": "10.1016/j.esmoop.2026.108367",
+     "pmid": "42727420",
+     "pmcid": "PMC13583575",
+     "citedByCount": 0
+    },
+    {
+     "title": "Explainable machine learning for breast cancer prediction in resource-constrained settings: A multi-algorithmic framework integrating shap-based transparency with clinical decision support.",
+     "authorString": "Bamodu OA, Nezam S, Chung CC.",
+     "pubYear": "2026",
+     "journalTitle": "PLOS Digit Health",
+     "doi": "10.1371/journal.pdig.0001706",
+     "pmid": "42726895",
+     "pmcid": "PMC13568489",
+     "citedByCount": 0
+    },
+    {
+     "title": "Conservative Numerical Framework for Fractional Stochastic Delay Modeling of CSF-1/EGF Tumor-Macrophage Aggregation.",
+     "authorString": "Mohammad M, Rihan F, Trounev A.",
+     "pubYear": "2026",
+     "journalTitle": "Int J Numer Method Biomed Eng",
+     "doi": "10.1002/cnm.70211",
+     "pmid": "42705872",
+     "pmcid": "PMC13549801",
+     "citedByCount": 0
+    },
+    {
+     "title": "How AI Can Advance Mathematical Biology: Opportunities, Challenges, and Future Directions.",
+     "authorString": "Rabiei K, Rempala GA, Laubenbacher R, Hao W.",
+     "pubYear": "2026",
+     "journalTitle": "Bull Math Biol",
+     "doi": "10.1007/s11538-026-01744-x",
+     "pmid": "42693360",
+     "pmcid": "PMC13541877",
+     "citedByCount": 0
+    },
+    {
+     "title": "Epigenetic Rewiring and Context-Dependent Therapeutic Vulnerabilities in Myeloproliferative Neoplasms.",
+     "authorString": "Abdelgawwad El-Sehrawy AAM, Al-Khreisat MJ, Kubaev A, Rajapov A, Ismael SH, Alhasso B, Kaur I, Bainsal N.",
+     "pubYear": "2026",
+     "journalTitle": "Hematol Oncol",
+     "doi": "10.1002/hon.70239",
+     "pmid": "42626789",
+     "pmcid": "PMC13494820",
+     "citedByCount": 0
+    },
+    {
+     "title": "Building a genomics-capable cancer workforce: a competency-based framework for education and training in precision oncology.",
+     "authorString": "Drury A, Hamdi Y, Mulder N, Rueter J, Kelley L, Blazer K, Casolino R, Gray SW.",
+     "pubYear": "2026",
+     "journalTitle": "EClinicalMedicine",
+     "doi": "10.1016/j.eclinm.2026.104142",
+     "pmid": "42621205",
+     "pmcid": "PMC13486856",
+     "citedByCount": 0
+    }
+   ]
+  },
+  "B15_ADRIATIC_extrapolacion_cura": {
+   "consulta": "(ADRIATIC OR \"limited-stage small cell\") AND (durvalumab) AND (\"cure model\" OR \"mixture cure\" OR \"restricted mean survival\" OR \"non-proportional hazards\" OR extrapolation)",
+   "orden": "fecha desc",
+   "n_resultados": 18,
+   "primeros": [
+    {
+     "title": "Identifying markers of cachexia and nutritional deficit on radical radiotherapy outcomes in lung and head and neck cancer.",
+     "authorString": "Liu TK, Noble D, Stares M, Phillips I.",
+     "pubYear": "2026",
+     "journalTitle": "Curr Opin Support Palliat Care",
+     "doi": "10.1097/spc.0000000000000818",
+     "pmid": "42421369",
+     "pmcid": "PMC13405630",
+     "citedByCount": 0
+    },
+    {
+     "title": "Impact of Japanese Subpopulation Data and Overall Survival in Pivotal Trials on Oncology Drug Approvals in Japan.",
+     "authorString": "Watanabe T, Sugiyama I, Kondo H.",
+     "pubYear": "2026",
+     "journalTitle": "Ther Innov Regul Sci",
+     "doi": "10.1007/s43441-026-00970-8",
+     "pmid": "42118514",
+     "pmcid": "PMC13526132",
+     "citedByCount": 0
+    },
+    {
+     "title": "Durvalumab plus anlotinib versus durvalumab alone as maintenance treatment in extensive-stage small-cell lung cancer (DURABLE): a multicenter, randomized, phase II trial and biomarker analysis.",
+     "authorString": "Zhang B, Zhong R, Shi C, Chu T, Zhang W, Wang H, Gan X, Zhang Z, Zhu C, Li X, Su W, Li J, Zhang Y, Han B, Zhong H.",
+     "pubYear": "2026",
+     "journalTitle": "Nat Commun",
+     "doi": "10.1038/s41467-026-73562-7",
+     "pmid": "42185290",
+     "pmcid": "PMC13385795",
+     "citedByCount": 1
+    },
+    {
+     "title": "Sequential immune checkpoint inhibition after palliative radiotherapy in patients with advanced head and neck squamous cell carcinoma: A retrospective cohort study.",
+     "authorString": "Katano A, Oka A, Minamitani M, Ito Y, Yamamura K, Kobayashi K, Yamashita H, Saito Y.",
+     "pubYear": "2026",
+     "journalTitle": "Mol Clin Oncol",
+     "doi": "10.3892/mco.2026.2931",
+     "pmid": "41767016",
+     "pmcid": "PMC12936903",
+     "citedByCount": 0
+    },
+    {
+     "title": "Current evidence and emerging approaches in immunotherapy for gynecological cancers.",
+     "authorString": "Ashonibare VJ, Hezekiel OS, Kukoyi OS, Hassan SA, Afolabi OA, Akhigbe TM, Akhigbe RE.",
+     "pubYear": "2026",
+     "journalTitle": "Discov Oncol",
+     "doi": "10.1007/s12672-026-04785-9",
+     "pmid": "41896372",
+     "pmcid": "PMC13149720",
+     "citedByCount": 1
+    },
+    {
+     "title": "Progress in the treatment of esophageal neuroendocrine carcinoma (Review).",
+     "authorString": "Shi J, He B, Zhang HD, Jiang CY, Zhang L.",
+     "pubYear": "2026",
+     "journalTitle": "Oncol Lett",
+     "doi": "10.3892/ol.2025.15367",
+     "pmid": "41235358",
+     "pmcid": "PMC12606570",
+     "citedByCount": 2
+    },
+    {
+     "title": "Immune checkpoint inhibitors for the treatment of solid tumors and lymphoma in the past 26 years (2000-2025).",
+     "authorString": "Huang L, Zhu H, Shi Y.",
+     "pubYear": "2025",
+     "journalTitle": "J Hematol Oncol",
+     "doi": "10.1186/s13045-025-01734-x",
+     "pmid": "41310835",
+     "pmcid": "PMC12661887",
+     "citedByCount": 26
+    },
+    {
+     "title": "International cost-effectiveness analysis of durvalumab consolidation treatment after chemoradiotherapy for patients with limited-stage small-cell lung cancer.",
+     "authorString": "Liu K, Zhu Y, Zhu H.",
+     "pubYear": "2025",
+     "journalTitle": "Transl Lung Cancer Res",
+     "doi": "10.21037/tlcr-2025-354",
+     "pmid": "40948851",
+     "pmcid": "PMC12432599",
+     "citedByCount": 1
+    },
+    {
+     "title": "Immunotherapy for Limited-Stage Small Cell Lung Cancer: Innovative Treatments and Future Perspectives.",
+     "authorString": "Jin X, Zhao W, Li G, Jiang J.",
+     "pubYear": "2025",
+     "journalTitle": "Cancer Control",
+     "doi": "10.1177/10732748251334434",
+     "pmid": "40228829",
+     "pmcid": "PMC12033400",
+     "citedByCount": 8
+    },
+    {
+     "title": "Neoadjuvant adebrelimab combined with chemotherapy (cisplatin/carboplatin and etoposide) for limited-stage small-cell lung cancer: a study protocol of phase 2 trial (NIUS).",
+     "authorString": "Liu Y, Huang Q, Tian L, Zheng X, Chen G, Xu H, Li M, Zhu D, Zhang Y.",
+     "pubYear": "2025",
+     "journalTitle": "BMJ Open",
+     "doi": "10.1136/bmjopen-2024-087302",
+     "pmid": "39800398",
+     "pmcid": "PMC11752003",
+     "citedByCount": 3
+    },
+    {
+     "title": "Small cell lung cancer and neuroendocrine tumours.",
+     "authorString": "Pandjarova I, Mercieca D, Gijtenbeek RGP, Pereira JO, Fantin A, Castaldo N, Keramida E, Pannu K, Konsoulova A, Aujayeb A.",
+     "pubYear": "2024",
+     "journalTitle": "Breathe (Sheff)",
+     "doi": "10.1183/20734735.0004-2024",
+     "pmid": "39534494",
+     "pmcid": "PMC11555584",
+     "citedByCount": 14
+    },
+    {
+     "title": "Emerging advances in defining the molecular and therapeutic landscape of small-cell lung cancer.",
+     "authorString": "Sen T, Takahashi N, Chakraborty S, Takebe N, Nassar AH, Karim NA, Puri S, Naqash AR.",
+     "pubYear": "2024",
+     "journalTitle": "Nat Rev Clin Oncol",
+     "doi": "10.1038/s41571-024-00914-x",
+     "pmid": "38965396",
+     "pmcid": "PMC11875021",
+     "citedByCount": 124
+    }
+   ]
+  }
+ }
+}

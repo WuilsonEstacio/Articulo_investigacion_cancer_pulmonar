@@ -1,0 +1,145 @@
+quantity,endpoint,arm,published,reconstructed,difference,unit,tolerance,classification,source,page,note,scope
+eventos_totales,SG,durvalumab,115.0,115.0,0.0,eventos,3.4499999999999997,reproducido,D04,p.7; Fig. 1A,Restricción de entrada,H1
+mediana,SG,durvalumab,55.9,55.93676470824442,0.03676470824441935,meses,3.0,reproducido,D04,p.1 y p.7,,H1
+mediana_IC95_inferior,SG,durvalumab,37.3,35.619282664662485,-1.680717335337512,meses,,no evaluable,D04,p.1 y p.7,"IC log-log Greenwood, informativo; NR=inf",informativo
+mediana_IC95_superior,SG,durvalumab,inf,inf,,meses,,no evaluable,D04,p.1 y p.7,"IC log-log Greenwood, informativo; NR=inf",informativo
+S_24,SG,durvalumab,0.68,0.6800362833431954,3.628334319538684e-05,probabilidad,0.02,reproducido,D04,p.7,,H1
+extraida_S_24,SG,durvalumab,0.68,0.6802060358951506,0.0002060358951505581,probabilidad,0.02,reproducido,D04,p.7,Comprobación de extracción; no independiente de figura,extraccion
+S_24_IC95_inferior,SG,durvalumab,0.619,0.61903394143323,3.3941433229989215e-05,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_24_IC95_superior,SG,durvalumab,0.733,0.733416535141962,0.0004165351419620489,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_36,SG,durvalumab,0.565,0.5644648648261522,-0.0005351351738477339,probabilidad,0.02,reproducido,D04,p.7,,H1
+extraida_S_36,SG,durvalumab,0.565,0.5655779922446824,0.0005779922446824681,probabilidad,0.02,reproducido,D04,p.7,Comprobación de extracción; no independiente de figura,extraccion
+S_36_IC95_inferior,SG,durvalumab,0.5,0.49917836739411175,-0.000821632605888245,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_36_IC95_superior,SG,durvalumab,0.625,0.6245604588337582,-0.00043954116624178585,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+riesgo_0,SG,durvalumab,264.0,264.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_3,SG,durvalumab,261.0,261.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_6,SG,durvalumab,248.0,248.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_9,SG,durvalumab,236.0,236.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_12,SG,durvalumab,223.0,223.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_15,SG,durvalumab,207.0,207.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_18,SG,durvalumab,189.0,189.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_21,SG,durvalumab,183.0,183.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_24,SG,durvalumab,172.0,171.0,-1.0,pacientes,,parcialmente reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_27,SG,durvalumab,162.0,161.0,-1.0,pacientes,,parcialmente reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_30,SG,durvalumab,141.0,141.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_33,SG,durvalumab,110.0,110.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_36,SG,durvalumab,90.0,90.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_39,SG,durvalumab,68.0,68.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_42,SG,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_45,SG,durvalumab,39.0,39.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_48,SG,durvalumab,27.0,27.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_51,SG,durvalumab,19.0,19.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_54,SG,durvalumab,11.0,11.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_57,SG,durvalumab,5.0,5.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_60,SG,durvalumab,1.0,1.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_63,SG,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04 ADRIATIC NEJM 2024,Fig. 1A p.6 (1318); ficha D04 §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+eventos_totales,SG,placebo,146.0,146.0,0.0,eventos,4.38,reproducido,D04,p.7; Fig. 1A,Restricción de entrada,H1
+mediana,SG,placebo,33.4,33.38751874711519,-0.012481252884811056,meses,1.0,reproducido,D04,p.1 y p.7,,H1
+mediana_IC95_inferior,SG,placebo,25.5,25.533722042869357,0.03372204286935698,meses,,no evaluable,D04,p.1 y p.7,"IC log-log Greenwood, informativo; NR=inf",informativo
+mediana_IC95_superior,SG,placebo,39.9,39.920726756534044,0.020726756534045876,meses,,no evaluable,D04,p.1 y p.7,"IC log-log Greenwood, informativo; NR=inf",informativo
+S_24,SG,placebo,0.585,0.5848368661871179,-0.00016313381288202145,probabilidad,0.02,reproducido,D04,p.7,,H1
+extraida_S_24,SG,placebo,0.585,0.5853974123699611,0.0003974123699611587,probabilidad,0.02,reproducido,D04,p.7,Comprobación de extracción; no independiente de figura,extraccion
+S_24_IC95_inferior,SG,placebo,0.523,0.5224220085264667,-0.0005779914735333236,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_24_IC95_superior,SG,placebo,0.643,0.6419904543516013,-0.0010095456483987242,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_36,SG,placebo,0.47600000000000003,0.47623185467178814,0.00023185467178810093,probabilidad,0.02,reproducido,D04,p.7,,H1
+extraida_S_36,SG,placebo,0.47600000000000003,0.47641702998308433,0.00041702998308429384,probabilidad,0.02,reproducido,D04,p.7,Comprobación de extracción; no independiente de figura,extraccion
+S_36_IC95_inferior,SG,placebo,0.413,0.41249757469170156,-0.0005024253082984154,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_36_IC95_superior,SG,placebo,0.537,0.5371452000584878,0.00014520005848772666,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+riesgo_0,SG,placebo,266.0,266.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_3,SG,placebo,260.0,260.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_6,SG,placebo,247.0,247.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_9,SG,placebo,231.0,231.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_12,SG,placebo,214.0,214.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_15,SG,placebo,195.0,194.0,-1.0,pacientes,,parcialmente reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_18,SG,placebo,175.0,175.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_21,SG,placebo,164.0,164.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_24,SG,placebo,151.0,151.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_27,SG,placebo,143.0,143.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_30,SG,placebo,123.0,123.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_33,SG,placebo,97.0,97.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_36,SG,placebo,80.0,80.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_39,SG,placebo,62.0,62.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_42,SG,placebo,44.0,44.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_45,SG,placebo,31.0,31.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_48,SG,placebo,23.0,23.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_51,SG,placebo,19.0,19.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_54,SG,placebo,8.0,8.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_57,SG,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_60,SG,placebo,1.0,1.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_63,SG,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 1A p.6; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+eventos_totales,SLP,durvalumab,139.0,140.0,1.0,eventos,4.17,reproducido,D04,p.7; Fig. 2 p.9,Restricción de entrada,H1
+mediana,SLP,durvalumab,16.6,16.5446483018556,-0.05535169814440266,meses,1.0,reproducido,D04,p.1 y p.7,,H1
+mediana_IC95_inferior,SLP,durvalumab,10.2,10.163362861941064,-0.03663713805893565,meses,,no evaluable,D04,p.1 y p.7,"IC log-log Greenwood, informativo; NR=inf",informativo
+mediana_IC95_superior,SLP,durvalumab,28.2,28.212882383837236,0.012882383837236944,meses,,no evaluable,D04,p.1 y p.7,"IC log-log Greenwood, informativo; NR=inf",informativo
+S_18,SLP,durvalumab,0.488,0.4905919426358671,0.002591942635867095,probabilidad,0.02,reproducido,D04,p.7,,H1
+extraida_S_18,SLP,durvalumab,0.488,0.4885103534211833,0.0005103534211833294,probabilidad,0.02,reproducido,D04,p.7,Comprobación de extracción; no independiente de figura,extraccion
+S_18_IC95_inferior,SLP,durvalumab,0.42200000000000004,0.42495521782031664,0.0029552178203166024,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_18_IC95_superior,SLP,durvalumab,0.55,0.5528770139174074,0.002877013917407356,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_24,SLP,durvalumab,0.462,0.4597319565757433,-0.002268043424256738,probabilidad,0.02,reproducido,D04,p.7,,H1
+extraida_S_24,SLP,durvalumab,0.462,0.46158754093318954,-0.0004124590668104777,probabilidad,0.02,reproducido,D04,p.7,Comprobación de extracción; no independiente de figura,extraccion
+S_24_IC95_inferior,SLP,durvalumab,0.396,0.3939634642804927,-0.002036535719507293,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_24_IC95_superior,SLP,durvalumab,0.525,0.522926731986359,-0.0020732680136410497,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+riesgo_0,SLP,durvalumab,264.0,264.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_3,SLP,durvalumab,212.0,212.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_6,SLP,durvalumab,161.0,161.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_9,SLP,durvalumab,135.0,135.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_12,SLP,durvalumab,113.0,113.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_15,SLP,durvalumab,105.0,105.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_18,SLP,durvalumab,101.0,101.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_21,SLP,durvalumab,98.0,98.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_24,SLP,durvalumab,84.0,84.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_27,SLP,durvalumab,78.0,78.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_30,SLP,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_33,SLP,durvalumab,51.0,51.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_36,SLP,durvalumab,33.0,33.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_39,SLP,durvalumab,21.0,21.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_42,SLP,durvalumab,19.0,19.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_45,SLP,durvalumab,10.0,10.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_48,SLP,durvalumab,10.0,10.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_51,SLP,durvalumab,4.0,4.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_54,SLP,durvalumab,4.0,4.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_57,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_60,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_63,SLP,durvalumab,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8 (1320); ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+eventos_totales,SLP,placebo,169.0,169.0,0.0,eventos,5.069999999999999,reproducido,D04,p.7; Fig. 2 p.9,Restricción de entrada,H1
+mediana,SLP,placebo,9.2,9.087671199072128,-0.11232880092787134,meses,1.0,reproducido,D04,p.1 y p.7,,H1
+mediana_IC95_inferior,SLP,placebo,7.4,7.255989873965939,-0.14401012603406116,meses,,no evaluable,D04,p.1 y p.7,"IC log-log Greenwood, informativo; NR=inf",informativo
+mediana_IC95_superior,SLP,placebo,12.9,12.938787440020542,0.03878744002054191,meses,,no evaluable,D04,p.1 y p.7,"IC log-log Greenwood, informativo; NR=inf",informativo
+S_18,SLP,placebo,0.361,0.3609572028683628,-4.279713163718446e-05,probabilidad,0.02,reproducido,D04,p.7,,H1
+extraida_S_18,SLP,placebo,0.361,0.36074978534759594,-0.00025021465240404606,probabilidad,0.02,reproducido,D04,p.7,Comprobación de extracción; no independiente de figura,extraccion
+S_18_IC95_inferior,SLP,placebo,0.299,0.2998312364055201,0.0008312364055201305,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_18_IC95_superior,SLP,placebo,0.42200000000000004,0.42230153019535516,0.00030153019535511527,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_24,SLP,placebo,0.342,0.34261996775218123,0.0006199677521812053,probabilidad,0.02,reproducido,D04,p.7,,H1
+extraida_S_24,SLP,placebo,0.342,0.3423290580237506,0.00032905802375055027,probabilidad,0.02,reproducido,D04,p.7,Comprobación de extracción; no independiente de figura,extraccion
+S_24_IC95_inferior,SLP,placebo,0.282,0.2823187509462861,0.0003187509462861393,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+S_24_IC95_superior,SLP,placebo,0.40299999999999997,0.40366112457487513,0.0006611245748751604,probabilidad,,no evaluable,D04,p.7,IC log-log Greenwood; sin tolerancia contractual,informativo
+riesgo_0,SLP,placebo,266.0,266.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_3,SLP,placebo,208.0,208.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_6,SLP,placebo,146.0,146.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_9,SLP,placebo,122.0,122.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_12,SLP,placebo,100.0,100.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_15,SLP,placebo,88.0,88.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_18,SLP,placebo,79.0,79.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_21,SLP,placebo,76.0,76.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_24,SLP,placebo,71.0,71.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_27,SLP,placebo,69.0,69.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_30,SLP,placebo,47.0,47.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_33,SLP,placebo,47.0,47.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_36,SLP,placebo,34.0,34.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_39,SLP,placebo,23.0,23.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_42,SLP,placebo,22.0,22.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_45,SLP,placebo,15.0,15.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_48,SLP,placebo,14.0,14.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_51,SLP,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_54,SLP,placebo,5.0,5.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_57,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_60,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+riesgo_63,SLP,placebo,0.0,0.0,0.0,pacientes,,reproducido,D04,Fig. 2A p.8; ficha §4.4,Restricción de entrada; riesgo inmediatamente antes del tiempo,riesgo
+HR,SG,D vs P,0.73,0.730260385238059,0.00026038523805904656,razón,0.03,reproducido,D04,p.1 y p.7; Fig. 1B,Cox no estratificado; forest no aclara inequívocamente ajuste,H1
+HR_IC95_inferior,SG,D vs P,0.57,0.5718937361844981,0.0018937361844981737,razón,,no evaluable,D04,"Fig. 1B, PDF p.6","Informativo, sin tolerancia",informativo
+HR_IC95_superior,SG,D vs P,0.93,0.9324813273982028,0.002481327398202726,razón,,no evaluable,D04,"Fig. 1B, PDF p.6","Informativo, sin tolerancia",informativo
+PH_p_rank,SG,D vs P,0.91,0.9449670190595125,0.034967019059512494,p,,no evaluable,D04,leyenda de la Fig. 1 p.7,Schoenfeld rank no estratificado; no necesariamente mismo contraste publicado,informativo
+HR,SLP,D vs P,0.76,0.7701925523487273,0.01019255234872729,razón,0.03,reproducido,D04,p.1 y p.7; Fig. 2B,Cox no estratificado; forest no aclara inequívocamente ajuste,H1
+HR_IC95_inferior,SLP,D vs P,0.61,0.6155457071355227,0.005545707135522715,razón,,no evaluable,D04,"Fig. 2B, PDF p.8","Informativo, sin tolerancia",informativo
+HR_IC95_superior,SLP,D vs P,0.95,0.9636921528604614,0.013692152860461437,razón,,no evaluable,D04,"Fig. 2B, PDF p.8","Informativo, sin tolerancia",informativo
+PH_p_rank,SLP,D vs P,0.79,0.8522201569346217,0.062220156934621684,p,,no evaluable,D04,leyenda de la Fig. 2 p.9,Schoenfeld rank no estratificado; no necesariamente mismo contraste publicado,informativo

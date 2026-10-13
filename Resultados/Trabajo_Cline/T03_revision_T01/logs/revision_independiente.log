@@ -1,0 +1,120 @@
+﻿{
+  "alternativas": {
+    "directa": {
+      "n": 88,
+      "error_mediana": 228.18768855146112,
+      "error_p90": 200388.3054214064,
+      "error_max": 10021848.945835907,
+      "signos": 88,
+      "rangos": 8,
+      "tolerancia_signo": 0,
+      "tolerancia_signo_rango": 0,
+      "redondeo_3cs": 0
+    },
+    "alfa_div_100": {
+      "n": 88,
+      "error_mediana": 0.0006826815974352147,
+      "error_p90": 0.002208416958899206,
+      "error_max": 0.004494017275519015,
+      "signos": 88,
+      "rangos": 88,
+      "tolerancia_signo": 88,
+      "tolerancia_signo_rango": 88,
+      "redondeo_3cs": 88
+    },
+    "por_alfa": {
+      "n": 88,
+      "error_mediana": 98.9964419348889,
+      "error_p90": 99.15058708018738,
+      "error_max": 99.3072674719745,
+      "signos": 88,
+      "rangos": 88,
+      "tolerancia_signo": 0,
+      "tolerancia_signo_rango": 0,
+      "redondeo_3cs": 0
+    },
+    "div_100": {
+      "n": 88,
+      "error_mediana": 1.3550894145258903,
+      "error_p90": 2002.8930542140643,
+      "error_max": 100217.49945835909,
+      "signos": 88,
+      "rangos": 8,
+      "tolerancia_signo": 12,
+      "tolerancia_signo_rango": 2,
+      "redondeo_3cs": 12
+    },
+    "alfa_otro_paciente_div_100": {
+      "n": 88,
+      "error_mediana": 0.0015829416859233308,
+      "error_p90": 8.545347981958601,
+      "error_max": 199.38652368264104,
+      "signos": 88,
+      "rangos": 25,
+      "tolerancia_signo": 56,
+      "tolerancia_signo_rango": 21,
+      "redondeo_3cs": 56
+    },
+    "alfa_tabla1_div_100": {
+      "n": 88,
+      "error_mediana": 0.0012763237064305748,
+      "error_p90": 0.0058090213592692595,
+      "error_max": 0.018121748992743745,
+      "signos": 88,
+      "rangos": 88,
+      "tolerancia_signo": 88,
+      "tolerancia_signo_rango": 88,
+      "redondeo_3cs": 74
+    },
+    "alfa_div_101": {
+      "n": 88,
+      "error_mediana": 0.00993621846644652,
+      "error_p90": 0.01185656486405236,
+      "error_max": 0.014350512153979202,
+      "signos": 88,
+      "rangos": 88,
+      "tolerancia_signo": 88,
+      "tolerancia_signo_rango": 88,
+      "redondeo_3cs": 0
+    }
+  },
+  "transcripcion_valores": 88,
+  "transcripcion_rangos": 88,
+  "vectores_log": {
+    "P1": 11,
+    "P2": 11
+  },
+  "parametros_no_preservados": {
+    "P1": {},
+    "P2": {
+      "MED_mas": {
+        "base": 143600,
+        "perturbaciones": 146000
+      },
+      "MED_tim": {
+        "base": 22.0,
+        "perturbaciones": 26.7
+      },
+      "MED_dos": {
+        "base": 0.2,
+        "perturbaciones": 0.24
+      }
+    }
+  },
+  "coherencia_T01": {
+    "tabla2_resumen.json": true,
+    "tabla2_diag_escala_resumen.json": true
+  },
+  "pk_extremos_cumplen": 3,
+  "pk_extremos_total": 6,
+  "sha256_entradas": {
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\03_registro_busquedas\\MBE_2023_Wagner_texto_extraido.txt": "1ec0e9e910ba68f043c35f3100d667480317a2d12c4bee2d15409247da031c3c",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Claude\\T01_phasefield\\logs\\tabla2_original_20261012T035307Z.log": "ef4dedb206260402118db3faf856eef0c90a032b61588fe73db7c435f139f457",
+    "C:\\Users\\Administrador\\OneDrive - bisionconsulting.com\\Documentos\\Paper_Cancer\\Resultados\\Trabajo_Claude\\T01_phasefield\\data_derived\\tabla2_publicada.csv": "55064268e993b6dbf19c8ab4e90e5cd1842e13fd704c126093b4a385e08e1232",
+    "C:\\Users\\Administrador\\PaperCancer_env\\repos\\immunotherapy-lung-cancer-fa8e6229d1540d33014a994f1ea309d6525597aa\\reduced_models\\parameters.py": "d4db2adf63524f0d04dc098e5d7ea3c0a7a6a7176973bd649df92c13ac1b4211",
+    "C:\\Users\\Administrador\\PaperCancer_env\\repos\\immunotherapy-lung-cancer-fa8e6229d1540d33014a994f1ea309d6525597aa\\reduced_models\\local_sensitivity_analysis.py": "e44eb9a974c0b8584b0f6922ee60d5b21cc0c0b9cb988d94f53dafbb5f96b3a8"
+  },
+  "limitacion": "No simulaciones; no se identifica causalmente el postprocesado historico."
+}
+VALIDACION: todas las aserciones superadas; 88 valores y 88 rangos contrastados.
+exit_code=0

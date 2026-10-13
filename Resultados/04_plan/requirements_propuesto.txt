@@ -1,0 +1,14 @@
+# Entorno PROPUESTO para la fase de ejecución (no instalado todavía).
+# Las versiones exactas se fijarán (pip freeze / conda env export) al crear el entorno en F0.
+# Python 3.10 (disponible en el equipo)
+numpy==1.26.4        # versión presente en el sistema
+scipy==1.11.4        # versión presente en el sistema
+pandas
+matplotlib
+pyyaml
+pymupdf              # extracción vectorial de curvas KM (E2) y de la Fig. 6 (E3)
+scikit-fem           # opcional: reimplementación FEM 1D independiente (E1.3)
+lifelines            # E2: KM, Cox, paramétricos, splines, curación mixta, RMST
+# E1 (código original de los autores): contenedor con FEniCS 2019.1.0 (dolfin legado),
+# requisito declarado en el README de github.com/wagnandr/immunotherapy-lung-cancer
+# (fenics stack 2019.1.0, numpy, scipy, matplotlib, PyWavefront 1.3.3).

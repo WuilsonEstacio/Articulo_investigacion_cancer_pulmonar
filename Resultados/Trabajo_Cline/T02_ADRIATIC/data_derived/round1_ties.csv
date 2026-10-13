@@ -1,0 +1,9 @@
+version,endpoint,arm,plateaus,events,max_tie,distinct_event_times,distinct_all_times,times_with_at_least_5
+original,SG,durvalumab,73,115,5,72,221,1
+original,SG,placebo,81,146,6,80,200,4
+original,SLP,durvalumab,45,140,31,40,161,6
+original,SLP,placebo,50,169,34,49,142,5
+corregido,SG,durvalumab,109,115,3,108,257,0
+corregido,SG,placebo,133,146,2,132,252,0
+corregido,SLP,durvalumab,90,140,6,88,209,5
+corregido,SLP,placebo,101,170,9,100,192,4

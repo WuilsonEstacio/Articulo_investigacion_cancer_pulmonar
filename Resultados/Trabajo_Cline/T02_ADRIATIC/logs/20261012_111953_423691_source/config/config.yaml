@@ -1,0 +1,31 @@
+contract_version: '1.0'
+project_root: 'C:\Users\Administrador\OneDrive - bisionconsulting.com\Documentos\Paper_Cancer'
+python: 'C:\Users\Administrador\PaperCancer_env\venv_cline_T02\Scripts\python.exe'
+pdf_relative: 'Data_insumo/Durvalumab-after-Chemoradiotherapy-in-Limited-Stage-Small-Cell-Lung-Cancer.pdf'
+inputs_relative: 'Resultados/04_plan/tabla_insumos_E2_ADRIATIC.csv'
+pages: {SG: 6, SLP: 8}
+colors:
+  durvalumab: [0.89, 0.62, 0.25]
+  placebo: [0.36, 0.53, 0.77]
+color_tolerance: 0.035
+seed: 20261010
+replicates: 100
+grid_months: 0.1
+tolerances:
+  events_relative: 0.03
+  milestone_probability: 0.02
+  hr_absolute: 0.03
+  median_months: 1.0
+  median_sg_durvalumab_months: 3.0
+threads: 1
+simulation:
+  category_edges_months: [0, 6, 12, 24, 36, 48, 61]
+  event_mass:
+    SG_durvalumab: [0.03, 0.14, 0.15, 0.12, 0.10, 0.08]
+    SG_placebo: [0.05, 0.19, 0.18, 0.16, 0.10, 0.08]
+    SLP_durvalumab: [0.32, 0.18, 0.12, 0.06, 0.03, 0.02]
+    SLP_placebo: [0.42, 0.20, 0.10, 0.05, 0.03, 0.02]
+  administrative_censor_months: [24, 61]
+  early_loss_probability: 0.05
+  early_loss_months: [0, 24]
+  event_jitter_months: 0.2

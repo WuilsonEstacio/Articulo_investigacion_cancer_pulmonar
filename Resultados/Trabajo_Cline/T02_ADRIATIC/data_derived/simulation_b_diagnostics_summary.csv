@@ -1,0 +1,5 @@
+endpoint,arm,reconstructions,max_risk_error,mean_risk_error,max_tie,true_max_tie,extraction_max_absolute,extraction_mean_absolute
+SG,durvalumab,100,0,0.0,3,1,0.0074906237091022,2.228869392188199e-07
+SG,placebo,100,0,0.0,2,1,0.0038203371787465,1.6251644679922207e-07
+SLP,durvalumab,100,0,0.0,2,1,0.0037878670376656,1.5925160170086654e-07
+SLP,placebo,100,0,0.0,2,1,3.0373297255081866e-07,1.005316244764449e-07
